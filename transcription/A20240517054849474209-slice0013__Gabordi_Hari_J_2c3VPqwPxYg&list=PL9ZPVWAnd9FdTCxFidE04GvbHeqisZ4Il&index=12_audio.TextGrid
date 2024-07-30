@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 12.7
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 12.7
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.77
+			text = "0"
+		intervals [2]:
+			xmin = 1.77
+			xmax = 5.9
+			text = ""
+		intervals [3]:
+			xmin = 5.9
+			xmax = 7.78
+			text = "0"
+		intervals [4]:
+			xmin = 7.78
+			xmax = 9.64
+			text = ""
+		intervals [5]:
+			xmin = 9.64
+			xmax = 12.7
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 12.7
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.77
+			text = "0"
+		intervals [2]:
+			xmin = 1.77
+			xmax = 5.9
+			text = "Nokhale pilala phano maichwlam saina chati nangwanw phidi."
+		intervals [3]:
+			xmin = 5.9
+			xmax = 7.78
+			text = "0"
+		intervals [4]:
+			xmin = 7.78
+			xmax = 9.64
+			text = "gwndwkle tanibo hor kwrwi."
+		intervals [5]:
+			xmin = 9.64
+			xmax = 12.7
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 12.7
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.77
+			text = "0"
+		intervals [2]:
+			xmin = 1.77
+			xmax = 5.9
+			text = ""
+		intervals [3]:
+			xmin = 5.9
+			xmax = 7.78
+			text = "0"
+		intervals [4]:
+			xmin = 7.78
+			xmax = 9.64
+			text = ""
+		intervals [5]:
+			xmin = 9.64
+			xmax = 12.7
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 12.7
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.77
+			text = "0"
+		intervals [2]:
+			xmin = 1.77
+			xmax = 5.9
+			text = ""
+		intervals [3]:
+			xmin = 5.9
+			xmax = 7.78
+			text = "0"
+		intervals [4]:
+			xmin = 7.78
+			xmax = 9.64
+			text = ""
+		intervals [5]:
+			xmin = 9.64
+			xmax = 12.7
+			text = "0"

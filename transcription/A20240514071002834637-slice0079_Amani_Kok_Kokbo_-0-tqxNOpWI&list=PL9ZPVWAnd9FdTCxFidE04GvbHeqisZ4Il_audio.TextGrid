@@ -1,0 +1,400 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 118.9
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 118.9
+		intervals: size = 23
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.22
+			text = "0"
+		intervals [2]:
+			xmin = 1.22
+			xmax = 6.19
+			text = ""
+		intervals [3]:
+			xmin = 6.19
+			xmax = 6.21
+			text = "0"
+		intervals [4]:
+			xmin = 6.21
+			xmax = 22.55
+			text = ""
+		intervals [5]:
+			xmin = 22.55
+			xmax = 22.76
+			text = "0"
+		intervals [6]:
+			xmin = 22.76
+			xmax = 41.79
+			text = ""
+		intervals [7]:
+			xmin = 41.79
+			xmax = 41.81
+			text = "0"
+		intervals [8]:
+			xmin = 41.81
+			xmax = 53.8
+			text = ""
+		intervals [9]:
+			xmin = 53.8
+			xmax = 53.9
+			text = "0"
+		intervals [10]:
+			xmin = 53.9
+			xmax = 66.45
+			text = ""
+		intervals [11]:
+			xmin = 66.45
+			xmax = 66.5
+			text = "0"
+		intervals [12]:
+			xmin = 66.5
+			xmax = 75.4
+			text = ""
+		intervals [13]:
+			xmin = 75.4
+			xmax = 76.45
+			text = "0"
+		intervals [14]:
+			xmin = 76.45
+			xmax = 85.5
+			text = ""
+		intervals [15]:
+			xmin = 85.5
+			xmax = 85.79
+			text = "0"
+		intervals [16]:
+			xmin = 85.79
+			xmax = 90.6
+			text = ""
+		intervals [17]:
+			xmin = 90.6
+			xmax = 90.8
+			text = "0"
+		intervals [18]:
+			xmin = 90.8
+			xmax = 97.76
+			text = ""
+		intervals [19]:
+			xmin = 97.76
+			xmax = 97.8
+			text = "0"
+		intervals [20]:
+			xmin = 97.8
+			xmax = 102.25
+			text = ""
+		intervals [21]:
+			xmin = 102.25
+			xmax = 102.45
+			text = "0"
+		intervals [22]:
+			xmin = 102.45
+			xmax = 118.7
+			text = ""
+		intervals [23]:
+			xmin = 118.7
+			xmax = 118.9
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 118.9
+		intervals: size = 23
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.22
+			text = "0"
+		intervals [2]:
+			xmin = 1.22
+			xmax = 6.19
+			text = "bipot apot no bhasharog abo sudu saimar bole kunu kok kwrwi"
+		intervals [3]:
+			xmin = 6.19
+			xmax = 6.21
+			text = "0"
+		intervals [4]:
+			xmin = 6.21
+			xmax = 22.55
+			text = "prithibi tabuk, tabukni je gotiprokriti nugwi tongo buibo, linguistics lama bahai khe kai tong abo prithibi kaisa bhashani bwkhak thangwi tongo abo wngkha ingreji"
+		intervals [5]:
+			xmin = 22.55
+			xmax = 22.76
+			text = "0"
+		intervals [6]:
+			xmin = 22.76
+			xmax = 41.79
+			text = "ingreji emon amohai kaisa kok wngwi thangkha abo kwrwi khe wngliya,international communication ni bagwi nai sahitya sonskriti jesa phano wngthwng, itihas abo, studies abo jesa phano wngthwng, kintu ingreji kwrwi khe prithibi tabuk chole liya jagao sogwi tongwikha bhasha a jagao."
+		intervals [7]:
+			xmin = 41.79
+			xmax = 41.81
+			text = "0"
+		intervals [8]:
+			xmin = 41.81
+			xmax = 53.8
+			text = "na amole ungsukya da nondo tambagwi hwnkai ang kisa differ khlaina muchungo aro, english one of the major internatinal language no doubt"
+		intervals [9]:
+			xmin = 53.8
+			xmax = 53.9
+			text = "0"
+		intervals [10]:
+			xmin = 53.9
+			xmax = 66.45
+			text = "phiyaba englishni ganagini tabok french bai kok sanairog bo bango, ha kaisaya almost twenty three countries tongo french kok bai kok sao"
+		intervals [11]:
+			xmin = 66.45
+			xmax = 66.5
+			text = "0"
+		intervals [12]:
+			xmin = 66.5
+			xmax = 75.4
+			text = "hwnkhei chinese mandarin language jeswk bo saichungse above hundred crore kawi tongwio hwnkakhe kok sanai"
+		intervals [13]:
+			xmin = 75.4
+			xmax = 76.45
+			text = "0"
+		intervals [14]:
+			xmin = 76.45
+			xmax = 85.5
+			text = "one language abo ungwi maya tambagwi hwnkhe geographical barrier jeta tongo, tai tabuk bibinno hakotorrog chwng jeta nugwi tongo"
+		intervals [15]:
+			xmin = 85.5
+			xmax = 85.79
+			text = "0"
+		intervals [16]:
+			xmin = 85.79
+			xmax = 90.6
+			text = "japano, japano bongni entire education system japanese language baino khwlaijagwi tongo."
+		intervals [17]:
+			xmin = 90.6
+			xmax = 90.8
+			text = "0"
+		intervals [18]:
+			xmin = 90.8
+			xmax = 97.76
+			text = "china o bo haino, france o bo haino, hwnkai south korea north korea o bo haino."
+		intervals [19]:
+			xmin = 97.76
+			xmax = 97.8
+			text = "0"
+		intervals [20]:
+			xmin = 97.8
+			xmax = 102.25
+			text = "sudu chwug jeta thaisingo salaimani hwnkakhei je"
+		intervals [21]:
+			xmin = 102.25
+			xmax = 102.45
+			text = "0"
+		intervals [22]:
+			xmin = 102.45
+			xmax = 118.7
+			text = "hayung sakao kaisa jorao tini simi romdi two hundred years ba three hundred years jokhon colonization ni je jora tongmani , o colonization ni jorao british colonialni saijya jotoni kotorkuk tongmani."
+		intervals [23]:
+			xmin = 118.7
+			xmax = 118.9
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 118.9
+		intervals: size = 23
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.22
+			text = "0"
+		intervals [2]:
+			xmin = 1.22
+			xmax = 6.19
+			text = ""
+		intervals [3]:
+			xmin = 6.19
+			xmax = 6.21
+			text = "0"
+		intervals [4]:
+			xmin = 6.21
+			xmax = 22.55
+			text = ""
+		intervals [5]:
+			xmin = 22.55
+			xmax = 22.76
+			text = "0"
+		intervals [6]:
+			xmin = 22.76
+			xmax = 41.79
+			text = ""
+		intervals [7]:
+			xmin = 41.79
+			xmax = 41.81
+			text = "0"
+		intervals [8]:
+			xmin = 41.81
+			xmax = 53.8
+			text = ""
+		intervals [9]:
+			xmin = 53.8
+			xmax = 53.9
+			text = "0"
+		intervals [10]:
+			xmin = 53.9
+			xmax = 66.45
+			text = ""
+		intervals [11]:
+			xmin = 66.45
+			xmax = 66.5
+			text = "0"
+		intervals [12]:
+			xmin = 66.5
+			xmax = 75.4
+			text = ""
+		intervals [13]:
+			xmin = 75.4
+			xmax = 76.45
+			text = "0"
+		intervals [14]:
+			xmin = 76.45
+			xmax = 85.5
+			text = ""
+		intervals [15]:
+			xmin = 85.5
+			xmax = 85.79
+			text = "0"
+		intervals [16]:
+			xmin = 85.79
+			xmax = 90.6
+			text = ""
+		intervals [17]:
+			xmin = 90.6
+			xmax = 90.8
+			text = "0"
+		intervals [18]:
+			xmin = 90.8
+			xmax = 97.76
+			text = ""
+		intervals [19]:
+			xmin = 97.76
+			xmax = 97.8
+			text = "0"
+		intervals [20]:
+			xmin = 97.8
+			xmax = 102.25
+			text = ""
+		intervals [21]:
+			xmin = 102.25
+			xmax = 102.45
+			text = "0"
+		intervals [22]:
+			xmin = 102.45
+			xmax = 118.7
+			text = ""
+		intervals [23]:
+			xmin = 118.7
+			xmax = 118.9
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 118.9
+		intervals: size = 23
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.22
+			text = "0"
+		intervals [2]:
+			xmin = 1.22
+			xmax = 6.19
+			text = ""
+		intervals [3]:
+			xmin = 6.19
+			xmax = 6.21
+			text = "0"
+		intervals [4]:
+			xmin = 6.21
+			xmax = 22.55
+			text = ""
+		intervals [5]:
+			xmin = 22.55
+			xmax = 22.76
+			text = "0"
+		intervals [6]:
+			xmin = 22.76
+			xmax = 41.79
+			text = ""
+		intervals [7]:
+			xmin = 41.79
+			xmax = 41.81
+			text = "0"
+		intervals [8]:
+			xmin = 41.81
+			xmax = 53.8
+			text = ""
+		intervals [9]:
+			xmin = 53.8
+			xmax = 53.9
+			text = "0"
+		intervals [10]:
+			xmin = 53.9
+			xmax = 66.45
+			text = ""
+		intervals [11]:
+			xmin = 66.45
+			xmax = 66.5
+			text = "0"
+		intervals [12]:
+			xmin = 66.5
+			xmax = 75.4
+			text = ""
+		intervals [13]:
+			xmin = 75.4
+			xmax = 76.45
+			text = "0"
+		intervals [14]:
+			xmin = 76.45
+			xmax = 85.5
+			text = ""
+		intervals [15]:
+			xmin = 85.5
+			xmax = 85.79
+			text = "0"
+		intervals [16]:
+			xmin = 85.79
+			xmax = 90.6
+			text = ""
+		intervals [17]:
+			xmin = 90.6
+			xmax = 90.8
+			text = "0"
+		intervals [18]:
+			xmin = 90.8
+			xmax = 97.76
+			text = ""
+		intervals [19]:
+			xmin = 97.76
+			xmax = 97.8
+			text = "0"
+		intervals [20]:
+			xmin = 97.8
+			xmax = 102.25
+			text = ""
+		intervals [21]:
+			xmin = 102.25
+			xmax = 102.45
+			text = "0"
+		intervals [22]:
+			xmin = 102.45
+			xmax = 118.7
+			text = ""
+		intervals [23]:
+			xmin = 118.7
+			xmax = 118.9
+			text = "0"

@@ -1,0 +1,144 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 37.3
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 37.3
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.65
+			text = "0"
+		intervals [2]:
+			xmin = 0.65
+			xmax = 4.25
+			text = ""
+		intervals [3]:
+			xmin = 4.25
+			xmax = 5.24
+			text = "0"
+		intervals [4]:
+			xmin = 5.24
+			xmax = 21.95
+			text = ""
+		intervals [5]:
+			xmin = 21.95
+			xmax = 22.02
+			text = "0"
+		intervals [6]:
+			xmin = 22.02
+			xmax = 36.91
+			text = ""
+		intervals [7]:
+			xmin = 36.91
+			xmax = 37.3
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 37.3
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.65
+			text = "0"
+		intervals [2]:
+			xmin = 0.65
+			xmax = 4.25
+			text = "hamya hwnwi kwrwi hamnai, chesta  ma nanai."
+		intervals [3]:
+			xmin = 4.25
+			xmax = 5.24
+			text = "0"
+		intervals [4]:
+			xmin = 5.24
+			xmax = 21.95
+			text = "tabukto omtwi,chikitsani bo onek jaga jaga agito oro kwrwi phano ayang hachal hachal guhatirogo ba hachalrogo tongo, buini  hasteo, tabuk chini oro bo khulukjak tongo, hamnani bagwi bithi charinani jaga amtwirog tongo."
+		intervals [5]:
+			xmin = 21.95
+			xmax = 22.02
+			text = "0"
+		intervals [6]:
+			xmin = 22.02
+			xmax = 36.91
+			text = "arorogo thang khaino hamnai, hamya hwnwi kwrwi, ta wana bai di je cherai chanairog phano,norogni bagwi chwngbo mwtairogno surilai tongo,norokbo hamnai ma hamnai, norok bwkhase ma raknai."
+		intervals [7]:
+			xmin = 36.91
+			xmax = 37.3
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 37.3
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.65
+			text = "0"
+		intervals [2]:
+			xmin = 0.65
+			xmax = 4.25
+			text = ""
+		intervals [3]:
+			xmin = 4.25
+			xmax = 5.24
+			text = "0"
+		intervals [4]:
+			xmin = 5.24
+			xmax = 21.95
+			text = ""
+		intervals [5]:
+			xmin = 21.95
+			xmax = 22.02
+			text = "0"
+		intervals [6]:
+			xmin = 22.02
+			xmax = 36.91
+			text = ""
+		intervals [7]:
+			xmin = 36.91
+			xmax = 37.3
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 37.3
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.65
+			text = "0"
+		intervals [2]:
+			xmin = 0.65
+			xmax = 4.25
+			text = ""
+		intervals [3]:
+			xmin = 4.25
+			xmax = 5.24
+			text = "0"
+		intervals [4]:
+			xmin = 5.24
+			xmax = 21.95
+			text = ""
+		intervals [5]:
+			xmin = 21.95
+			xmax = 22.02
+			text = "0"
+		intervals [6]:
+			xmin = 22.02
+			xmax = 36.91
+			text = ""
+		intervals [7]:
+			xmin = 36.91
+			xmax = 37.3
+			text = "0"

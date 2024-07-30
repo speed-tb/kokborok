@@ -1,0 +1,96 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 14.7
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 14.7
+		intervals: size = 4
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.38
+			text = "0"
+		intervals [2]:
+			xmin = 1.38
+			xmax = 6.51
+			text = ""
+		intervals [3]:
+			xmin = 6.51
+			xmax = 12.11
+			text = ""
+		intervals [4]:
+			xmin = 12.11
+			xmax = 14.7
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 14.7
+		intervals: size = 4
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.38
+			text = "0"
+		intervals [2]:
+			xmin = 1.38
+			xmax = 6.51
+			text = ""
+		intervals [3]:
+			xmin = 6.51
+			xmax = 12.11
+			text = ""
+		intervals [4]:
+			xmin = 12.11
+			xmax = 14.7
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 14.7
+		intervals: size = 4
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.38
+			text = "0"
+		intervals [2]:
+			xmin = 1.38
+			xmax = 6.51
+			text = "Aigeni riti aigeni biti tongkho."
+		intervals [3]:
+			xmin = 6.51
+			xmax = 12.11
+			text = "pubgala sal pao posim sal thango aigeni riti aigeni biti tongkho."
+		intervals [4]:
+			xmin = 12.11
+			xmax = 14.7
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 14.7
+		intervals: size = 4
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.38
+			text = "0"
+		intervals [2]:
+			xmin = 1.38
+			xmax = 6.51
+			text = ""
+		intervals [3]:
+			xmin = 6.51
+			xmax = 12.11
+			text = ""
+		intervals [4]:
+			xmin = 12.11
+			xmax = 14.7
+			text = "0"

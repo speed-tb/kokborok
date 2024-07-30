@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 12.1
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 12.1
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.82
+			text = "0"
+		intervals [2]:
+			xmin = 0.82
+			xmax = 11.09
+			text = ""
+		intervals [3]:
+			xmin = 11.09
+			xmax = 12.1
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 12.1
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.82
+			text = "0"
+		intervals [2]:
+			xmin = 0.82
+			xmax = 11.09
+			text = "tang batai chini chuchu bora rachirog, tang batai tangwi, borog tongthok khe chai thangkha. Chini ek somoio sixty, sixty wngkorogni pore,"
+		intervals [3]:
+			xmin = 11.09
+			xmax = 12.1
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 12.1
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.82
+			text = "0"
+		intervals [2]:
+			xmin = 0.82
+			xmax = 11.09
+			text = ""
+		intervals [3]:
+			xmin = 11.09
+			xmax = 12.1
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 12.1
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.82
+			text = "0"
+		intervals [2]:
+			xmin = 0.82
+			xmax = 11.09
+			text = ""
+		intervals [3]:
+			xmin = 11.09
+			xmax = 12.1
+			text = "0"

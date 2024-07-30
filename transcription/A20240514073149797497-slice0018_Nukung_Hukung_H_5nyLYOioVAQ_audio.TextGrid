@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 98.1
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 98.1
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 27.11
+			text = "0"
+		intervals [2]:
+			xmin = 27.11
+			xmax = 52.41
+			text = ""
+		intervals [3]:
+			xmin = 52.41
+			xmax = 52.58
+			text = "0"
+		intervals [4]:
+			xmin = 52.58
+			xmax = 95.0
+			text = ""
+		intervals [5]:
+			xmin = 95.0
+			xmax = 98.1
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 98.1
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 27.11
+			text = "0"
+		intervals [2]:
+			xmin = 27.11
+			xmax = 52.41
+			text = "Kicha koksalai nagranw nwngbai,nini mung tamsi wngkhamung? Josuda rani Jamatia. Nini omono je nukmani aboto chwng agi wngko khwtwng dulmani abono kisa muito mano. Gandhiji chini barot ha kotoro, chwng nukha omo hai chorkha bai khwlaiwi khutung dulmani, khwtwng snam mani, khul l upmani ta."
+		intervals [3]:
+			xmin = 52.41
+			xmax = 52.58
+			text = "0"
+		intervals [4]:
+			xmin = 52.58
+			xmax = 95.0
+			text = "Hwnkai oro chwng tei kisa juda khe tabok nugo. Wngko Mesin no omo, aro khutung dulo,o natairog age chwng nukha, baksa obono ruwang bo hino haiyade ba na? Chwng khe Ruwang ho w. Wngkhe baksa khe natai hino.Obole chini takborok chwng ri tak phroni abohai, obono khe bobin hino na? Hwnkhe o bobin bai khe omo hai khe dul dulwi obo u jaga twlangnai tei kaisa mesino talangnai na? Oro da w. Hwnke aboni ulo hwnkai teisa tei kaisa jaga twlangwi, teisa kotor khei obono dulo. Nwng obono kisa khwlai phunugadi chwng naigrana."
+		intervals [5]:
+			xmin = 95.0
+			xmax = 98.1
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 98.1
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 27.11
+			text = "0"
+		intervals [2]:
+			xmin = 27.11
+			xmax = 52.41
+			text = ""
+		intervals [3]:
+			xmin = 52.41
+			xmax = 52.58
+			text = "0"
+		intervals [4]:
+			xmin = 52.58
+			xmax = 95.0
+			text = ""
+		intervals [5]:
+			xmin = 95.0
+			xmax = 98.1
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 98.1
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 27.11
+			text = "0"
+		intervals [2]:
+			xmin = 27.11
+			xmax = 52.41
+			text = ""
+		intervals [3]:
+			xmin = 52.41
+			xmax = 52.58
+			text = "0"
+		intervals [4]:
+			xmin = 52.58
+			xmax = 95.0
+			text = ""
+		intervals [5]:
+			xmin = 95.0
+			xmax = 98.1
+			text = "0"

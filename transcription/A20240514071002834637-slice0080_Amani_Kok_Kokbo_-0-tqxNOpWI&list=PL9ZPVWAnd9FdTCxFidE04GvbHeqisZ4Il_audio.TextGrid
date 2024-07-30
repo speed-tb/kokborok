@@ -1,0 +1,160 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 33.0
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 33.0
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.84
+			text = "0"
+		intervals [2]:
+			xmin = 0.84
+			xmax = 15.84
+			text = ""
+		intervals [3]:
+			xmin = 15.84
+			xmax = 22.98
+			text = ""
+		intervals [4]:
+			xmin = 22.98
+			xmax = 23.1
+			text = "0"
+		intervals [5]:
+			xmin = 23.1
+			xmax = 30.77
+			text = ""
+		intervals [6]:
+			xmin = 30.77
+			xmax = 31.0
+			text = "0"
+		intervals [7]:
+			xmin = 31.0
+			xmax = 32.07
+			text = ""
+		intervals [8]:
+			xmin = 32.07
+			xmax = 33.0
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 33.0
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.84
+			text = "0"
+		intervals [2]:
+			xmin = 0.84
+			xmax = 15.84
+			text = "hwnkai british colony ni under o je deshrog je harog, hakotorog tongo, borog bisingo baksa baksa tabokbo gut khajagwi tongkho common wealth hwnwinai common wealth hinwi kaisa tamo hinai bono gut khawi o bisingo tongo."
+		intervals [3]:
+			xmin = 15.84
+			xmax = 22.98
+			text = "o jaga india tongo, pakistan tongo, srilanka tongo, bangla desh tongo, australia tongo, omtwi kwbangma country tongo."
+		intervals [4]:
+			xmin = 22.98
+			xmax = 23.1
+			text = "0"
+		intervals [5]:
+			xmin = 23.1
+			xmax = 30.77
+			text = "hwnke common wealthni je countryrog tongmani aro hwnkake to communication ni wngko to english"
+		intervals [6]:
+			xmin = 30.77
+			xmax = 31.0
+			text = "0"
+		intervals [7]:
+			xmin = 31.0
+			xmax = 32.07
+			text = "phiyaba"
+		intervals [8]:
+			xmin = 32.07
+			xmax = 33.0
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 33.0
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.84
+			text = "0"
+		intervals [2]:
+			xmin = 0.84
+			xmax = 15.84
+			text = ""
+		intervals [3]:
+			xmin = 15.84
+			xmax = 22.98
+			text = ""
+		intervals [4]:
+			xmin = 22.98
+			xmax = 23.1
+			text = "0"
+		intervals [5]:
+			xmin = 23.1
+			xmax = 30.77
+			text = ""
+		intervals [6]:
+			xmin = 30.77
+			xmax = 31.0
+			text = "0"
+		intervals [7]:
+			xmin = 31.0
+			xmax = 32.07
+			text = ""
+		intervals [8]:
+			xmin = 32.07
+			xmax = 33.0
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 33.0
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.84
+			text = "0"
+		intervals [2]:
+			xmin = 0.84
+			xmax = 15.84
+			text = ""
+		intervals [3]:
+			xmin = 15.84
+			xmax = 22.98
+			text = ""
+		intervals [4]:
+			xmin = 22.98
+			xmax = 23.1
+			text = "0"
+		intervals [5]:
+			xmin = 23.1
+			xmax = 30.77
+			text = ""
+		intervals [6]:
+			xmin = 30.77
+			xmax = 31.0
+			text = "0"
+		intervals [7]:
+			xmin = 31.0
+			xmax = 32.07
+			text = ""
+		intervals [8]:
+			xmin = 32.07
+			xmax = 33.0
+			text = "0"

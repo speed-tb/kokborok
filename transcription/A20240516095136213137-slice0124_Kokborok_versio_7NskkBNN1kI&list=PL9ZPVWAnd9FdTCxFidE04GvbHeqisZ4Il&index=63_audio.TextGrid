@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 21.4
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 21.4
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.83
+			text = "0"
+		intervals [2]:
+			xmin = 0.83
+			xmax = 19.94
+			text = ""
+		intervals [3]:
+			xmin = 19.94
+			xmax = 21.4
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 21.4
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.83
+			text = "0"
+		intervals [2]:
+			xmin = 0.83
+			xmax = 19.94
+			text = "Phiya ba abohai phanrogbo tongmani je, bathakyawi chini khao kha mithigwi bwchwlwi sarnani chaitokmung khlai tongmani.  Haktor bo jesa jora o bo a hamya naharmung no yakumu bai khe kiphil ri kha. Chwng bathakyawi sakni,"
+		intervals [3]:
+			xmin = 19.94
+			xmax = 21.4
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 21.4
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.83
+			text = "0"
+		intervals [2]:
+			xmin = 0.83
+			xmax = 19.94
+			text = ""
+		intervals [3]:
+			xmin = 19.94
+			xmax = 21.4
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 21.4
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.83
+			text = "0"
+		intervals [2]:
+			xmin = 0.83
+			xmax = 19.94
+			text = ""
+		intervals [3]:
+			xmin = 19.94
+			xmax = 21.4
+			text = "0"

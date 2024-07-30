@@ -1,0 +1,170 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 69.0
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Latin-gloss"
+		xmin = 0.0
+		xmax = 69.0
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.56
+			text = "0"
+		intervals [2]:
+			xmin = 0.56
+			xmax = 11.76
+			text = ""
+		intervals [3]:
+			xmin = 11.76
+			xmax = 12.53
+			text = "0"
+		intervals [4]:
+			xmin = 12.53
+			xmax = 22.82
+			text = ""
+		intervals [5]:
+			xmin = 22.82
+			xmax = 23.3
+			text = "0"
+		intervals [6]:
+			xmin = 23.3
+			xmax = 35.62
+			text = ""
+		intervals [7]:
+			xmin = 35.62
+			xmax = 35.68
+			text = "0"
+		intervals [8]:
+			xmin = 35.68
+			xmax = 44.51
+			text = ""
+		intervals [9]:
+			xmin = 44.51
+			xmax = 44.61
+			text = "0"
+		intervals [10]:
+			xmin = 44.61
+			xmax = 54.39
+			text = ""
+		intervals [11]:
+			xmin = 54.39
+			xmax = 69.0
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 69.0
+		intervals: size = 13
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.56
+			text = "0"
+		intervals [2]:
+			xmin = 0.56
+			xmax = 11.76
+			text = "Ha norom ma khalaio, hai khalaiwi nai, raksarwi tongri maya. Wngko omo hai khe yokhagwi ma rw ta. Wngkhe phat khe noromwi tongo wngkhe yarwng habo, wngkhe chaimano ta obo."
+		intervals [3]:
+			xmin = 11.76
+			xmax = 12.53
+			text = "0"
+		intervals [4]:
+			xmin = 12.53
+			xmax = 22.82
+			text = "Tamo bithirogle rwna nang? Oro bithi rwo SP rwo,muskhi rwo,hwnkhe potas bo kisa rwo, wngkhe DRP kisa rwo aswk no."
+		intervals [5]:
+			xmin = 22.82
+			xmax = 23.3
+			text = "0"
+		intervals [6]:
+			xmin = 23.3
+			xmax = 35.62
+			text = "Nwng je aswk kotorma,char, panj kani jagao khwlai tongmani sakarni phaising twi khe kuno sahaijorog da man? Maya kusphano maya, kuno sar-rog ba kuno ekta, kusphano maya phai simi semao nai thang phai kha maya."
+		intervals [7]:
+			xmin = 35.62
+			xmax = 35.68
+			text = "0"
+		intervals [8]:
+			xmin = 35.68
+			xmax = 44.51
+			text = "Taklai wngkhe naiphaiya kho? Naiphaiya kho ang sabo saholiya. Semao khe buro phaini phai naiphai? Jompui block ni. Jompui block ni hukbar bedekni borog phaiwi naiphaio na?"
+		intervals [9]:
+			xmin = 44.51
+			xmax = 44.61
+			text = "0"
+		intervals [10]:
+			xmin = 44.61
+			xmax = 54.39
+			text = "Ophicharog phainai, nai thang phai kha, iyuriya sar simi na phai di hwnwi sai kwlango ano. O semao khai iyuriya sar simi no naphai di hwnkha."
+		intervals [11]:
+			xmin = 54.39
+			xmax = 56.0
+			text = "0"
+		intervals [12]:
+			xmin = 56.0
+			xmax = 68.64
+			text = "Tabok je norok, nwng je khwlai tongmani mura sakao si hwnkhe, kubun jagarogo to kheto o se khwlaio hwnkha kei twirog luna nangya, nini oro mura o khe bahai khe twi lu?"
+		intervals [13]:
+			xmin = 68.64
+			xmax = 69.0
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 69.0
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.56
+			text = "0"
+		intervals [2]:
+			xmin = 0.56
+			xmax = 11.76
+			text = ""
+		intervals [3]:
+			xmin = 11.76
+			xmax = 69.0
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 69.0
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.56
+			text = "0"
+		intervals [2]:
+			xmin = 0.56
+			xmax = 11.76
+			text = ""
+		intervals [3]:
+			xmin = 11.76
+			xmax = 69.0
+			text = "0"
+	item [5]:
+		class = "IntervalTier"
+		name = "sentence-eng-Latn-translation"
+		xmin = 0.0
+		xmax = 69.0
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.56
+			text = "0"
+		intervals [2]:
+			xmin = 0.56
+			xmax = 11.76
+			text = ""
+		intervals [3]:
+			xmin = 11.76
+			xmax = 69.0
+			text = "0"

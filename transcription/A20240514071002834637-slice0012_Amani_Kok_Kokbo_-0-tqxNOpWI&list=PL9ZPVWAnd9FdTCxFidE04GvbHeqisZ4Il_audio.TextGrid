@@ -1,0 +1,208 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 44.5
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 44.5
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.56
+			text = "0"
+		intervals [2]:
+			xmin = 1.56
+			xmax = 4.68
+			text = ""
+		intervals [3]:
+			xmin = 4.68
+			xmax = 5.31
+			text = "0"
+		intervals [4]:
+			xmin = 5.31
+			xmax = 13.23
+			text = ""
+		intervals [5]:
+			xmin = 13.23
+			xmax = 14.56
+			text = "0"
+		intervals [6]:
+			xmin = 14.56
+			xmax = 22.41
+			text = ""
+		intervals [7]:
+			xmin = 22.41
+			xmax = 22.72
+			text = "0"
+		intervals [8]:
+			xmin = 22.72
+			xmax = 34.43
+			text = ""
+		intervals [9]:
+			xmin = 34.43
+			xmax = 34.55
+			text = "0"
+		intervals [10]:
+			xmin = 34.55
+			xmax = 42.9
+			text = ""
+		intervals [11]:
+			xmin = 42.9
+			xmax = 44.5
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 44.5
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.56
+			text = "0"
+		intervals [2]:
+			xmin = 1.56
+			xmax = 4.68
+			text = "toksa tokmilikrog bo khorang khwlaio."
+		intervals [3]:
+			xmin = 4.68
+			xmax = 5.31
+			text = "0"
+		intervals [4]:
+			xmin = 5.31
+			xmax = 13.23
+			text = "khorang bai borogbo kisa na kisa hoito salaio, communicate khwlaio,emotionrog communicate khwlailaio, rwchablaio."
+		intervals [5]:
+			xmin = 13.23
+			xmax = 14.56
+			text = "0"
+		intervals [6]:
+			xmin = 14.56
+			xmax = 22.41
+			text = "saruksa masa thwi khe bumasong kuthumwi kablaio, abo bhashani effects."
+		intervals [7]:
+			xmin = 22.41
+			xmax = 22.72
+			text = "0"
+		intervals [8]:
+			xmin = 22.72
+			xmax = 34.43
+			text = "wngkei a bhasha borokni thani a bhasha buphuruni simi swnamjak kha sabo swnam kha abono twiwi nai eto discussion gobesona khwlainani jaga hoito tabok kwrwi khana, jara elem kwrwngrog khwlai tongthwng."
+		intervals [9]:
+			xmin = 34.43
+			xmax = 34.55
+			text = "0"
+		intervals [10]:
+			xmin = 34.55
+			xmax = 42.9
+			text = "kintu matri bhasha dibosni tatporjo wngkha prithibini hayungni joto bhasha swklwkjak"
+		intervals [11]:
+			xmin = 42.9
+			xmax = 44.5
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 44.5
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.56
+			text = "0"
+		intervals [2]:
+			xmin = 1.56
+			xmax = 4.68
+			text = ""
+		intervals [3]:
+			xmin = 4.68
+			xmax = 5.31
+			text = "0"
+		intervals [4]:
+			xmin = 5.31
+			xmax = 13.23
+			text = ""
+		intervals [5]:
+			xmin = 13.23
+			xmax = 14.56
+			text = "0"
+		intervals [6]:
+			xmin = 14.56
+			xmax = 22.41
+			text = ""
+		intervals [7]:
+			xmin = 22.41
+			xmax = 22.72
+			text = "0"
+		intervals [8]:
+			xmin = 22.72
+			xmax = 34.43
+			text = ""
+		intervals [9]:
+			xmin = 34.43
+			xmax = 34.55
+			text = "0"
+		intervals [10]:
+			xmin = 34.55
+			xmax = 42.9
+			text = ""
+		intervals [11]:
+			xmin = 42.9
+			xmax = 44.5
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 44.5
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.56
+			text = "0"
+		intervals [2]:
+			xmin = 1.56
+			xmax = 4.68
+			text = ""
+		intervals [3]:
+			xmin = 4.68
+			xmax = 5.31
+			text = "0"
+		intervals [4]:
+			xmin = 5.31
+			xmax = 13.23
+			text = ""
+		intervals [5]:
+			xmin = 13.23
+			xmax = 14.56
+			text = "0"
+		intervals [6]:
+			xmin = 14.56
+			xmax = 22.41
+			text = ""
+		intervals [7]:
+			xmin = 22.41
+			xmax = 22.72
+			text = "0"
+		intervals [8]:
+			xmin = 22.72
+			xmax = 34.43
+			text = ""
+		intervals [9]:
+			xmin = 34.43
+			xmax = 34.55
+			text = "0"
+		intervals [10]:
+			xmin = 34.55
+			xmax = 42.9
+			text = ""
+		intervals [11]:
+			xmin = 42.9
+			xmax = 44.5
+			text = "0"

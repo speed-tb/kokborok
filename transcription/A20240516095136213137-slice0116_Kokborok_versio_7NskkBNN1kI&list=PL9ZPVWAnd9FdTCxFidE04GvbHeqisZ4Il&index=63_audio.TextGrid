@@ -1,0 +1,144 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 47.7
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 47.7
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 5.15
+			text = "0"
+		intervals [2]:
+			xmin = 5.15
+			xmax = 17.36
+			text = ""
+		intervals [3]:
+			xmin = 17.36
+			xmax = 17.45
+			text = "0"
+		intervals [4]:
+			xmin = 17.45
+			xmax = 31.13
+			text = ""
+		intervals [5]:
+			xmin = 31.13
+			xmax = 31.17
+			text = "0"
+		intervals [6]:
+			xmin = 31.17
+			xmax = 47.2
+			text = ""
+		intervals [7]:
+			xmin = 47.2
+			xmax = 47.7
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 47.7
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 5.15
+			text = "0"
+		intervals [2]:
+			xmin = 5.15
+			xmax = 17.36
+			text = "Chalaisong chwng tini chini kokmung, chini tongmung, baithangni samung bai, jephru bo a joto manwirogno swkangwi tlangna nangnai."
+		intervals [3]:
+			xmin = 17.36
+			xmax = 17.45
+			text = "0"
+		intervals [4]:
+			xmin = 17.45
+			xmax = 31.13
+			text = "Jerog chwngno thansa khlaio, je haktorni babaisa bwkhak tongwi tongnai lukurogni khao, kubuni babaisa tongnai lukurogni bagwi klaimung  tai sakni hwnwi hamjaknani wansukma achai rwo."
+		intervals [5]:
+			xmin = 31.13
+			xmax = 31.17
+			text = "0"
+		intervals [6]:
+			xmin = 31.17
+			xmax = 47.2
+			text = "Chini achai swkangsong bisi kwdwkma romwi abono khlaiwi phai kha. Tabuk naidi Keral wo achainai, surijaknai Sakar Achaijo Barotni babai brwi wo no khungbrwi nangkukma motrog snam kha. Salsibaio,"
+		intervals [7]:
+			xmin = 47.2
+			xmax = 47.7
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 47.7
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 5.15
+			text = "0"
+		intervals [2]:
+			xmin = 5.15
+			xmax = 17.36
+			text = ""
+		intervals [3]:
+			xmin = 17.36
+			xmax = 17.45
+			text = "0"
+		intervals [4]:
+			xmin = 17.45
+			xmax = 31.13
+			text = ""
+		intervals [5]:
+			xmin = 31.13
+			xmax = 31.17
+			text = "0"
+		intervals [6]:
+			xmin = 31.17
+			xmax = 47.2
+			text = ""
+		intervals [7]:
+			xmin = 47.2
+			xmax = 47.7
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 47.7
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 5.15
+			text = "0"
+		intervals [2]:
+			xmin = 5.15
+			xmax = 17.36
+			text = ""
+		intervals [3]:
+			xmin = 17.36
+			xmax = 17.45
+			text = "0"
+		intervals [4]:
+			xmin = 17.45
+			xmax = 31.13
+			text = ""
+		intervals [5]:
+			xmin = 31.13
+			xmax = 31.17
+			text = "0"
+		intervals [6]:
+			xmin = 31.17
+			xmax = 47.2
+			text = ""
+		intervals [7]:
+			xmin = 47.2
+			xmax = 47.7
+			text = "0"

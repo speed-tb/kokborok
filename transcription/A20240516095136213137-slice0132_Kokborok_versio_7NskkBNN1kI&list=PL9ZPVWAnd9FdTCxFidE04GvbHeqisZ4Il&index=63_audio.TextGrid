@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 8.4
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 8.4
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.91
+			text = "0"
+		intervals [2]:
+			xmin = 0.91
+			xmax = 7.56
+			text = ""
+		intervals [3]:
+			xmin = 7.56
+			xmax = 8.4
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 8.4
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.91
+			text = "0"
+		intervals [2]:
+			xmin = 0.91
+			xmax = 7.56
+			text = "O muchung phano, wngkhe je kwbangma siklarog wansukmaya samung tangnani phan rwo."
+		intervals [3]:
+			xmin = 7.56
+			xmax = 8.4
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 8.4
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.91
+			text = "0"
+		intervals [2]:
+			xmin = 0.91
+			xmax = 7.56
+			text = ""
+		intervals [3]:
+			xmin = 7.56
+			xmax = 8.4
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 8.4
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.91
+			text = "0"
+		intervals [2]:
+			xmin = 0.91
+			xmax = 7.56
+			text = ""
+		intervals [3]:
+			xmin = 7.56
+			xmax = 8.4
+			text = "0"

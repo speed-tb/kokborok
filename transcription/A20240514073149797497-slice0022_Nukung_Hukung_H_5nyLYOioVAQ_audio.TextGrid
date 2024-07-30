@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 66.3
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 66.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.06
+			text = "0"
+		intervals [2]:
+			xmin = 0.06
+			xmax = 52.52
+			text = ""
+		intervals [3]:
+			xmin = 52.52
+			xmax = 52.98
+			text = "0"
+		intervals [4]:
+			xmin = 52.98
+			xmax = 64.9
+			text = ""
+		intervals [5]:
+			xmin = 64.9
+			xmax = 66.3
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 66.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.06
+			text = "0"
+		intervals [2]:
+			xmin = 0.06
+			xmax = 52.52
+			text = "Norok je thaisingo sakha, norok bisa romwi tagwi manya, tei kubun samungrogbo khlaina nango. Hwnkai kebengmung tamo tonghai ma tong? Norok je o samung to khlaina nango, abono karwi obo baino nini nok nukhungno nwng narwgwi tongnani bagwi je rang nangmani ajemung ajena hwnkai, tamo kebengmung tong hai ma tong? Kebengmwng khe bwile kebengya, twma hwnkhe chwng puji kwrwi ba,omono hai kwrwng rowi tak tongmaya. Bwini odar maya bwi khwtwng pai rophaiya hwnkhe chwng takmaya wngw ta. Wngkhe bwi ba odar roha wngkhe khwtwng pai rophai laha wngkhe borogni tak roho bai pailaha wngkhe, rang roi kwlang laha wngkhe, chini samwng kwrwi wng pai w ta.Aboni ulo teisa taknani kwrwi wngwi thango ta.Wngkhe aphru je ordar maya hwnkai kam kwrwi wngwi ma tongo."
+		intervals [3]:
+			xmin = 52.52
+			xmax = 52.98
+			text = "0"
+		intervals [4]:
+			xmin = 52.98
+			xmax = 64.9
+			text = "Hwnkai, haphangni thanio, chuba chu sanwirog norok, borogno sai de nai kha, je chwng omohai samung khlai tongo, oboni bagwi kisa chubamung rwdirog di hwnwi."
+		intervals [5]:
+			xmin = 64.9
+			xmax = 66.3
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 66.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.06
+			text = "0"
+		intervals [2]:
+			xmin = 0.06
+			xmax = 52.52
+			text = ""
+		intervals [3]:
+			xmin = 52.52
+			xmax = 52.98
+			text = "0"
+		intervals [4]:
+			xmin = 52.98
+			xmax = 64.9
+			text = ""
+		intervals [5]:
+			xmin = 64.9
+			xmax = 66.3
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 66.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.06
+			text = "0"
+		intervals [2]:
+			xmin = 0.06
+			xmax = 52.52
+			text = ""
+		intervals [3]:
+			xmin = 52.52
+			xmax = 52.98
+			text = "0"
+		intervals [4]:
+			xmin = 52.98
+			xmax = 64.9
+			text = ""
+		intervals [5]:
+			xmin = 64.9
+			xmax = 66.3
+			text = "0"

@@ -1,0 +1,144 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 35.20002267573696
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 35.20002267573696
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.96
+			text = "0"
+		intervals [2]:
+			xmin = 0.96
+			xmax = 8.61
+			text = ""
+		intervals [3]:
+			xmin = 8.61
+			xmax = 8.71
+			text = "0"
+		intervals [4]:
+			xmin = 8.71
+			xmax = 24.12
+			text = ""
+		intervals [5]:
+			xmin = 24.12
+			xmax = 24.21
+			text = "0"
+		intervals [6]:
+			xmin = 24.21
+			xmax = 34.55
+			text = ""
+		intervals [7]:
+			xmin = 34.55
+			xmax = 35.20002267573696
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 35.20002267573696
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.96
+			text = "0"
+		intervals [2]:
+			xmin = 0.96
+			xmax = 8.61
+			text = "Tai tabok abohai wngliya je belai kotorma teknoloji tei lojistik kompani ni simi no obo hai khlai mano."
+		intervals [3]:
+			xmin = 8.61
+			xmax = 8.71
+			text = "0"
+		intervals [4]:
+			xmin = 8.71
+			xmax = 24.12
+			text = "Jarkhono o samung bwrwirogni selphelp motha khwlaiwi phunuk kha.A bwrwirog hukbar khlainairogni khetoni mwikhwtwng tai bwthai paikha. Tei sida nok nukhung jora tunwihor kha."
+		intervals [5]:
+			xmin = 24.12
+			xmax = 24.21
+			text = "0"
+		intervals [6]:
+			xmin = 24.21
+			xmax = 34.55
+			text = "A bwrwirog Ajibika pharm phres mungwi kaisa eps swnam kha. Aboni bisingtwi borokrog kwlaisakhe muikhwtwng sanhorwi mano."
+		intervals [7]:
+			xmin = 34.55
+			xmax = 35.20002267573696
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 35.20002267573696
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.96
+			text = "0"
+		intervals [2]:
+			xmin = 0.96
+			xmax = 8.61
+			text = ""
+		intervals [3]:
+			xmin = 8.61
+			xmax = 8.71
+			text = "0"
+		intervals [4]:
+			xmin = 8.71
+			xmax = 24.12
+			text = ""
+		intervals [5]:
+			xmin = 24.12
+			xmax = 24.21
+			text = "0"
+		intervals [6]:
+			xmin = 24.21
+			xmax = 34.55
+			text = ""
+		intervals [7]:
+			xmin = 34.55
+			xmax = 35.20002267573696
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 35.20002267573696
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.96
+			text = "0"
+		intervals [2]:
+			xmin = 0.96
+			xmax = 8.61
+			text = ""
+		intervals [3]:
+			xmin = 8.61
+			xmax = 8.71
+			text = "0"
+		intervals [4]:
+			xmin = 8.71
+			xmax = 24.12
+			text = ""
+		intervals [5]:
+			xmin = 24.12
+			xmax = 24.21
+			text = "0"
+		intervals [6]:
+			xmin = 24.21
+			xmax = 34.55
+			text = ""
+		intervals [7]:
+			xmin = 34.55
+			xmax = 35.20002267573696
+			text = "0"

@@ -1,0 +1,144 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 10.7
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 10.7
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.19
+			text = "0"
+		intervals [2]:
+			xmin = 1.19
+			xmax = 2.96
+			text = ""
+		intervals [3]:
+			xmin = 2.96
+			xmax = 3.32
+			text = "0"
+		intervals [4]:
+			xmin = 3.32
+			xmax = 7.51
+			text = ""
+		intervals [5]:
+			xmin = 7.51
+			xmax = 7.53
+			text = "0"
+		intervals [6]:
+			xmin = 7.53
+			xmax = 9.71
+			text = ""
+		intervals [7]:
+			xmin = 9.71
+			xmax = 10.7
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 10.7
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.19
+			text = "0"
+		intervals [2]:
+			xmin = 1.19
+			xmax = 2.96
+			text = "hamna muchungya khe bwkha ragwi maya."
+		intervals [3]:
+			xmin = 2.96
+			xmax = 3.32
+			text = "0"
+		intervals [4]:
+			xmin = 3.32
+			xmax = 7.51
+			text = "bwkhano ma raknai, ani bwkha kwrak khaiyakai a jinisno  hamaya."
+		intervals [5]:
+			xmin = 7.51
+			xmax = 7.53
+			text = "0"
+		intervals [6]:
+			xmin = 7.53
+			xmax = 9.71
+			text = "abonono ang borogno"
+		intervals [7]:
+			xmin = 9.71
+			xmax = 10.7
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 10.7
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.19
+			text = "0"
+		intervals [2]:
+			xmin = 1.19
+			xmax = 2.96
+			text = ""
+		intervals [3]:
+			xmin = 2.96
+			xmax = 3.32
+			text = "0"
+		intervals [4]:
+			xmin = 3.32
+			xmax = 7.51
+			text = ""
+		intervals [5]:
+			xmin = 7.51
+			xmax = 7.53
+			text = "0"
+		intervals [6]:
+			xmin = 7.53
+			xmax = 9.71
+			text = ""
+		intervals [7]:
+			xmin = 9.71
+			xmax = 10.7
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 10.7
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.19
+			text = "0"
+		intervals [2]:
+			xmin = 1.19
+			xmax = 2.96
+			text = ""
+		intervals [3]:
+			xmin = 2.96
+			xmax = 3.32
+			text = "0"
+		intervals [4]:
+			xmin = 3.32
+			xmax = 7.51
+			text = ""
+		intervals [5]:
+			xmin = 7.51
+			xmax = 7.53
+			text = "0"
+		intervals [6]:
+			xmin = 7.53
+			xmax = 9.71
+			text = ""
+		intervals [7]:
+			xmin = 9.71
+			xmax = 10.7
+			text = "0"

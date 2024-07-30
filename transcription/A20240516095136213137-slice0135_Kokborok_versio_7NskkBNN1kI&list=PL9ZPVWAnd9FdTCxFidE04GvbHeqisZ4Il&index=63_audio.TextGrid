@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 12.2
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 12.2
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.91
+			text = "0"
+		intervals [2]:
+			xmin = 0.91
+			xmax = 11.3
+			text = ""
+		intervals [3]:
+			xmin = 11.3
+			xmax = 12.2
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 12.2
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.91
+			text = "0"
+		intervals [2]:
+			xmin = 0.91
+			xmax = 11.3
+			text = "Chwng Ochai okra Balmikini phasing thwiyasak lakai tongnai, je bo phaina achai kwtalsongni kaham lamani bagwi. Ramayon tai,"
+		intervals [3]:
+			xmin = 11.3
+			xmax = 12.2
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 12.2
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.91
+			text = "0"
+		intervals [2]:
+			xmin = 0.91
+			xmax = 11.3
+			text = ""
+		intervals [3]:
+			xmin = 11.3
+			xmax = 12.2
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 12.2
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.91
+			text = "0"
+		intervals [2]:
+			xmin = 0.91
+			xmax = 11.3
+			text = ""
+		intervals [3]:
+			xmin = 11.3
+			xmax = 12.2
+			text = "0"

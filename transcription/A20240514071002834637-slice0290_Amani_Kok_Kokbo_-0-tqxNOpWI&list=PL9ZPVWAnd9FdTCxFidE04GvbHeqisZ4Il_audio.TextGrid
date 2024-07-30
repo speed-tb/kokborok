@@ -1,0 +1,208 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 95.45551020408163
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 95.45551020408163
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.34
+			text = "0"
+		intervals [2]:
+			xmin = 1.34
+			xmax = 18.62
+			text = ""
+		intervals [3]:
+			xmin = 18.62
+			xmax = 18.67
+			text = "0"
+		intervals [4]:
+			xmin = 18.67
+			xmax = 61.04
+			text = ""
+		intervals [5]:
+			xmin = 61.04
+			xmax = 61.3
+			text = "0"
+		intervals [6]:
+			xmin = 61.3
+			xmax = 68.5
+			text = ""
+		intervals [7]:
+			xmin = 68.5
+			xmax = 68.63
+			text = "0"
+		intervals [8]:
+			xmin = 68.63
+			xmax = 77.4
+			text = ""
+		intervals [9]:
+			xmin = 77.4
+			xmax = 79.28
+			text = "0"
+		intervals [10]:
+			xmin = 79.28
+			xmax = 85.45
+			text = ""
+		intervals [11]:
+			xmin = 85.45
+			xmax = 95.45551020408163
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 95.45551020408163
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.34
+			text = "0"
+		intervals [2]:
+			xmin = 1.34
+			xmax = 18.62
+			text = ""
+		intervals [3]:
+			xmin = 18.62
+			xmax = 18.67
+			text = "0"
+		intervals [4]:
+			xmin = 18.67
+			xmax = 61.04
+			text = ""
+		intervals [5]:
+			xmin = 61.04
+			xmax = 61.3
+			text = "0"
+		intervals [6]:
+			xmin = 61.3
+			xmax = 68.5
+			text = ""
+		intervals [7]:
+			xmin = 68.5
+			xmax = 68.63
+			text = "0"
+		intervals [8]:
+			xmin = 68.63
+			xmax = 77.4
+			text = ""
+		intervals [9]:
+			xmin = 77.4
+			xmax = 79.28
+			text = "0"
+		intervals [10]:
+			xmin = 79.28
+			xmax = 85.45
+			text = ""
+		intervals [11]:
+			xmin = 85.45
+			xmax = 95.45551020408163
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 95.45551020408163
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.34
+			text = "0"
+		intervals [2]:
+			xmin = 1.34
+			xmax = 18.62
+			text = "kwthalaiwi chini kokborokno chwng kwthang narwkna bagwi chwng kwthalaiwi tongna nangnai, hapung kana nangnai, hathai kana nangnai, nokbar phainai,watwi phainai haiphano chwng chini kokborokno sanai, kokborokno swinai, kokborokno wansuknai tei kokborokno kuchugo tisanai."
+		intervals [3]:
+			xmin = 18.62
+			xmax = 18.67
+			text = "0"
+		intervals [4]:
+			xmin = 18.67
+			xmax = 61.04
+			text = "tinini o amani sal amani kokni salo, chwng obono chini o pandao chini kokborokno twiwi, kwbangma sal romwi borogni rwngswrwngwi tongmani jorani simi swiwi tongnai wansugwi phainai, kokborokni kokrwbamno gwnang khwlainai, khurumpui khwlainai omo hai khorognwi borokno chwng mankha, tai tini chwng borogni thani kwbangma, kokbokhirirog khwnakha,kokrangchakrog chwng khwnakha, obo chwng kokborok sanairogni thanio, chini thanio obo kaisa rangchak-richak bai baksa, chwng obono thwiyasak narwgwi tongna nango, tei borogni o kokno twiwi chwng lama himna nango chini kokborokno kwthang tonna bagwi."
+		intervals [5]:
+			xmin = 61.04
+			xmax = 61.3
+			text = "0"
+		intervals [6]:
+			xmin = 61.3
+			xmax = 68.5
+			text = "haino hai sir norogno belaikhe hambai chini pandao phaimani bagwi, tei nangkukmani kok sai khwnarwmani bagwi."
+		intervals [7]:
+			xmin = 68.5
+			xmax = 68.63
+			text = "0"
+		intervals [8]:
+			xmin = 68.63
+			xmax = 77.4
+			text = "tai chini o panda naiwi tongnai joto takhuk bukhuksongno khalogwi chini o pandano naimani bagwi norogno bo hambai. kokborok sanairog ayuglokthwng."
+		intervals [9]:
+			xmin = 77.4
+			xmax = 79.28
+			text = "0"
+		intervals [10]:
+			xmin = 79.28
+			xmax = 85.45
+			text = "hwnke norogno bo haino hai hambai yapharwi tini ni chini pandano chwng orono kholoplaisino hambai khulumkha."
+		intervals [11]:
+			xmin = 85.45
+			xmax = 95.45551020408163
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 95.45551020408163
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.34
+			text = "0"
+		intervals [2]:
+			xmin = 1.34
+			xmax = 18.62
+			text = ""
+		intervals [3]:
+			xmin = 18.62
+			xmax = 18.67
+			text = "0"
+		intervals [4]:
+			xmin = 18.67
+			xmax = 61.04
+			text = ""
+		intervals [5]:
+			xmin = 61.04
+			xmax = 61.3
+			text = "0"
+		intervals [6]:
+			xmin = 61.3
+			xmax = 68.5
+			text = ""
+		intervals [7]:
+			xmin = 68.5
+			xmax = 68.63
+			text = "0"
+		intervals [8]:
+			xmin = 68.63
+			xmax = 77.4
+			text = ""
+		intervals [9]:
+			xmin = 77.4
+			xmax = 79.28
+			text = "0"
+		intervals [10]:
+			xmin = 79.28
+			xmax = 85.45
+			text = ""
+		intervals [11]:
+			xmin = 85.45
+			xmax = 95.45551020408163
+			text = "0"

@@ -1,0 +1,96 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 21.64
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 21.64
+		intervals: size = 4
+		intervals [1]:
+			xmin = 0.0
+			xmax = 9.76
+			text = ""
+		intervals [2]:
+			xmin = 9.76
+			xmax = 9.79
+			text = "0"
+		intervals [3]:
+			xmin = 9.79
+			xmax = 15.57
+			text = ""
+		intervals [4]:
+			xmin = 15.57
+			xmax = 21.64
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 21.64
+		intervals: size = 4
+		intervals [1]:
+			xmin = 0.0
+			xmax = 9.76
+			text = "palailaiwanw chwng jotono manewi cholilaiwanw, hwnke aswk jora kahamno roinai sini oro phainai kok saphaima bagwi sir no belaino hambai tei khulum phi kha,tei hambai"
+		intervals [2]:
+			xmin = 9.76
+			xmax = 9.79
+			text = "0"
+		intervals [3]:
+			xmin = 9.79
+			xmax = 15.57
+			text = "hwnkhe nai tongnai takhuk tei bukhuksong nobo belaino hambai sini pandano nai tongma bagwi tei khulum kha."
+		intervals [4]:
+			xmin = 15.57
+			xmax = 21.64
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 21.64
+		intervals: size = 4
+		intervals [1]:
+			xmin = 0.0
+			xmax = 9.76
+			text = ""
+		intervals [2]:
+			xmin = 9.76
+			xmax = 9.79
+			text = "0"
+		intervals [3]:
+			xmin = 9.79
+			xmax = 15.57
+			text = ""
+		intervals [4]:
+			xmin = 15.57
+			xmax = 21.64
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 21.64
+		intervals: size = 4
+		intervals [1]:
+			xmin = 0.0
+			xmax = 9.76
+			text = ""
+		intervals [2]:
+			xmin = 9.76
+			xmax = 9.79
+			text = "0"
+		intervals [3]:
+			xmin = 9.79
+			xmax = 15.57
+			text = ""
+		intervals [4]:
+			xmin = 15.57
+			xmax = 21.64
+			text = "0"

@@ -1,0 +1,160 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 56.1
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 56.1
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0.0
+			xmax = 13.83
+			text = ""
+		intervals [2]:
+			xmin = 13.83
+			xmax = 13.98
+			text = "0"
+		intervals [3]:
+			xmin = 13.98
+			xmax = 24.95
+			text = ""
+		intervals [4]:
+			xmin = 24.95
+			xmax = 25.0
+			text = "0"
+		intervals [5]:
+			xmin = 25.0
+			xmax = 43.35
+			text = ""
+		intervals [6]:
+			xmin = 43.35
+			xmax = 43.5
+			text = "0"
+		intervals [7]:
+			xmin = 43.5
+			xmax = 55.9
+			text = ""
+		intervals [8]:
+			xmin = 55.9
+			xmax = 56.1
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 56.1
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0.0
+			xmax = 13.83
+			text = "O choba thangwi tongnani choba,thangwi tongnani o chobao kwbangma jwngjal phaio. O choba chini hukumuni choba, o choba chini siritisitini sinimung ni choba."
+		intervals [2]:
+			xmin = 13.83
+			xmax = 13.98
+			text = "0"
+		intervals [3]:
+			xmin = 13.98
+			xmax = 24.95
+			text = "Bwrwirog chini Tiprajwkrog sirisitini simi chwng borogno nugwi phaio,nok nukhungni kwbang samung khlaima loge logeno borog takmung lmung bai belai khe gwdaljak."
+		intervals [4]:
+			xmin = 24.95
+			xmax = 25.0
+			text = "0"
+		intervals [5]:
+			xmin = 25.0
+			xmax = 43.35
+			text = "Tiprajwk hwnkhe takna rwngya omo hai kwrwi,Tiprajwk hwnkhe lupna rwngya omo hai kwrwi, Tiprajwkrogni suar no bahai khe saiman hinke, bwswk takna rwng bwswk lupna rwng. Phiya ba tabukno o jorao chwnng tabukni o bwrwirogno kwbangkukno chwng nugo takna rwngya lupnani rwngya."
+		intervals [6]:
+			xmin = 43.35
+			xmax = 43.5
+			text = "0"
+		intervals [7]:
+			xmin = 43.5
+			xmax = 55.9
+			text = "Ojorao bo, chini hathai kotorni salka kamini bukhuksong kwbangma langmani choba khwlaimani loge loge o,jwngjal o tongmani loge logeo bo borog,"
+		intervals [8]:
+			xmin = 55.9
+			xmax = 56.1
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 56.1
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0.0
+			xmax = 13.83
+			text = ""
+		intervals [2]:
+			xmin = 13.83
+			xmax = 13.98
+			text = "0"
+		intervals [3]:
+			xmin = 13.98
+			xmax = 24.95
+			text = ""
+		intervals [4]:
+			xmin = 24.95
+			xmax = 25.0
+			text = "0"
+		intervals [5]:
+			xmin = 25.0
+			xmax = 43.35
+			text = ""
+		intervals [6]:
+			xmin = 43.35
+			xmax = 43.5
+			text = "0"
+		intervals [7]:
+			xmin = 43.5
+			xmax = 55.9
+			text = ""
+		intervals [8]:
+			xmin = 55.9
+			xmax = 56.1
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 56.1
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0.0
+			xmax = 13.83
+			text = ""
+		intervals [2]:
+			xmin = 13.83
+			xmax = 13.98
+			text = "0"
+		intervals [3]:
+			xmin = 13.98
+			xmax = 24.95
+			text = ""
+		intervals [4]:
+			xmin = 24.95
+			xmax = 25.0
+			text = "0"
+		intervals [5]:
+			xmin = 25.0
+			xmax = 43.35
+			text = ""
+		intervals [6]:
+			xmin = 43.35
+			xmax = 43.5
+			text = "0"
+		intervals [7]:
+			xmin = 43.5
+			xmax = 55.9
+			text = ""
+		intervals [8]:
+			xmin = 55.9
+			xmax = 56.1
+			text = "0"

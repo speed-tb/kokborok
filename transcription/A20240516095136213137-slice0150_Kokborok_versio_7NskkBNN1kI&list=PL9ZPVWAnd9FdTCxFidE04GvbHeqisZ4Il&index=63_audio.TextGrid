@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 25.3
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 25.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.82
+			text = "0"
+		intervals [2]:
+			xmin = 0.82
+			xmax = 11.52
+			text = ""
+		intervals [3]:
+			xmin = 11.52
+			xmax = 11.78
+			text = "0"
+		intervals [4]:
+			xmin = 11.78
+			xmax = 24.81
+			text = ""
+		intervals [5]:
+			xmin = 24.81
+			xmax = 25.3
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 25.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.82
+			text = "0"
+		intervals [2]:
+			xmin = 0.82
+			xmax = 11.52
+			text = ""
+		intervals [3]:
+			xmin = 11.52
+			xmax = 11.78
+			text = "0"
+		intervals [4]:
+			xmin = 11.78
+			xmax = 24.81
+			text = ""
+		intervals [5]:
+			xmin = 24.81
+			xmax = 25.3
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 25.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.82
+			text = "0"
+		intervals [2]:
+			xmin = 0.82
+			xmax = 11.52
+			text = "Jora bai baksa bo pensil slet menuphekcharing mesinari nogo tubu kha, tai aboni yagulo bo kotor kotor snamkhorogo pensil sletni saplai khwlainani chengkha."
+		intervals [3]:
+			xmin = 11.52
+			xmax = 11.78
+			text = "0"
+		intervals [4]:
+			xmin = 11.78
+			xmax = 24.81
+			text = "Tabok takhuk Monjurni o baniyani tarobar rwjak rwjak rango sogwi kha. Tai bo wngya hwnmani no khoroknwira no ajemung rwi tongo. Tini mankibatni bisingtwi joto haktorani lukurog,"
+		intervals [5]:
+			xmin = 24.81
+			xmax = 25.3
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 25.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.82
+			text = "0"
+		intervals [2]:
+			xmin = 0.82
+			xmax = 11.52
+			text = ""
+		intervals [3]:
+			xmin = 11.52
+			xmax = 11.78
+			text = "0"
+		intervals [4]:
+			xmin = 11.78
+			xmax = 24.81
+			text = ""
+		intervals [5]:
+			xmin = 24.81
+			xmax = 25.3
+			text = "0"

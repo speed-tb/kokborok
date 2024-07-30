@@ -1,0 +1,186 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 27.5
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 27.5
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.02
+			text = "0"
+		intervals [2]:
+			xmin = 0.02
+			xmax = 1.06
+			text = ""
+		intervals [3]:
+			xmin = 1.06
+			xmax = 27.5
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 27.5
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.02
+			text = "0"
+		intervals [2]:
+			xmin = 0.02
+			xmax = 1.06
+			text = ""
+		intervals [3]:
+			xmin = 1.06
+			xmax = 27.5
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 27.5
+		intervals: size = 15
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.02
+			text = "0"
+		intervals [2]:
+			xmin = 0.02
+			xmax = 1.06
+			text = "Milok khalai mani?"
+		intervals [3]:
+			xmin = 1.06
+			xmax = 1.5
+			text = "0"
+		intervals [4]:
+			xmin = 1.5
+			xmax = 2.42
+			text = "semani simi no."
+		intervals [5]:
+			xmin = 2.42
+			xmax = 4.33
+			text = "0"
+		intervals [6]:
+			xmin = 4.33
+			xmax = 8.45
+			text = "Sema o khe bwswk buphang tong mnai? Sema o tongo oro chaiso bit."
+		intervals [7]:
+			xmin = 8.45
+			xmax = 9.38
+			text = "0"
+		intervals [8]:
+			xmin = 9.38
+			xmax = 12.35
+			text = "Taklai khe bwswk? Taklai  soiso bit tongo."
+		intervals [9]:
+			xmin = 12.35
+			xmax = 14.27
+			text = "0"
+		intervals [10]:
+			xmin = 14.27
+			xmax = 18.4
+			text = "Bwswkrog, sema o thaimungrog bahai wngkha?"
+		intervals [11]:
+			xmin = 18.4
+			xmax = 19.1
+			text = "0"
+		intervals [12]:
+			xmin = 19.1
+			xmax = 21.7
+			text = "Sema o kaham wngkha. Bwchlwi bw kaham manjak kha."
+		intervals [13]:
+			xmin = 21.7
+			xmax = 22.6
+			text = "0"
+		intervals [14]:
+			xmin = 22.6
+			xmax = 26.4
+			text = "Taklai khe bwchlwi kisa kwbangma jat khopjak kha."
+		intervals [15]:
+			xmin = 26.4
+			xmax = 27.5
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-eng-Latn-translation"
+		xmin = 0.0
+		xmax = 27.5
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.02
+			text = "0"
+		intervals [2]:
+			xmin = 0.02
+			xmax = 1.06
+			text = ""
+		intervals [3]:
+			xmin = 1.06
+			xmax = 27.5
+			text = "0"
+	item [5]:
+		class = "IntervalTier"
+		name = "sentence-Latin-gloss"
+		xmin = 0.0
+		xmax = 27.5
+		intervals: size = 13
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.02
+			text = "0"
+		intervals [2]:
+			xmin = 0.02
+			xmax = 1.06
+			text = ""
+		intervals [3]:
+			xmin = 1.06
+			xmax = 1.5
+			text = "0"
+		intervals [4]:
+			xmin = 1.5
+			xmax = 2.42
+			text = ""
+		intervals [5]:
+			xmin = 2.42
+			xmax = 4.33
+			text = "0"
+		intervals [6]:
+			xmin = 4.33
+			xmax = 8.45
+			text = ""
+		intervals [7]:
+			xmin = 8.45
+			xmax = 9.38
+			text = "0"
+		intervals [8]:
+			xmin = 9.38
+			xmax = 12.35
+			text = ""
+		intervals [9]:
+			xmin = 12.35
+			xmax = 14.27
+			text = "0"
+		intervals [10]:
+			xmin = 14.27
+			xmax = 18.4
+			text = ""
+		intervals [11]:
+			xmin = 18.4
+			xmax = 19.1
+			text = "0"
+		intervals [12]:
+			xmin = 19.1
+			xmax = 21.7
+			text = ""
+		intervals [13]:
+			xmin = 21.7
+			xmax = 27.5
+			text = "0"

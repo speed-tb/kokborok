@@ -1,0 +1,144 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 28.2
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 28.2
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 5.19
+			text = "0"
+		intervals [2]:
+			xmin = 5.19
+			xmax = 15.73
+			text = ""
+		intervals [3]:
+			xmin = 15.73
+			xmax = 17.79
+			text = "0"
+		intervals [4]:
+			xmin = 17.79
+			xmax = 22.56
+			text = ""
+		intervals [5]:
+			xmin = 22.56
+			xmax = 24.24
+			text = "0"
+		intervals [6]:
+			xmin = 24.24
+			xmax = 25.7
+			text = ""
+		intervals [7]:
+			xmin = 25.7
+			xmax = 28.2
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 28.2
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 5.19
+			text = "0"
+		intervals [2]:
+			xmin = 5.19
+			xmax = 15.73
+			text = ""
+		intervals [3]:
+			xmin = 15.73
+			xmax = 17.79
+			text = "0"
+		intervals [4]:
+			xmin = 17.79
+			xmax = 22.56
+			text = ""
+		intervals [5]:
+			xmin = 22.56
+			xmax = 24.24
+			text = "0"
+		intervals [6]:
+			xmin = 24.24
+			xmax = 25.7
+			text = ""
+		intervals [7]:
+			xmin = 25.7
+			xmax = 28.2
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 28.2
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 5.19
+			text = "0"
+		intervals [2]:
+			xmin = 5.19
+			xmax = 15.73
+			text = "Tei kaisa wngsa muchuk makhe haise,nwng je oro talni swkang nwng kai kha, wngkhei koi din ni pore bwthairog man? Pancholis din ponchas din ni pore  wngkhe thaio."
+		intervals [3]:
+			xmin = 15.73
+			xmax = 17.79
+			text = "0"
+		intervals [4]:
+			xmin = 17.79
+			xmax = 22.56
+			text = "Kora rewmani theke salbwswk ni pore wngkhe phalwi man? Chai din panj din wngkheno phalwi mano."
+		intervals [5]:
+			xmin = 22.56
+			xmax = 24.24
+			text = "0"
+		intervals [6]:
+			xmin = 24.24
+			xmax = 25.7
+			text = "Salo bwswk phal?"
+		intervals [7]:
+			xmin = 25.7
+			xmax = 28.2
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 28.2
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 5.19
+			text = "0"
+		intervals [2]:
+			xmin = 5.19
+			xmax = 15.73
+			text = ""
+		intervals [3]:
+			xmin = 15.73
+			xmax = 17.79
+			text = "0"
+		intervals [4]:
+			xmin = 17.79
+			xmax = 22.56
+			text = ""
+		intervals [5]:
+			xmin = 22.56
+			xmax = 24.24
+			text = "0"
+		intervals [6]:
+			xmin = 24.24
+			xmax = 25.7
+			text = ""
+		intervals [7]:
+			xmin = 25.7
+			xmax = 28.2
+			text = "0"

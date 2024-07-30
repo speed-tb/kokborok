@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 9.5
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 9.5
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.12
+			text = "0"
+		intervals [2]:
+			xmin = 2.12
+			xmax = 8.65
+			text = ""
+		intervals [3]:
+			xmin = 8.65
+			xmax = 9.5
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 9.5
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.12
+			text = "0"
+		intervals [2]:
+			xmin = 2.12
+			xmax = 8.65
+			text = "twenty first february mane ekuise februaryni matri bhasha dibos hinjakmani"
+		intervals [3]:
+			xmin = 8.65
+			xmax = 9.5
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 9.5
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.12
+			text = "0"
+		intervals [2]:
+			xmin = 2.12
+			xmax = 8.65
+			text = ""
+		intervals [3]:
+			xmin = 8.65
+			xmax = 9.5
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 9.5
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.12
+			text = "0"
+		intervals [2]:
+			xmin = 2.12
+			xmax = 8.65
+			text = ""
+		intervals [3]:
+			xmin = 8.65
+			xmax = 9.5
+			text = "0"

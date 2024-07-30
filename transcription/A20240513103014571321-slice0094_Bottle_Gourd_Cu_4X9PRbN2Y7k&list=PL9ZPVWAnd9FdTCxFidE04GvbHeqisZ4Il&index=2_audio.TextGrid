@@ -1,0 +1,176 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 55.8
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 55.8
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.44
+			text = "0"
+		intervals [2]:
+			xmin = 0.44
+			xmax = 12.73
+			text = ""
+		intervals [3]:
+			xmin = 12.73
+			xmax = 13.51
+			text = "0"
+		intervals [4]:
+			xmin = 13.51
+			xmax = 19.53
+			text = ""
+		intervals [5]:
+			xmin = 19.53
+			xmax = 21.83
+			text = "0"
+		intervals [6]:
+			xmin = 21.83
+			xmax = 38.52
+			text = ""
+		intervals [7]:
+			xmin = 38.52
+			xmax = 38.67
+			text = "0"
+		intervals [8]:
+			xmin = 38.67
+			xmax = 55.56
+			text = ""
+		intervals [9]:
+			xmin = 55.56
+			xmax = 55.8
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 55.8
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.44
+			text = "0"
+		intervals [2]:
+			xmin = 0.44
+			xmax = 12.73
+			text = ""
+		intervals [3]:
+			xmin = 12.73
+			xmax = 13.51
+			text = "0"
+		intervals [4]:
+			xmin = 13.51
+			xmax = 19.53
+			text = ""
+		intervals [5]:
+			xmin = 19.53
+			xmax = 21.83
+			text = "0"
+		intervals [6]:
+			xmin = 21.83
+			xmax = 38.52
+			text = ""
+		intervals [7]:
+			xmin = 38.52
+			xmax = 38.67
+			text = "0"
+		intervals [8]:
+			xmin = 38.67
+			xmax = 55.56
+			text = ""
+		intervals [9]:
+			xmin = 55.56
+			xmax = 55.8
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 55.8
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.44
+			text = "0"
+		intervals [2]:
+			xmin = 0.44
+			xmax = 12.73
+			text = "Chara rw di swkang pondro din ni pore khe kaiwi rwi di jagao. Chai,pans din ni swkang kisa rwi tonri baidi muskhi pura ha dalogwinai. Tar pore kai rwi di, baro din pondro din ni pore khe chara kai rwi di wng kheno wngkha."
+		intervals [3]:
+			xmin = 12.73
+			xmax = 13.51
+			text = "0"
+		intervals [4]:
+			xmin = 13.51
+			xmax = 19.53
+			text = "Hwnkhe milogo tamo nangkuk? Muskhi bai twi abo nangnai ekdum ek nambar."
+		intervals [5]:
+			xmin = 19.53
+			xmax = 21.83
+			text = "0"
+		intervals [6]:
+			xmin = 21.83
+			xmax = 38.52
+			text = "Wng khe je khalai nani bagwi agirogo kuno treiningrog da khalai kha ba sorkar phaisingtwi treiningrog da man bo kha? Manya. Bebak nwng baithang, bidu nai nai khwlai kha ta ang. Wng khe nwng omo hai baithang chaitogwi khalai mama hai kubunrog bo khalai mano."
+		intervals [7]:
+			xmin = 38.52
+			xmax = 38.67
+			text = "0"
+		intervals [8]:
+			xmin = 38.67
+			xmax = 55.56
+			text = "Belai hambai takhuk Orjun no nini o bagano phainai chwng belai khatung khaja ma tong kha bwkha bo swrang kha,aswk kwbangma milok nugwinai bwkha belai tongthok kha. Nono belai belai hambai, chini Durdorsan Tripura bai kok sama bagwi nono belai belai hambai, khulum kha."
+		intervals [9]:
+			xmin = 55.56
+			xmax = 55.8
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 55.8
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.44
+			text = "0"
+		intervals [2]:
+			xmin = 0.44
+			xmax = 12.73
+			text = ""
+		intervals [3]:
+			xmin = 12.73
+			xmax = 13.51
+			text = "0"
+		intervals [4]:
+			xmin = 13.51
+			xmax = 19.53
+			text = ""
+		intervals [5]:
+			xmin = 19.53
+			xmax = 21.83
+			text = "0"
+		intervals [6]:
+			xmin = 21.83
+			xmax = 38.52
+			text = ""
+		intervals [7]:
+			xmin = 38.52
+			xmax = 38.67
+			text = "0"
+		intervals [8]:
+			xmin = 38.67
+			xmax = 55.56
+			text = ""
+		intervals [9]:
+			xmin = 55.56
+			xmax = 55.8
+			text = "0"

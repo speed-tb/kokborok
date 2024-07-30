@@ -1,0 +1,144 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 41.80002267573696
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 41.80002267573696
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.92
+			text = "0"
+		intervals [2]:
+			xmin = 0.92
+			xmax = 15.91
+			text = ""
+		intervals [3]:
+			xmin = 15.91
+			xmax = 16.32
+			text = "0"
+		intervals [4]:
+			xmin = 16.32
+			xmax = 34.03
+			text = ""
+		intervals [5]:
+			xmin = 34.03
+			xmax = 34.98
+			text = "0"
+		intervals [6]:
+			xmin = 34.98
+			xmax = 41.03
+			text = ""
+		intervals [7]:
+			xmin = 41.03
+			xmax = 41.80002267573696
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 41.80002267573696
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.92
+			text = "0"
+		intervals [2]:
+			xmin = 0.92
+			xmax = 15.91
+			text = "Bwsa ahaino yakarwi rikha chaya, hayadiba na, mane bono nwng,je bini yakungo bachasak jora twi bonoo twidulwi ma tonglainai.Emon bo borok tongo tabuk chini kamirogo,rega khwlai rohorwi bwsano pore rwo."
+		intervals [3]:
+			xmin = 15.91
+			xmax = 16.32
+			text = "0"
+		intervals [4]:
+			xmin = 16.32
+			xmax = 34.03
+			text = "Omono bwsa ba wansuka nangya de,bini nokthaise kurui bini jaga se kurui bo oro porei tongphai kha hwnkai, bo ang pori tongo aswk bini bwswk wngko kotor, kintu buma-bupha je rega khai rohorwi bono wngya de wngno hwnwi rohomale abono wansokna nango cherairog bo."
+		intervals [5]:
+			xmin = 34.03
+			xmax = 34.98
+			text = "0"
+		intervals [6]:
+			xmin = 34.98
+			xmax = 41.03
+			text = "Chwngbo tabuk asole nugo chini, goli bwsakangrogono kwbangma omo hairog wng tongma nugo."
+		intervals [7]:
+			xmin = 41.03
+			xmax = 41.80002267573696
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 41.80002267573696
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.92
+			text = "0"
+		intervals [2]:
+			xmin = 0.92
+			xmax = 15.91
+			text = ""
+		intervals [3]:
+			xmin = 15.91
+			xmax = 16.32
+			text = "0"
+		intervals [4]:
+			xmin = 16.32
+			xmax = 34.03
+			text = ""
+		intervals [5]:
+			xmin = 34.03
+			xmax = 34.98
+			text = "0"
+		intervals [6]:
+			xmin = 34.98
+			xmax = 41.03
+			text = ""
+		intervals [7]:
+			xmin = 41.03
+			xmax = 41.80002267573696
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 41.80002267573696
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.92
+			text = "0"
+		intervals [2]:
+			xmin = 0.92
+			xmax = 15.91
+			text = ""
+		intervals [3]:
+			xmin = 15.91
+			xmax = 16.32
+			text = "0"
+		intervals [4]:
+			xmin = 16.32
+			xmax = 34.03
+			text = ""
+		intervals [5]:
+			xmin = 34.03
+			xmax = 34.98
+			text = "0"
+		intervals [6]:
+			xmin = 34.98
+			xmax = 41.03
+			text = ""
+		intervals [7]:
+			xmin = 41.03
+			xmax = 41.80002267573696
+			text = "0"

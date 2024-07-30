@@ -1,0 +1,144 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 37.4
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 37.4
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.92
+			text = "0"
+		intervals [2]:
+			xmin = 0.92
+			xmax = 9.81
+			text = ""
+		intervals [3]:
+			xmin = 9.81
+			xmax = 10.04
+			text = "0"
+		intervals [4]:
+			xmin = 10.04
+			xmax = 25.75
+			text = ""
+		intervals [5]:
+			xmin = 25.75
+			xmax = 26.11
+			text = "0"
+		intervals [6]:
+			xmin = 26.11
+			xmax = 36.45
+			text = ""
+		intervals [7]:
+			xmin = 36.45
+			xmax = 37.4
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 37.4
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.92
+			text = "0"
+		intervals [2]:
+			xmin = 0.92
+			xmax = 9.81
+			text = "Belaino hambai puilano, tini ano oro ringma bagwi,Durdorson Kendro Agortola, oroni organizer and team no."
+		intervals [3]:
+			xmin = 9.81
+			xmax = 10.04
+			text = "0"
+		intervals [4]:
+			xmin = 10.04
+			xmax = 25.75
+			text = "Omo kaisa very important kaisa platform, je ORS week world ORS week chwng je palaimani, omoni bising je meses tongo publicno rina bagwi, chini main aim hwnke o world ORS week palainani hwnkai public ewernes ni bagwi."
+		intervals [5]:
+			xmin = 25.75
+			xmax = 26.11
+			text = "0"
+		intervals [6]:
+			xmin = 26.11
+			xmax = 36.45
+			text = "Omo joto biso wo no, whole world o, world ORS week, twentyfive July to thirty first July, last week of July wo chwng palai laio."
+		intervals [7]:
+			xmin = 36.45
+			xmax = 37.4
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 37.4
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.92
+			text = "0"
+		intervals [2]:
+			xmin = 0.92
+			xmax = 9.81
+			text = ""
+		intervals [3]:
+			xmin = 9.81
+			xmax = 10.04
+			text = "0"
+		intervals [4]:
+			xmin = 10.04
+			xmax = 25.75
+			text = ""
+		intervals [5]:
+			xmin = 25.75
+			xmax = 26.11
+			text = "0"
+		intervals [6]:
+			xmin = 26.11
+			xmax = 36.45
+			text = ""
+		intervals [7]:
+			xmin = 36.45
+			xmax = 37.4
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 37.4
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.92
+			text = "0"
+		intervals [2]:
+			xmin = 0.92
+			xmax = 9.81
+			text = ""
+		intervals [3]:
+			xmin = 9.81
+			xmax = 10.04
+			text = "0"
+		intervals [4]:
+			xmin = 10.04
+			xmax = 25.75
+			text = ""
+		intervals [5]:
+			xmin = 25.75
+			xmax = 26.11
+			text = "0"
+		intervals [6]:
+			xmin = 26.11
+			xmax = 36.45
+			text = ""
+		intervals [7]:
+			xmin = 36.45
+			xmax = 37.4
+			text = "0"

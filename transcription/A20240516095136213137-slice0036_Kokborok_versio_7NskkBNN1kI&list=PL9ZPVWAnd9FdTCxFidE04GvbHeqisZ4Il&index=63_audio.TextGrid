@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 15.4
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 15.4
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.86
+			text = "0"
+		intervals [2]:
+			xmin = 0.86
+			xmax = 13.4
+			text = ""
+		intervals [3]:
+			xmin = 13.4
+			xmax = 15.4
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 15.4
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.86
+			text = "0"
+		intervals [2]:
+			xmin = 0.86
+			xmax = 13.4
+			text = "Uhaka, a amcahio baksa kamini abotwi bo tongo, aro kami ni khadi swnamjak mani samwng tanglai tongo. Tabuk aroni khadi Uhaka khadi hwnwi sini jago."
+		intervals [3]:
+			xmin = 13.4
+			xmax = 15.4
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 15.4
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.86
+			text = "0"
+		intervals [2]:
+			xmin = 0.86
+			xmax = 13.4
+			text = ""
+		intervals [3]:
+			xmin = 13.4
+			xmax = 15.4
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 15.4
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.86
+			text = "0"
+		intervals [2]:
+			xmin = 0.86
+			xmax = 13.4
+			text = ""
+		intervals [3]:
+			xmin = 13.4
+			xmax = 15.4
+			text = "0"

@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 14.4
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 14.4
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.85
+			text = "0"
+		intervals [2]:
+			xmin = 0.85
+			xmax = 6.68
+			text = ""
+		intervals [3]:
+			xmin = 6.68
+			xmax = 6.8
+			text = "0"
+		intervals [4]:
+			xmin = 6.8
+			xmax = 12.34
+			text = ""
+		intervals [5]:
+			xmin = 12.34
+			xmax = 14.4
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 14.4
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.85
+			text = "0"
+		intervals [2]:
+			xmin = 0.85
+			xmax = 6.68
+			text = "tabukni kwtal bolte cherairogni cheraini wngko, abo siklarogni iko hinta abono."
+		intervals [3]:
+			xmin = 6.68
+			xmax = 6.8
+			text = "0"
+		intervals [4]:
+			xmin = 6.8
+			xmax = 12.34
+			text = "au, sikla jorarogni bagwi ta. sikla jorarogni bagwi abo,lobwi wngko mani,"
+		intervals [5]:
+			xmin = 12.34
+			xmax = 14.4
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 14.4
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.85
+			text = "0"
+		intervals [2]:
+			xmin = 0.85
+			xmax = 6.68
+			text = ""
+		intervals [3]:
+			xmin = 6.68
+			xmax = 6.8
+			text = "0"
+		intervals [4]:
+			xmin = 6.8
+			xmax = 12.34
+			text = ""
+		intervals [5]:
+			xmin = 12.34
+			xmax = 14.4
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 14.4
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.85
+			text = "0"
+		intervals [2]:
+			xmin = 0.85
+			xmax = 6.68
+			text = ""
+		intervals [3]:
+			xmin = 6.68
+			xmax = 6.8
+			text = "0"
+		intervals [4]:
+			xmin = 6.8
+			xmax = 12.34
+			text = ""
+		intervals [5]:
+			xmin = 12.34
+			xmax = 14.4
+			text = "0"

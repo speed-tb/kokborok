@@ -1,0 +1,176 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 47.8
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 47.8
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.55
+			text = "0"
+		intervals [2]:
+			xmin = 1.55
+			xmax = 18.66
+			text = ""
+		intervals [3]:
+			xmin = 18.66
+			xmax = 18.74
+			text = "0"
+		intervals [4]:
+			xmin = 18.74
+			xmax = 28.89
+			text = ""
+		intervals [5]:
+			xmin = 28.89
+			xmax = 28.97
+			text = "0"
+		intervals [6]:
+			xmin = 28.97
+			xmax = 40.01
+			text = ""
+		intervals [7]:
+			xmin = 40.01
+			xmax = 40.04
+			text = "0"
+		intervals [8]:
+			xmin = 40.04
+			xmax = 47.17
+			text = ""
+		intervals [9]:
+			xmin = 47.17
+			xmax = 47.8
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 47.8
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.55
+			text = "0"
+		intervals [2]:
+			xmin = 1.55
+			xmax = 18.66
+			text = "ei khetre bo mane khub bitorkito jagao sogwinai, ang je samani one language dike thangwi tongo hinmani abo borokni proyujon biktik, jokhon jekunu manwi ani nango aphuruse ang kok sanai."
+		intervals [3]:
+			xmin = 18.66
+			xmax = 18.74
+			text = "0"
+		intervals [4]:
+			xmin = 18.74
+			xmax = 28.89
+			text = "hwnkhei chinese whatever the population, tarpore french, germany, aborogobo borok kwbangma kwbangmani bhashano,"
+		intervals [5]:
+			xmin = 28.89
+			xmax = 28.97
+			text = "0"
+		intervals [6]:
+			xmin = 28.97
+			xmax = 40.01
+			text = "kintu germany, french speaker bai german speaker communicate khlaimaya aphru khe english nang thangnai."
+		intervals [7]:
+			xmin = 40.01
+			xmax = 40.04
+			text = "0"
+		intervals [8]:
+			xmin = 40.04
+			xmax = 47.17
+			text = "even today tini bo nangnai ta, ang jodi germany wngkha wngkhe, rom ang german bhasha sara tei kisu siya"
+		intervals [9]:
+			xmin = 47.17
+			xmax = 47.8
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 47.8
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.55
+			text = "0"
+		intervals [2]:
+			xmin = 1.55
+			xmax = 18.66
+			text = ""
+		intervals [3]:
+			xmin = 18.66
+			xmax = 18.74
+			text = "0"
+		intervals [4]:
+			xmin = 18.74
+			xmax = 28.89
+			text = ""
+		intervals [5]:
+			xmin = 28.89
+			xmax = 28.97
+			text = "0"
+		intervals [6]:
+			xmin = 28.97
+			xmax = 40.01
+			text = ""
+		intervals [7]:
+			xmin = 40.01
+			xmax = 40.04
+			text = "0"
+		intervals [8]:
+			xmin = 40.04
+			xmax = 47.17
+			text = ""
+		intervals [9]:
+			xmin = 47.17
+			xmax = 47.8
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 47.8
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.55
+			text = "0"
+		intervals [2]:
+			xmin = 1.55
+			xmax = 18.66
+			text = ""
+		intervals [3]:
+			xmin = 18.66
+			xmax = 18.74
+			text = "0"
+		intervals [4]:
+			xmin = 18.74
+			xmax = 28.89
+			text = ""
+		intervals [5]:
+			xmin = 28.89
+			xmax = 28.97
+			text = "0"
+		intervals [6]:
+			xmin = 28.97
+			xmax = 40.01
+			text = ""
+		intervals [7]:
+			xmin = 40.01
+			xmax = 40.04
+			text = "0"
+		intervals [8]:
+			xmin = 40.04
+			xmax = 47.17
+			text = ""
+		intervals [9]:
+			xmin = 47.17
+			xmax = 47.8
+			text = "0"

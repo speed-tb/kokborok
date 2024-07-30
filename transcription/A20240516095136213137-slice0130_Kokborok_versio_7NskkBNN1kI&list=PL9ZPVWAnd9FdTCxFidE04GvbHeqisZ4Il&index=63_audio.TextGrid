@@ -1,0 +1,128 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 33.9
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 33.9
+		intervals: size = 6
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.83
+			text = "0"
+		intervals [2]:
+			xmin = 0.83
+			xmax = 7.61
+			text = ""
+		intervals [3]:
+			xmin = 7.61
+			xmax = 7.7
+			text = "0"
+		intervals [4]:
+			xmin = 7.7
+			xmax = 17.04
+			text = ""
+		intervals [5]:
+			xmin = 17.04
+			xmax = 17.13
+			text = "0"
+		intervals [6]:
+			xmin = 17.13
+			xmax = 33.9
+			text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 33.9
+		intervals: size = 6
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.83
+			text = "0"
+		intervals [2]:
+			xmin = 0.83
+			xmax = 7.61
+			text = "Ani khapangni hani lukurog, thamchisa salni mari o chwng Balmiki achaima salbo palaiwanw."
+		intervals [3]:
+			xmin = 7.61
+			xmax = 7.7
+			text = "0"
+		intervals [4]:
+			xmin = 7.7
+			xmax = 17.04
+			text = "Ang ochai okra Balmiki no khorok kongwi khungwi khulum jao.Tai o mamlai sal jorani bagwi haktorni lukurogni khasingni hambai yaphar wo."
+		intervals [5]:
+			xmin = 17.04
+			xmax = 17.13
+			text = "0"
+		intervals [6]:
+			xmin = 17.13
+			xmax = 33.9
+			text = "Ochai okra Balmiki wansukmung kotor, rwjakrwjak lukurogno kha bacha rwo, phan yapharo.Bo rasairwjak kwrwija lukurogni tei uslujakrogni bagwi belai kotor khatungjaknai bini bisingtwi kahama tei"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 33.9
+		intervals: size = 6
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.83
+			text = "0"
+		intervals [2]:
+			xmin = 0.83
+			xmax = 7.61
+			text = ""
+		intervals [3]:
+			xmin = 7.61
+			xmax = 7.7
+			text = "0"
+		intervals [4]:
+			xmin = 7.7
+			xmax = 17.04
+			text = ""
+		intervals [5]:
+			xmin = 17.04
+			xmax = 17.13
+			text = "0"
+		intervals [6]:
+			xmin = 17.13
+			xmax = 33.9
+			text = ""
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 33.9
+		intervals: size = 6
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.83
+			text = "0"
+		intervals [2]:
+			xmin = 0.83
+			xmax = 7.61
+			text = ""
+		intervals [3]:
+			xmin = 7.61
+			xmax = 7.7
+			text = "0"
+		intervals [4]:
+			xmin = 7.7
+			xmax = 17.04
+			text = ""
+		intervals [5]:
+			xmin = 17.04
+			xmax = 17.13
+			text = "0"
+		intervals [6]:
+			xmin = 17.13
+			xmax = 33.9
+			text = ""

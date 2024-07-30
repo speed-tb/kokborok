@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 26.6
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 26.6
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.07
+			text = "0"
+		intervals [2]:
+			xmin = 1.07
+			xmax = 17.73
+			text = ""
+		intervals [3]:
+			xmin = 17.73
+			xmax = 18.01
+			text = "0"
+		intervals [4]:
+			xmin = 18.01
+			xmax = 26.2
+			text = ""
+		intervals [5]:
+			xmin = 26.2
+			xmax = 26.6
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 26.6
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.07
+			text = "0"
+		intervals [2]:
+			xmin = 1.07
+			xmax = 17.73
+			text = "Chalaisong chwng a chini khakotor sengkrakrog no bo muito narwkna nango. Jerog o terni jora o bo, ario bachawi tongo. Barot ama no chubao tei nai mwthangwi tongo. Chwng borogno muito khlai twtwi chini ter no palai lai nai."
+		intervals [3]:
+			xmin = 17.73
+			xmax = 18.01
+			text = "0"
+		intervals [4]:
+			xmin = 18.01
+			xmax = 26.2
+			text = "Chwng nogo kaisa chati, Barot ama ni a sajwla sajwksong no borom rw wi mwswngna nangnai."
+		intervals [5]:
+			xmin = 26.2
+			xmax = 26.6
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 26.6
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.07
+			text = "0"
+		intervals [2]:
+			xmin = 1.07
+			xmax = 17.73
+			text = ""
+		intervals [3]:
+			xmin = 17.73
+			xmax = 18.01
+			text = "0"
+		intervals [4]:
+			xmin = 18.01
+			xmax = 26.2
+			text = ""
+		intervals [5]:
+			xmin = 26.2
+			xmax = 26.6
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 26.6
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.07
+			text = "0"
+		intervals [2]:
+			xmin = 1.07
+			xmax = 17.73
+			text = ""
+		intervals [3]:
+			xmin = 17.73
+			xmax = 18.01
+			text = "0"
+		intervals [4]:
+			xmin = 18.01
+			xmax = 26.2
+			text = ""
+		intervals [5]:
+			xmin = 26.2
+			xmax = 26.6
+			text = "0"

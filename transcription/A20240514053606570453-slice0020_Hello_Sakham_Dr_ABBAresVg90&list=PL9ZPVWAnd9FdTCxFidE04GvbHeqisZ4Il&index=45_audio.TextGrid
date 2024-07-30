@@ -1,0 +1,256 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 110.1
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 110.1
+		intervals: size = 14
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.97
+			text = "0"
+		intervals [2]:
+			xmin = 0.97
+			xmax = 14.87
+			text = ""
+		intervals [3]:
+			xmin = 14.87
+			xmax = 17.67
+			text = "0"
+		intervals [4]:
+			xmin = 17.67
+			xmax = 40.85
+			text = ""
+		intervals [5]:
+			xmin = 40.85
+			xmax = 40.95
+			text = "0"
+		intervals [6]:
+			xmin = 40.95
+			xmax = 52.33
+			text = ""
+		intervals [7]:
+			xmin = 52.33
+			xmax = 73.37
+			text = ""
+		intervals [8]:
+			xmin = 73.37
+			xmax = 73.75
+			text = "0"
+		intervals [9]:
+			xmin = 73.75
+			xmax = 88.54
+			text = ""
+		intervals [10]:
+			xmin = 88.54
+			xmax = 89.05
+			text = "0"
+		intervals [11]:
+			xmin = 89.05
+			xmax = 98.3
+			text = ""
+		intervals [12]:
+			xmin = 98.3
+			xmax = 98.43
+			text = "0"
+		intervals [13]:
+			xmin = 98.43
+			xmax = 109.38
+			text = ""
+		intervals [14]:
+			xmin = 109.38
+			xmax = 110.1
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 110.1
+		intervals: size = 14
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.97
+			text = "0"
+		intervals [2]:
+			xmin = 0.97
+			xmax = 14.87
+			text = ""
+		intervals [3]:
+			xmin = 14.87
+			xmax = 17.67
+			text = "0"
+		intervals [4]:
+			xmin = 17.67
+			xmax = 40.85
+			text = ""
+		intervals [5]:
+			xmin = 40.85
+			xmax = 40.95
+			text = "0"
+		intervals [6]:
+			xmin = 40.95
+			xmax = 52.33
+			text = ""
+		intervals [7]:
+			xmin = 52.33
+			xmax = 73.37
+			text = ""
+		intervals [8]:
+			xmin = 73.37
+			xmax = 73.75
+			text = "0"
+		intervals [9]:
+			xmin = 73.75
+			xmax = 88.54
+			text = ""
+		intervals [10]:
+			xmin = 88.54
+			xmax = 89.05
+			text = "0"
+		intervals [11]:
+			xmin = 89.05
+			xmax = 98.3
+			text = ""
+		intervals [12]:
+			xmin = 98.3
+			xmax = 98.43
+			text = "0"
+		intervals [13]:
+			xmin = 98.43
+			xmax = 109.38
+			text = ""
+		intervals [14]:
+			xmin = 109.38
+			xmax = 110.1
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 110.1
+		intervals: size = 14
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.97
+			text = "0"
+		intervals [2]:
+			xmin = 0.97
+			xmax = 14.87
+			text = "hello, takhukno lamsogo chini pandao boroni wngkha tei mung kisa sai khwna rwdi, chwng bisramgonjo ni thike sahoro wngkhe abono cherairog wngkhe bwswk boyos bisingni korna manjak haisa?"
+		intervals [3]:
+			xmin = 14.87
+			xmax = 17.67
+			text = "0"
+		intervals [4]:
+			xmin = 17.67
+			xmax = 40.85
+			text = "belai important question chwrairogni bisingo corona virus wngkhe sisi sijakya aswk, je bini obo hai kuchukmanirog lumarog khub kom, hwnke haini bagwi chwng datas nai khe chini koi ekta reporting chinani koi ekta studyrog rwgwi naikha wngkhe aro mankha je chwrairogno matro two to four percent case si affect khaio o corona virus."
+		intervals [5]:
+			xmin = 40.85
+			xmax = 40.95
+			text = "0"
+		intervals [6]:
+			xmin = 40.95
+			xmax = 52.33
+			text = "tei jodino boyoskor borokrog ba alka boyoskorog wngkhe te kisa high ta abo,kintu cherairogo sudu maximum four percent cases no o corona virus bai infected wngo"
+		intervals [7]:
+			xmin = 52.33
+			xmax = 73.37
+			text = "hwnke tabok abono teibo rwgwi nailai kha tei bo detailso thangwi naikha tangwi cherairog aswk wngya, hinke cherairogni aro u sini infection bai fight khainani je phan abo bongni aswk well developya, abono chwng self mediated tei humeral immunity hwno je sak sak phan tongmani abo bong aswk developya sini kotor-rogni hai."
+		intervals [8]:
+			xmin = 73.37
+			xmax = 73.75
+			text = "0"
+		intervals [9]:
+			xmin = 73.75
+			xmax = 88.54
+			text = "hwnke tei kaisa bongni kaisa receptor tongo bairas jokhon sini, sini langma o lamatwi habo aro kaisa receptor tongo mane acetal converting enzyme, enzotancing converting enzyme receptor hwnwi tongo, a receptorni through twi habo."
+		intervals [10]:
+			xmin = 88.54
+			xmax = 89.05
+			text = "0"
+		intervals [11]:
+			xmin = 89.05
+			xmax = 98.3
+			text = "nukjakha cherairogni bisingo ac receptor well developya akhaino o virus entry bu easily maya chwrairogni aro"
+		intervals [12]:
+			xmin = 98.3
+			xmax = 98.43
+			text = "0"
+		intervals [13]:
+			xmin = 98.43
+			xmax = 109.38
+			text = "sir tei kaisa kokduk yachak nailai phirwanw, hello, takhukno lamsogo tai mung kisa sai khwna rwdi tai boroni,"
+		intervals [14]:
+			xmin = 109.38
+			xmax = 110.1
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 110.1
+		intervals: size = 14
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.97
+			text = "0"
+		intervals [2]:
+			xmin = 0.97
+			xmax = 14.87
+			text = ""
+		intervals [3]:
+			xmin = 14.87
+			xmax = 17.67
+			text = "0"
+		intervals [4]:
+			xmin = 17.67
+			xmax = 40.85
+			text = ""
+		intervals [5]:
+			xmin = 40.85
+			xmax = 40.95
+			text = "0"
+		intervals [6]:
+			xmin = 40.95
+			xmax = 52.33
+			text = ""
+		intervals [7]:
+			xmin = 52.33
+			xmax = 73.37
+			text = ""
+		intervals [8]:
+			xmin = 73.37
+			xmax = 73.75
+			text = "0"
+		intervals [9]:
+			xmin = 73.75
+			xmax = 88.54
+			text = ""
+		intervals [10]:
+			xmin = 88.54
+			xmax = 89.05
+			text = "0"
+		intervals [11]:
+			xmin = 89.05
+			xmax = 98.3
+			text = ""
+		intervals [12]:
+			xmin = 98.3
+			xmax = 98.43
+			text = "0"
+		intervals [13]:
+			xmin = 98.43
+			xmax = 109.38
+			text = ""
+		intervals [14]:
+			xmin = 109.38
+			xmax = 110.1
+			text = "0"

@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 17.6
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 17.6
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.97
+			text = "0"
+		intervals [2]:
+			xmin = 0.97
+			xmax = 7.19
+			text = ""
+		intervals [3]:
+			xmin = 7.19
+			xmax = 8.51
+			text = "0"
+		intervals [4]:
+			xmin = 8.51
+			xmax = 16.8
+			text = ""
+		intervals [5]:
+			xmin = 16.8
+			xmax = 17.6
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 17.6
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.97
+			text = "0"
+		intervals [2]:
+			xmin = 0.97
+			xmax = 7.19
+			text = "abo bangladeshni bhasha andulon jeta nineteen fiftytwo o wngwi thang mani"
+		intervals [3]:
+			xmin = 7.19
+			xmax = 8.51
+			text = "0"
+		intervals [4]:
+			xmin = 8.51
+			xmax = 16.8
+			text = "abo antorjatik story antorjatik cries ba antorjatik uthapon ni jagao thangwi sogwi kha."
+		intervals [5]:
+			xmin = 16.8
+			xmax = 17.6
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 17.6
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.97
+			text = "0"
+		intervals [2]:
+			xmin = 0.97
+			xmax = 7.19
+			text = ""
+		intervals [3]:
+			xmin = 7.19
+			xmax = 8.51
+			text = "0"
+		intervals [4]:
+			xmin = 8.51
+			xmax = 16.8
+			text = ""
+		intervals [5]:
+			xmin = 16.8
+			xmax = 17.6
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 17.6
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.97
+			text = "0"
+		intervals [2]:
+			xmin = 0.97
+			xmax = 7.19
+			text = ""
+		intervals [3]:
+			xmin = 7.19
+			xmax = 8.51
+			text = "0"
+		intervals [4]:
+			xmin = 8.51
+			xmax = 16.8
+			text = ""
+		intervals [5]:
+			xmin = 16.8
+			xmax = 17.6
+			text = "0"

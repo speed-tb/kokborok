@@ -1,0 +1,272 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 66.6
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 66.6
+		intervals: size = 15
+		intervals [1]:
+			xmin = 0.0
+			xmax = 3.51
+			text = "0"
+		intervals [2]:
+			xmin = 3.51
+			xmax = 8.35
+			text = ""
+		intervals [3]:
+			xmin = 8.35
+			xmax = 8.59
+			text = "0"
+		intervals [4]:
+			xmin = 8.59
+			xmax = 12.44
+			text = ""
+		intervals [5]:
+			xmin = 12.44
+			xmax = 13.5
+			text = "0"
+		intervals [6]:
+			xmin = 13.5
+			xmax = 26.87
+			text = ""
+		intervals [7]:
+			xmin = 26.87
+			xmax = 29.21
+			text = "0"
+		intervals [8]:
+			xmin = 29.21
+			xmax = 40.02
+			text = ""
+		intervals [9]:
+			xmin = 40.02
+			xmax = 40.31
+			text = "0"
+		intervals [10]:
+			xmin = 40.31
+			xmax = 47.55
+			text = ""
+		intervals [11]:
+			xmin = 47.55
+			xmax = 47.73
+			text = "0"
+		intervals [12]:
+			xmin = 47.73
+			xmax = 53.86
+			text = ""
+		intervals [13]:
+			xmin = 53.86
+			xmax = 55.09
+			text = "0"
+		intervals [14]:
+			xmin = 55.09
+			xmax = 63.62
+			text = ""
+		intervals [15]:
+			xmin = 63.62
+			xmax = 66.6
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 66.6
+		intervals: size = 15
+		intervals [1]:
+			xmin = 0.0
+			xmax = 3.51
+			text = "0"
+		intervals [2]:
+			xmin = 3.51
+			xmax = 8.35
+			text = ""
+		intervals [3]:
+			xmin = 8.35
+			xmax = 8.59
+			text = "0"
+		intervals [4]:
+			xmin = 8.59
+			xmax = 12.44
+			text = ""
+		intervals [5]:
+			xmin = 12.44
+			xmax = 13.5
+			text = "0"
+		intervals [6]:
+			xmin = 13.5
+			xmax = 26.87
+			text = ""
+		intervals [7]:
+			xmin = 26.87
+			xmax = 29.21
+			text = "0"
+		intervals [8]:
+			xmin = 29.21
+			xmax = 40.02
+			text = ""
+		intervals [9]:
+			xmin = 40.02
+			xmax = 40.31
+			text = "0"
+		intervals [10]:
+			xmin = 40.31
+			xmax = 47.55
+			text = ""
+		intervals [11]:
+			xmin = 47.55
+			xmax = 47.73
+			text = "0"
+		intervals [12]:
+			xmin = 47.73
+			xmax = 53.86
+			text = ""
+		intervals [13]:
+			xmin = 53.86
+			xmax = 55.09
+			text = "0"
+		intervals [14]:
+			xmin = 55.09
+			xmax = 63.62
+			text = ""
+		intervals [15]:
+			xmin = 63.62
+			xmax = 66.6
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 66.6
+		intervals: size = 15
+		intervals [1]:
+			xmin = 0.0
+			xmax = 3.51
+			text = "0"
+		intervals [2]:
+			xmin = 3.51
+			xmax = 8.35
+			text = "Wngkhei phai di chwng tei tamo jat tong ba bobo hai dalbidal tong teibo nailai wano."
+		intervals [3]:
+			xmin = 8.35
+			xmax = 8.59
+			text = "0"
+		intervals [4]:
+			xmin = 8.59
+			xmax = 12.44
+			text = "Nini hajari hwngma khe biyango? Ayango i yango. Tho nailai nai."
+		intervals [5]:
+			xmin = 12.44
+			xmax = 13.5
+			text = "0"
+		intervals [6]:
+			xmin = 13.5
+			xmax = 26.87
+			text = "Takhuk nwng je mo beredum achai phamani, buiba milokni tei bo bedek bang thwng hwnwi se naio, nwngle nwngle tangwi rai rw kha sa? Obo jur si chao yaphango hwnkhe obo kunu wngya. Omo jur si chai thangnai bo, thaiya obo"
+		intervals [7]:
+			xmin = 26.87
+			xmax = 29.21
+			text = "0"
+		intervals [8]:
+			xmin = 29.21
+			xmax = 40.02
+			text = "Aroni thasi thaiya? Ihi thaiya obo.Hwnkhe chwngba nokrogo kaima ba jekhe ni simi beredom achaithung haise bwbangma khe narwgwi tonglai o. Ihi rai khibina nango abono, u bosogo phaikhese rai khibina nango."
+		intervals [9]:
+			xmin = 40.02
+			xmax = 40.31
+			text = "0"
+		intervals [10]:
+			xmin = 40.31
+			xmax = 47.55
+			text = "Bosok yango phai khe tin charyat ni pore khe ma rao. Tin bar ma rao, hwnkhe joto dur rasak aswkno bwthai thaio milok hinkei."
+		intervals [11]:
+			xmin = 47.55
+			xmax = 47.73
+			text = "0"
+		intervals [12]:
+			xmin = 47.73
+			xmax = 53.86
+			text = "Nwng mo kaimani bo mas o kaimani? Bo talo kaimani mo? Omo wngko dui mas ni age kai kha ta."
+		intervals [13]:
+			xmin = 53.86
+			xmax = 55.09
+			text = "0"
+		intervals [14]:
+			xmin = 55.09
+			xmax = 63.62
+			text = "Obo jephru je chara torwi phaio,aphro khe bosokrog de sachoi rw nang? O char o thangwi tin hat ni pore khe  ma sacho wo."
+		intervals [15]:
+			xmin = 63.62
+			xmax = 66.6
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 66.6
+		intervals: size = 15
+		intervals [1]:
+			xmin = 0.0
+			xmax = 3.51
+			text = "0"
+		intervals [2]:
+			xmin = 3.51
+			xmax = 8.35
+			text = ""
+		intervals [3]:
+			xmin = 8.35
+			xmax = 8.59
+			text = "0"
+		intervals [4]:
+			xmin = 8.59
+			xmax = 12.44
+			text = ""
+		intervals [5]:
+			xmin = 12.44
+			xmax = 13.5
+			text = "0"
+		intervals [6]:
+			xmin = 13.5
+			xmax = 26.87
+			text = ""
+		intervals [7]:
+			xmin = 26.87
+			xmax = 29.21
+			text = "0"
+		intervals [8]:
+			xmin = 29.21
+			xmax = 40.02
+			text = ""
+		intervals [9]:
+			xmin = 40.02
+			xmax = 40.31
+			text = "0"
+		intervals [10]:
+			xmin = 40.31
+			xmax = 47.55
+			text = ""
+		intervals [11]:
+			xmin = 47.55
+			xmax = 47.73
+			text = "0"
+		intervals [12]:
+			xmin = 47.73
+			xmax = 53.86
+			text = ""
+		intervals [13]:
+			xmin = 53.86
+			xmax = 55.09
+			text = "0"
+		intervals [14]:
+			xmin = 55.09
+			xmax = 63.62
+			text = ""
+		intervals [15]:
+			xmin = 63.62
+			xmax = 66.6
+			text = "0"

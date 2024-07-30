@@ -1,0 +1,128 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 140.00002267573697
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 140.00002267573697
+		intervals: size = 6
+		intervals [1]:
+			xmin = 0.0
+			xmax = 8.0
+			text = "0"
+		intervals [2]:
+			xmin = 8.0
+			xmax = 64.1
+			text = ""
+		intervals [3]:
+			xmin = 64.1
+			xmax = 84.4
+			text = ""
+		intervals [4]:
+			xmin = 84.4
+			xmax = 84.6
+			text = "0"
+		intervals [5]:
+			xmin = 84.6
+			xmax = 138.9
+			text = ""
+		intervals [6]:
+			xmin = 138.9
+			xmax = 140.00002267573697
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 140.00002267573697
+		intervals: size = 6
+		intervals [1]:
+			xmin = 0.0
+			xmax = 8.0
+			text = "0"
+		intervals [2]:
+			xmin = 8.0
+			xmax = 64.1
+			text = ""
+		intervals [3]:
+			xmin = 64.1
+			xmax = 84.4
+			text = ""
+		intervals [4]:
+			xmin = 84.4
+			xmax = 84.6
+			text = "0"
+		intervals [5]:
+			xmin = 84.6
+			xmax = 138.9
+			text = ""
+		intervals [6]:
+			xmin = 138.9
+			xmax = 140.00002267573697
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 140.00002267573697
+		intervals: size = 6
+		intervals [1]:
+			xmin = 0.0
+			xmax = 8.0
+			text = "0"
+		intervals [2]:
+			xmin = 8.0
+			xmax = 64.1
+			text = "Litar kaisa o, ek litar o pura kaisa peket bajar o koi ekta mano, je omtwi peket chikon omo khe duiso ml o mix khaio, to phano besir bakno chwng sorkari hospitolrogo thangkha hwnkai, duganrogo phano thang kha hwnkai chwng, o kotor peket omo khe ek litaro mix ma khaio  ta. Omo no standard omo no chwng tini pholo khailai wanw.Borog kaham khai buji  rwjakya khai kaham khe saya khai ba, jara kaham khai direction rwjakya, borog khe tamo khainai o peketno borog khaksa nahowi twi ada litar phano nakha,hwnkai ba, omoni kisasa naharwi ek chamos nakha, dui chamos nakha twio kuno poriman sarano borog mix khaukha. Amo kintu chaya kwlaiw ta. Hwnke omo ni kaisa amount tongo ek litaro ek peket,omo kunu kisasa ek chamos naharwi kaisa glass o mix khaina boya, twi bwswk nakha aomoni bo poriman sai maya, aomtwi jate ta ongthung ta hwnkai ek litar ek peket."
+		intervals [3]:
+			xmin = 64.1
+			xmax = 84.4
+			text = "Hwnkei amoni pore o je slution tongmani je  salt tongmani amono chwng kaham khe guliwi ma nahonai. Waisa wuisu tamo wng chwng just mix khai ri kha, jangriwi tonwi ri kha. Hinkei omo kaham khe omo miliya hinke omo ni je eficacy je tong mani tei kaham khe ephektib wnglak. Omo kaham khe mix wngwi mathangnai."
+		intervals [4]:
+			xmin = 84.4
+			xmax = 84.6
+			text = "0"
+		intervals [5]:
+			xmin = 84.6
+			xmax = 138.9
+			text = "Abo kok khe belai kheno kubui chwng nugo, omo hai peket kaisa no chwng litarkaisa twi o sapulya wi chwng kisisa khlaiwi nwng thaising samani omo hai khlaiwi glass o nawi gulogwi waisai nwng pai kha, hwnke abono thebwi tonwi ri kha omti hai k hlaiwi. Phiya ba obo khe chaya, amo chaya amono ang lukurog no kobok wo je pura kaisa peketno no ek litar twio mix ma khainai. Omo kisasa powder nakha kisasa twi nakha, hai khe mix khaiwi omswk kaham khe effective wngya. Omo onek somoi khoti phano wngwi mano. Hwnke amo poriman kaisa already bini mejor khaijak, amono kaham kai ek litar bai ek peket amo mix khai di. Litar kaisa twio peket kaisa ORS gulogwi sapung chwng tonwi mano, je phru chwng phataro thang kha phaiwi glass thaisa nwng kha.Ahai khe nwngwi mano. Hwnkei tabuk sapos chwng  kaisa example nahar wanw,"
+		intervals [6]:
+			xmin = 138.9
+			xmax = 140.00002267573697
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 140.00002267573697
+		intervals: size = 6
+		intervals [1]:
+			xmin = 0.0
+			xmax = 8.0
+			text = "0"
+		intervals [2]:
+			xmin = 8.0
+			xmax = 64.1
+			text = ""
+		intervals [3]:
+			xmin = 64.1
+			xmax = 84.4
+			text = ""
+		intervals [4]:
+			xmin = 84.4
+			xmax = 84.6
+			text = "0"
+		intervals [5]:
+			xmin = 84.6
+			xmax = 138.9
+			text = ""
+		intervals [6]:
+			xmin = 138.9
+			xmax = 140.00002267573697
+			text = "0"

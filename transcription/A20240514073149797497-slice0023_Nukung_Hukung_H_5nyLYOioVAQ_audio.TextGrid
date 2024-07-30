@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 41.40002267573696
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 41.40002267573696
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.47
+			text = "0"
+		intervals [2]:
+			xmin = 2.47
+			xmax = 27.93
+			text = ""
+		intervals [3]:
+			xmin = 27.93
+			xmax = 28.29
+			text = "0"
+		intervals [4]:
+			xmin = 28.29
+			xmax = 40.53
+			text = ""
+		intervals [5]:
+			xmin = 40.53
+			xmax = 41.40002267573696
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 41.40002267573696
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.47
+			text = "0"
+		intervals [2]:
+			xmin = 2.47
+			xmax = 27.93
+			text = "Sorkarole chwng saya kho, haiphanw chwng, nirok takgani wngkhe lun ronai ho phanw grup kaya hi hojagw ta. Hwnkhe chwngto tak taknai pans jonasi wngsigw hwnkhe bo wngkhe selphelp grup khagwi dol kwbang wnga nangnai phw. askhe simi si manai phw. Wngkhe chwng dolbw banglaiya ba bonobw sorkarni subidabw namaya kwlai tongha ta."
+		intervals [3]:
+			xmin = 27.93
+			xmax = 28.29
+			text = "0"
+		intervals [4]:
+			xmin = 28.29
+			xmax = 40.53
+			text = "Oro to kwbangma tat nugo, wngke norok chengdrop wo to, ang khachongo borok kwbangmano tongkhana,tat se kwbangma mano wngkhe ba, hwnke tei bukhukrogle biyang thangbai kha?"
+		intervals [5]:
+			xmin = 40.53
+			xmax = 41.40002267573696
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 41.40002267573696
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.47
+			text = "0"
+		intervals [2]:
+			xmin = 2.47
+			xmax = 27.93
+			text = ""
+		intervals [3]:
+			xmin = 27.93
+			xmax = 28.29
+			text = "0"
+		intervals [4]:
+			xmin = 28.29
+			xmax = 40.53
+			text = ""
+		intervals [5]:
+			xmin = 40.53
+			xmax = 41.40002267573696
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 41.40002267573696
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.47
+			text = "0"
+		intervals [2]:
+			xmin = 2.47
+			xmax = 27.93
+			text = ""
+		intervals [3]:
+			xmin = 27.93
+			xmax = 28.29
+			text = "0"
+		intervals [4]:
+			xmin = 28.29
+			xmax = 40.53
+			text = ""
+		intervals [5]:
+			xmin = 40.53
+			xmax = 41.40002267573696
+			text = "0"

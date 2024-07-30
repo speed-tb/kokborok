@@ -1,0 +1,144 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 14.3
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 14.3
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.56
+			text = "0"
+		intervals [2]:
+			xmin = 1.56
+			xmax = 4.16
+			text = ""
+		intervals [3]:
+			xmin = 4.16
+			xmax = 4.25
+			text = "0"
+		intervals [4]:
+			xmin = 4.25
+			xmax = 8.62
+			text = ""
+		intervals [5]:
+			xmin = 8.62
+			xmax = 8.71
+			text = "0"
+		intervals [6]:
+			xmin = 8.71
+			xmax = 13.71
+			text = ""
+		intervals [7]:
+			xmin = 13.71
+			xmax = 14.3
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 14.3
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.56
+			text = "0"
+		intervals [2]:
+			xmin = 1.56
+			xmax = 4.16
+			text = "samung pailaiya samung paiya."
+		intervals [3]:
+			xmin = 4.16
+			xmax = 4.25
+			text = "0"
+		intervals [4]:
+			xmin = 4.25
+			xmax = 8.62
+			text = "abo kaisa continuous process, abo chung tang phlaino ma tongo."
+		intervals [5]:
+			xmin = 8.62
+			xmax = 8.71
+			text = "0"
+		intervals [6]:
+			xmin = 8.71
+			xmax = 13.71
+			text = "hwnkhe thaisingo nwng kisa kok tisa kha rwchabmungni kok twiwi nai"
+		intervals [7]:
+			xmin = 13.71
+			xmax = 14.3
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 14.3
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.56
+			text = "0"
+		intervals [2]:
+			xmin = 1.56
+			xmax = 4.16
+			text = ""
+		intervals [3]:
+			xmin = 4.16
+			xmax = 4.25
+			text = "0"
+		intervals [4]:
+			xmin = 4.25
+			xmax = 8.62
+			text = ""
+		intervals [5]:
+			xmin = 8.62
+			xmax = 8.71
+			text = "0"
+		intervals [6]:
+			xmin = 8.71
+			xmax = 13.71
+			text = ""
+		intervals [7]:
+			xmin = 13.71
+			xmax = 14.3
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 14.3
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.56
+			text = "0"
+		intervals [2]:
+			xmin = 1.56
+			xmax = 4.16
+			text = ""
+		intervals [3]:
+			xmin = 4.16
+			xmax = 4.25
+			text = "0"
+		intervals [4]:
+			xmin = 4.25
+			xmax = 8.62
+			text = ""
+		intervals [5]:
+			xmin = 8.62
+			xmax = 8.71
+			text = "0"
+		intervals [6]:
+			xmin = 8.71
+			xmax = 13.71
+			text = ""
+		intervals [7]:
+			xmin = 13.71
+			xmax = 14.3
+			text = "0"

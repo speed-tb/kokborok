@@ -1,0 +1,128 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 176.0
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 176.0
+		intervals: size = 6
+		intervals [1]:
+			xmin = 0.0
+			xmax = 82.6
+			text = ""
+		intervals [2]:
+			xmin = 82.6
+			xmax = 82.8
+			text = "0"
+		intervals [3]:
+			xmin = 82.8
+			xmax = 165.6
+			text = ""
+		intervals [4]:
+			xmin = 165.6
+			xmax = 166.2
+			text = "0"
+		intervals [5]:
+			xmin = 166.2
+			xmax = 175.8
+			text = ""
+		intervals [6]:
+			xmin = 175.8
+			xmax = 176.0
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 176.0
+		intervals: size = 6
+		intervals [1]:
+			xmin = 0.0
+			xmax = 82.6
+			text = ""
+		intervals [2]:
+			xmin = 82.6
+			xmax = 82.8
+			text = "0"
+		intervals [3]:
+			xmin = 82.8
+			xmax = 165.6
+			text = ""
+		intervals [4]:
+			xmin = 165.6
+			xmax = 166.2
+			text = "0"
+		intervals [5]:
+			xmin = 166.2
+			xmax = 175.8
+			text = ""
+		intervals [6]:
+			xmin = 175.8
+			xmax = 176.0
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 176.0
+		intervals: size = 6
+		intervals [1]:
+			xmin = 0.0
+			xmax = 82.6
+			text = "ORS tabuk chwng jotono no kobok w, je nogo nogo ORS  ni peket kaisa kanwi ton bai di hwnwi. Tamo hinke suppose buphru dairiya keboni wngthang keboni phano wngwi mano je  keboni phano. Wngke saboni buphru wngno amo to puila chwng siya. Suppose dairiya wngkha hwnkai boni khio je twi kwbangma lai tong kha sol sol  wng tongkha khi patla wng tongkha, aphru jodi nogo tongkhakai nogo a ORS peketno bongni je swnam nani raida bai swnamwi charikha hwnkai onekta rilip manwi mano.Suppose tabuk hor dosta egarota wngwi tongkha ba chini kami amchairogo, joto jora doctor manthokya phano wngwi mano,nogo ORS peket tongo, wngkhe bo a ORS peketno raida bai swnamwi patla paikhena wngkheno borogno jodi charikha hinkai aphru borogni u je dehydration hinmani je twi kom wng thango bwsago hinmani, amo baito rilief manwi mano. Hinkai ek dui din bo amo amotwi khe chari kha hinkei, jodi komiya hinkai, aboni ulo bo doctorno phunugwi mano ta. Teini dino phunugwi man kha salo, salni jora phunugwi manka. Wngke atleast je u je hor jora ba je kaisa time period jephru borog doctorno phunugwi maliya, a jorale langka no relief manwi painai. Tei u je siriyesnes a jago borog thang glak."
+		intervals [2]:
+			xmin = 82.6
+			xmax = 82.8
+			text = "0"
+		intervals [3]:
+			xmin = 82.8
+			xmax = 165.6
+			text = "Tei kaisa hwnka kai je obo to u, bo belai kebel wngwi thang kha abono katirinani bagwi se o ORS no khanrinai. Phiya ba u je bohok derawi  khimani amo khe thathakno o ORS bai? ORS bai to some extent amo bwthakjago. Hwnkai borogni je, dairiya o basically je virus je wngko wngmani, infection je khaimani amo basically self limited. Selflimited bolte bo nije nije hoite no hamnani, hamwi thango. Besirbakno nini ninety percent khetre satdin ni bisingo borog improve wngwi thango. Wngkhe a satdin je u twi thangmani bwsakni je som thangmani abono se nwng prevent ma khaio. Wngke dairiya o thwi mani hwnke dehydration ni bagwi se. Wngke a ORS rika wngke dehydration no prevent khaimano. Hwnke a dehydration bo sorir o bini twi tongka wngke no bo tai a siriyesnes o thanglak. Hwnke bo twrwk twrwk hamwi mano ta. Twrwk twrwk hamnai. Hwnke aswk no hamliya hwnkake chwng hospitol o tlangwi mankha chwng. Bisi siriyes wngwi thangkha ORS riwi bo improve wngya wng tongkha, hinkei je dehydration ni je signsrog jemon mokol kuthuk wng tongkha, ORS riwi bo mokol kuthuk wngwi thang tong kha, bukhuk kwran wngwi thang tongkha,skin loose wngwi thangmano, chini bukurog loose wngwi thangkha, aphru hinkei chwng amo saimani je, bo sudu ORS bai wngliya bono tei oino treatment bo rina nangnai."
+		intervals [4]:
+			xmin = 165.6
+			xmax = 166.2
+			text = "0"
+		intervals [5]:
+			xmin = 166.2
+			xmax = 175.8
+			text = "Kaisa okra borokno bo dairiya wngmani ulo salo wai bwswk chwng ORS rwi man?"
+		intervals [6]:
+			xmin = 175.8
+			xmax = 176.0
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 176.0
+		intervals: size = 6
+		intervals [1]:
+			xmin = 0.0
+			xmax = 82.6
+			text = ""
+		intervals [2]:
+			xmin = 82.6
+			xmax = 82.8
+			text = "0"
+		intervals [3]:
+			xmin = 82.8
+			xmax = 165.6
+			text = ""
+		intervals [4]:
+			xmin = 165.6
+			xmax = 166.2
+			text = "0"
+		intervals [5]:
+			xmin = 166.2
+			xmax = 175.8
+			text = ""
+		intervals [6]:
+			xmin = 175.8
+			xmax = 176.0
+			text = "0"

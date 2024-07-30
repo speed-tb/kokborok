@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 8.800022675736962
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 8.800022675736962
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.57
+			text = "0"
+		intervals [2]:
+			xmin = 1.57
+			xmax = 7.46
+			text = ""
+		intervals [3]:
+			xmin = 7.46
+			xmax = 8.800022675736962
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 8.800022675736962
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.57
+			text = "0"
+		intervals [2]:
+			xmin = 1.57
+			xmax = 7.46
+			text = "Aro no Braun kha kham kha, Meksiko wo thangwi khadini samung chengnai."
+		intervals [3]:
+			xmin = 7.46
+			xmax = 8.800022675736962
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 8.800022675736962
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.57
+			text = "0"
+		intervals [2]:
+			xmin = 1.57
+			xmax = 7.46
+			text = ""
+		intervals [3]:
+			xmin = 7.46
+			xmax = 8.800022675736962
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 8.800022675736962
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.57
+			text = "0"
+		intervals [2]:
+			xmin = 1.57
+			xmax = 7.46
+			text = ""
+		intervals [3]:
+			xmin = 7.46
+			xmax = 8.800022675736962
+			text = "0"

@@ -1,0 +1,144 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 35.1
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 35.1
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.66
+			text = "0"
+		intervals [2]:
+			xmin = 1.66
+			xmax = 10.62
+			text = ""
+		intervals [3]:
+			xmin = 10.62
+			xmax = 10.87
+			text = "0"
+		intervals [4]:
+			xmin = 10.87
+			xmax = 14.47
+			text = ""
+		intervals [5]:
+			xmin = 14.47
+			xmax = 14.87
+			text = "0"
+		intervals [6]:
+			xmin = 14.87
+			xmax = 34.48
+			text = ""
+		intervals [7]:
+			xmin = 34.48
+			xmax = 35.1
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 35.1
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.66
+			text = "0"
+		intervals [2]:
+			xmin = 1.66
+			xmax = 10.62
+			text = "Kebo kebo ba bwsla chai tongo ani tamo? Amtwiya. O bwslabo anino, ani bobisotni ani wngko, hoito bini bwsla wng mano."
+		intervals [3]:
+			xmin = 10.62
+			xmax = 10.87
+			text = "0"
+		intervals [4]:
+			xmin = 10.87
+			xmax = 14.47
+			text = "Nini bwsla je wngya abo kunu sure de tong? Abo kuno sure, abo kwrwi."
+		intervals [5]:
+			xmin = 14.47
+			xmax = 14.87
+			text = "0"
+		intervals [6]:
+			xmin = 14.87
+			xmax = 34.48
+			text = "Abono no hino, bini bwsla phano wngmano, ani bo aro wngko manthai tongo. Ani dophani wngko  hisap ani bo manthai tongo.Sudu boni bwslaya, ani bo bwslano. Abono,nugwi chwng dukho bo nango. Ma bujilainai chwng jotono. Khoraksano chai tongma nukhe chwng bono mana ma khlainai."
+		intervals [7]:
+			xmin = 34.48
+			xmax = 35.1
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 35.1
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.66
+			text = "0"
+		intervals [2]:
+			xmin = 1.66
+			xmax = 10.62
+			text = ""
+		intervals [3]:
+			xmin = 10.62
+			xmax = 10.87
+			text = "0"
+		intervals [4]:
+			xmin = 10.87
+			xmax = 14.47
+			text = ""
+		intervals [5]:
+			xmin = 14.47
+			xmax = 14.87
+			text = "0"
+		intervals [6]:
+			xmin = 14.87
+			xmax = 34.48
+			text = ""
+		intervals [7]:
+			xmin = 34.48
+			xmax = 35.1
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 35.1
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.66
+			text = "0"
+		intervals [2]:
+			xmin = 1.66
+			xmax = 10.62
+			text = ""
+		intervals [3]:
+			xmin = 10.62
+			xmax = 10.87
+			text = "0"
+		intervals [4]:
+			xmin = 10.87
+			xmax = 14.47
+			text = ""
+		intervals [5]:
+			xmin = 14.47
+			xmax = 14.87
+			text = "0"
+		intervals [6]:
+			xmin = 14.87
+			xmax = 34.48
+			text = ""
+		intervals [7]:
+			xmin = 34.48
+			xmax = 35.1
+			text = "0"

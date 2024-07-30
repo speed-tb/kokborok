@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 17.8
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Latin-gloss"
+		xmin = 0.0
+		xmax = 17.8
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.19
+			text = "0"
+		intervals [2]:
+			xmin = 1.19
+			xmax = 6.61
+			text = ""
+		intervals [3]:
+			xmin = 6.61
+			xmax = 7.37
+			text = "0"
+		intervals [4]:
+			xmin = 7.37
+			xmax = 10.2
+			text = ""
+		intervals [5]:
+			xmin = 10.2
+			xmax = 10.9
+			text = "0"
+		intervals [6]:
+			xmin = 10.9
+			xmax = 16.8
+			text = ""
+		intervals [7]:
+			xmin = 16.8
+			xmax = 17.8
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 17.8
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.19
+			text = "0"
+		intervals [2]:
+			xmin = 1.19
+			xmax = 6.61
+			text = "Abo sudu ang khwlai nai phalwi poisa manai hai kok ya."
+		intervals [3]:
+			xmin = 6.61
+			xmax = 7.37
+			text = "0"
+		intervals [4]:
+			xmin = 7.37
+			xmax = 10.2
+			text = "Chwng birichwk bura muchungmani hinkhai,"
+		intervals [5]:
+			xmin = 10.2
+			xmax = 10.9
+			text = "0"
+		intervals [6]:
+			xmin = 10.9
+			xmax = 16.8
+			text = "o elaka ni borokrog bo swrwngwi nai, mwikwthwngrog kai nai poisarog aje thwng."
+		intervals [7]:
+			xmin = 16.8
+			xmax = 17.8
+			text = "0"

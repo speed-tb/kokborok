@@ -1,0 +1,144 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 39.6
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 39.6
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 3.47
+			text = "0"
+		intervals [2]:
+			xmin = 3.47
+			xmax = 12.89
+			text = ""
+		intervals [3]:
+			xmin = 12.89
+			xmax = 12.99
+			text = "0"
+		intervals [4]:
+			xmin = 12.99
+			xmax = 22.89
+			text = ""
+		intervals [5]:
+			xmin = 22.89
+			xmax = 24.59
+			text = "0"
+		intervals [6]:
+			xmin = 24.59
+			xmax = 38.87
+			text = ""
+		intervals [7]:
+			xmin = 38.87
+			xmax = 39.6
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 39.6
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 3.47
+			text = "0"
+		intervals [2]:
+			xmin = 3.47
+			xmax = 12.89
+			text = "Takhuk nin oro to kkwbangma chwng milok nukha,baksa baksa,je nin oro chikon chikonrog baksa sokna naimahai aborog khe tamni bagwi wng?"
+		intervals [3]:
+			xmin = 12.89
+			xmax = 12.99
+			text = "0"
+		intervals [4]:
+			xmin = 12.99
+			xmax = 22.89
+			text = "Omo romdi kaisa sokna nai ma hai, omo bo kaisa, obo hairog wng khe tamo khalai norog? Tamni bagwi obo hai wng? Chamung kwrwi ni bagwi bo obo hai wngo. Chamung obab bini."
+		intervals [5]:
+			xmin = 22.89
+			xmax = 24.59
+			text = "0"
+		intervals [6]:
+			xmin = 24.59
+			xmax = 38.87
+			text = "Bo chamung manliya ni bagwi, boni omo hai wngkha? Bo tei toliya? Aboni bagwi swkang bariya chamung rwna bagwi tamo tamo chamung rwsa? Bono muskhirog kolom khe ma rwnai omo hai ta."
+		intervals [7]:
+			xmin = 38.87
+			xmax = 39.6
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 39.6
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 3.47
+			text = "0"
+		intervals [2]:
+			xmin = 3.47
+			xmax = 12.89
+			text = ""
+		intervals [3]:
+			xmin = 12.89
+			xmax = 12.99
+			text = "0"
+		intervals [4]:
+			xmin = 12.99
+			xmax = 22.89
+			text = ""
+		intervals [5]:
+			xmin = 22.89
+			xmax = 24.59
+			text = "0"
+		intervals [6]:
+			xmin = 24.59
+			xmax = 38.87
+			text = ""
+		intervals [7]:
+			xmin = 38.87
+			xmax = 39.6
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 39.6
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 3.47
+			text = "0"
+		intervals [2]:
+			xmin = 3.47
+			xmax = 12.89
+			text = ""
+		intervals [3]:
+			xmin = 12.89
+			xmax = 12.99
+			text = "0"
+		intervals [4]:
+			xmin = 12.99
+			xmax = 22.89
+			text = ""
+		intervals [5]:
+			xmin = 22.89
+			xmax = 24.59
+			text = "0"
+		intervals [6]:
+			xmin = 24.59
+			xmax = 38.87
+			text = ""
+		intervals [7]:
+			xmin = 38.87
+			xmax = 39.6
+			text = "0"

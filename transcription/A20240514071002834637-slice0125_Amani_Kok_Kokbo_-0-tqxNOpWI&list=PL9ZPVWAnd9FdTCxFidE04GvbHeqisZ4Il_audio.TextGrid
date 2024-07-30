@@ -1,0 +1,208 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 25.4
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 25.4
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.07
+			text = "0"
+		intervals [2]:
+			xmin = 1.07
+			xmax = 2.92
+			text = ""
+		intervals [3]:
+			xmin = 2.92
+			xmax = 2.96
+			text = "0"
+		intervals [4]:
+			xmin = 2.96
+			xmax = 4.17
+			text = ""
+		intervals [5]:
+			xmin = 4.17
+			xmax = 6.26
+			text = "0"
+		intervals [6]:
+			xmin = 6.26
+			xmax = 8.04
+			text = ""
+		intervals [7]:
+			xmin = 8.04
+			xmax = 8.2
+			text = "0"
+		intervals [8]:
+			xmin = 8.2
+			xmax = 20.43
+			text = ""
+		intervals [9]:
+			xmin = 20.43
+			xmax = 20.81
+			text = "0"
+		intervals [10]:
+			xmin = 20.81
+			xmax = 24.09
+			text = ""
+		intervals [11]:
+			xmin = 24.09
+			xmax = 25.4
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 25.4
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.07
+			text = "0"
+		intervals [2]:
+			xmin = 1.07
+			xmax = 2.92
+			text = "kokborok sama yakarwi rwkha"
+		intervals [3]:
+			xmin = 2.92
+			xmax = 2.96
+			text = "0"
+		intervals [4]:
+			xmin = 2.96
+			xmax = 4.17
+			text = "this is death of language"
+		intervals [5]:
+			xmin = 4.17
+			xmax = 6.26
+			text = "0"
+		intervals [6]:
+			xmin = 6.26
+			xmax = 8.04
+			text = "bhasha mritu tamo hin?"
+		intervals [7]:
+			xmin = 8.04
+			xmax = 8.2
+			text = "0"
+		intervals [8]:
+			xmin = 8.2
+			xmax = 20.43
+			text = "khub sohos jemon romdi kokborok nwng tini ni siminw sanani bondo khlai rwkha, nini bwsa bwtwi nokni borokrog kebo kok salailiya, kokborok nini thani death language."
+		intervals [9]:
+			xmin = 20.43
+			xmax = 20.81
+			text = "0"
+		intervals [10]:
+			xmin = 20.81
+			xmax = 24.09
+			text = "aboni bagwino certain jonoriko"
+		intervals [11]:
+			xmin = 24.09
+			xmax = 25.4
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 25.4
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.07
+			text = "0"
+		intervals [2]:
+			xmin = 1.07
+			xmax = 2.92
+			text = ""
+		intervals [3]:
+			xmin = 2.92
+			xmax = 2.96
+			text = "0"
+		intervals [4]:
+			xmin = 2.96
+			xmax = 4.17
+			text = ""
+		intervals [5]:
+			xmin = 4.17
+			xmax = 6.26
+			text = "0"
+		intervals [6]:
+			xmin = 6.26
+			xmax = 8.04
+			text = ""
+		intervals [7]:
+			xmin = 8.04
+			xmax = 8.2
+			text = "0"
+		intervals [8]:
+			xmin = 8.2
+			xmax = 20.43
+			text = ""
+		intervals [9]:
+			xmin = 20.43
+			xmax = 20.81
+			text = "0"
+		intervals [10]:
+			xmin = 20.81
+			xmax = 24.09
+			text = ""
+		intervals [11]:
+			xmin = 24.09
+			xmax = 25.4
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 25.4
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.07
+			text = "0"
+		intervals [2]:
+			xmin = 1.07
+			xmax = 2.92
+			text = ""
+		intervals [3]:
+			xmin = 2.92
+			xmax = 2.96
+			text = "0"
+		intervals [4]:
+			xmin = 2.96
+			xmax = 4.17
+			text = ""
+		intervals [5]:
+			xmin = 4.17
+			xmax = 6.26
+			text = "0"
+		intervals [6]:
+			xmin = 6.26
+			xmax = 8.04
+			text = ""
+		intervals [7]:
+			xmin = 8.04
+			xmax = 8.2
+			text = "0"
+		intervals [8]:
+			xmin = 8.2
+			xmax = 20.43
+			text = ""
+		intervals [9]:
+			xmin = 20.43
+			xmax = 20.81
+			text = "0"
+		intervals [10]:
+			xmin = 20.81
+			xmax = 24.09
+			text = ""
+		intervals [11]:
+			xmin = 24.09
+			xmax = 25.4
+			text = "0"

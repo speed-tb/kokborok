@@ -1,0 +1,144 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 63.3
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 63.3
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.28
+			text = "0"
+		intervals [2]:
+			xmin = 1.28
+			xmax = 18.43
+			text = ""
+		intervals [3]:
+			xmin = 18.43
+			xmax = 18.66
+			text = "0"
+		intervals [4]:
+			xmin = 18.66
+			xmax = 30.26
+			text = ""
+		intervals [5]:
+			xmin = 30.26
+			xmax = 30.48
+			text = "0"
+		intervals [6]:
+			xmin = 30.48
+			xmax = 61.86
+			text = ""
+		intervals [7]:
+			xmin = 61.86
+			xmax = 63.3
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 63.3
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.28
+			text = "0"
+		intervals [2]:
+			xmin = 1.28
+			xmax = 18.43
+			text = ""
+		intervals [3]:
+			xmin = 18.43
+			xmax = 18.66
+			text = "0"
+		intervals [4]:
+			xmin = 18.66
+			xmax = 30.26
+			text = ""
+		intervals [5]:
+			xmin = 30.26
+			xmax = 30.48
+			text = "0"
+		intervals [6]:
+			xmin = 30.48
+			xmax = 61.86
+			text = ""
+		intervals [7]:
+			xmin = 61.86
+			xmax = 63.3
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 63.3
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.28
+			text = "0"
+		intervals [2]:
+			xmin = 1.28
+			xmax = 18.43
+			text = "amtwi wansuk ta ang. Mane kwbangma NGO rog, joto nini club wngthwng, parani sikla borokrogno bisile agogwi phainai nango obo haio. Abono borogno agognai,tango, ebong borogno to chini bobosotni wngko biswma."
+		intervals [3]:
+			xmin = 18.43
+			xmax = 18.66
+			text = "0"
+		intervals [4]:
+			xmin = 18.66
+			xmax = 30.26
+			text = "Hwnke abagwino abo ekta somoibo tongo.Somoini hamyani bagwi de chwngba wngkha? Chini kwoalni bagwi de wngkha? amtwi wansoklai ma tongta iko."
+		intervals [5]:
+			xmin = 30.26
+			xmax = 30.48
+			text = "0"
+		intervals [6]:
+			xmin = 30.48
+			xmax = 61.86
+			text = "Wngke ang oro kok tei kaisa swngna muchungma khe hai se, je chwng nugo tabok sohoro, chini cherairog ma-pha kwrwi, ojaga nok bara tongwi porena hwnwi phailai o, haiya di ba na,hwnkhei phiya porina to hwnwi phailao, haiphano borogno pore ma jagale bwswk kwlwk siya,o hamya phaisingo no kwbang thangmani nugo. Ajaga buma buphani khlai thai tamo? Belai khlai thai, belai daito buma-buphani bo, cherai saichung porei tongo hihai yakarwi tongwi chukya, bono naikani makhainai,bono ma naichomnai."
+		intervals [7]:
+			xmin = 61.86
+			xmax = 63.3
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 63.3
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.28
+			text = "0"
+		intervals [2]:
+			xmin = 1.28
+			xmax = 18.43
+			text = ""
+		intervals [3]:
+			xmin = 18.43
+			xmax = 18.66
+			text = "0"
+		intervals [4]:
+			xmin = 18.66
+			xmax = 30.26
+			text = ""
+		intervals [5]:
+			xmin = 30.26
+			xmax = 30.48
+			text = "0"
+		intervals [6]:
+			xmin = 30.48
+			xmax = 61.86
+			text = ""
+		intervals [7]:
+			xmin = 61.86
+			xmax = 63.3
+			text = "0"

@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 27.4
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 27.4
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 21.73
+			text = "0"
+		intervals [2]:
+			xmin = 21.73
+			xmax = 26.92
+			text = ""
+		intervals [3]:
+			xmin = 26.92
+			xmax = 27.4
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 27.4
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 21.73
+			text = "0"
+		intervals [2]:
+			xmin = 21.73
+			xmax = 26.92
+			text = ""
+		intervals [3]:
+			xmin = 26.92
+			xmax = 27.4
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 27.4
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 21.73
+			text = "0"
+		intervals [2]:
+			xmin = 21.73
+			xmax = 26.92
+			text = "Chwng khoraksa bukhuk oro samung khai tongma nugo, bini samung no chwng srwnglaiwanw."
+		intervals [3]:
+			xmin = 26.92
+			xmax = 27.4
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 27.4
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 21.73
+			text = "0"
+		intervals [2]:
+			xmin = 21.73
+			xmax = 26.92
+			text = ""
+		intervals [3]:
+			xmin = 26.92
+			xmax = 27.4
+			text = "0"

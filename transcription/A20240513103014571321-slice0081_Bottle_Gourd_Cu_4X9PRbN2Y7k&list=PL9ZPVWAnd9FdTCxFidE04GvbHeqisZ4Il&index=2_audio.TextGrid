@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 64.3
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 64.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.54
+			text = "0"
+		intervals [2]:
+			xmin = 2.54
+			xmax = 47.49
+			text = ""
+		intervals [3]:
+			xmin = 47.49
+			xmax = 47.66
+			text = "0"
+		intervals [4]:
+			xmin = 47.66
+			xmax = 63.12
+			text = ""
+		intervals [5]:
+			xmin = 63.12
+			xmax = 64.3
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 64.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.54
+			text = "0"
+		intervals [2]:
+			xmin = 2.54
+			xmax = 47.49
+			text = "Do wng khe chwng sai mankha je o bukhuk bo kathal tolini bini nok, phiya bo oro kanchan mala ni je Telargon o phainai takhuk Orjun ni aroni je milok ta talangwi nai bo Auli amchaio bo boni gari baino baithangni malkhung baino bo phalo. Obo bai jara painairog borog khatung khaja wngjak, tangwi hwnka ke o milok aswk khe kothok oro kuno boni sarog kwbang khe rwjakya je khalaijago organik hai khe nw khalaijakma bai tei tatka milok manwi nai lukurog belai khatung khaja. Tei bini khuktwi chwng saiman kha je bono bo dino milok tubnai, bo dino milok tubnai aboni bagwi bo tini milok nani phai kha, chwngbo phai malai kha bobai ang kok sai man kha je o milok phalwinai bini kahamno inkam wngwi tongo."
+		intervals [3]:
+			xmin = 47.49
+			xmax = 47.66
+			text = "0"
+		intervals [4]:
+			xmin = 47.66
+			xmax = 63.12
+			text = "Takhuk nwng to sakha je,poitalis din hwnka keno milok thaio, ba mo nin mo dui masrog ka kha kai mani, hwnke bosoro waibwswk kai waisa sijono de nwng mo kai, koi dinrog mo milok buphang tong?"
+		intervals [5]:
+			xmin = 63.12
+			xmax = 64.3
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 64.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.54
+			text = "0"
+		intervals [2]:
+			xmin = 2.54
+			xmax = 47.49
+			text = ""
+		intervals [3]:
+			xmin = 47.49
+			xmax = 47.66
+			text = "0"
+		intervals [4]:
+			xmin = 47.66
+			xmax = 63.12
+			text = ""
+		intervals [5]:
+			xmin = 63.12
+			xmax = 64.3
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 64.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.54
+			text = "0"
+		intervals [2]:
+			xmin = 2.54
+			xmax = 47.49
+			text = ""
+		intervals [3]:
+			xmin = 47.49
+			xmax = 47.66
+			text = "0"
+		intervals [4]:
+			xmin = 47.66
+			xmax = 63.12
+			text = ""
+		intervals [5]:
+			xmin = 63.12
+			xmax = 64.3
+			text = "0"

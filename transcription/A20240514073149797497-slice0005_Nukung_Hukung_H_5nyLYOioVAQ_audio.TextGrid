@@ -1,0 +1,144 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 109.7
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 109.7
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.1
+			text = "0"
+		intervals [2]:
+			xmin = 0.1
+			xmax = 40.61
+			text = ""
+		intervals [3]:
+			xmin = 40.61
+			xmax = 40.9
+			text = "0"
+		intervals [4]:
+			xmin = 40.9
+			xmax = 81.99
+			text = ""
+		intervals [5]:
+			xmin = 81.99
+			xmax = 83.91
+			text = "0"
+		intervals [6]:
+			xmin = 83.91
+			xmax = 109.6
+			text = ""
+		intervals [7]:
+			xmin = 109.6
+			xmax = 109.7
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 109.7
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.1
+			text = "0"
+		intervals [2]:
+			xmin = 0.1
+			xmax = 40.61
+			text = ""
+		intervals [3]:
+			xmin = 40.61
+			xmax = 40.9
+			text = "0"
+		intervals [4]:
+			xmin = 40.9
+			xmax = 81.99
+			text = ""
+		intervals [5]:
+			xmin = 81.99
+			xmax = 83.91
+			text = "0"
+		intervals [6]:
+			xmin = 83.91
+			xmax = 109.6
+			text = ""
+		intervals [7]:
+			xmin = 109.6
+			xmax = 109.7
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 109.7
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.1
+			text = "0"
+		intervals [2]:
+			xmin = 0.1
+			xmax = 40.61
+			text = "Omo hwnkhe ba omo haikhe Bou how,omo khe stend omo swngmani ri swngmani stend hwnta. Hwnke oroni simi o khwtwngno puila dulna nango? I, abo u khwtwng je chwng paimani bajarni aroni simi dulwi aro thepawi nakha ke yangtwi khe tabuk oro dulo kotor, oro swngo. Hwnke aboni ulo tamo khlainai? Oro swngpaiha wngkhe hai oro dulphiw. O jaga no na? ehe tei kaisaao, ayang tei kaisa tongo, I. hwnke aboni ulo je mein je nirogni tat tongo a jago haikhe khawi haikhe tikhlaiwi nalsai ha ta."
+		intervals [3]:
+			xmin = 40.61
+			xmax = 40.9
+			text = "0"
+		intervals [4]:
+			xmin = 40.9
+			xmax = 81.99
+			text = "hwnke puila chengmani khe omo hai khe chengna nangnai,wngkhe obo tabok tini nwng cheng kha tini de swngbaino? Tini swng kheba swng pai maw ta tini no, tini sal tongkho ba.Wngkhe nwng tak obo tamo khlaina nai tong, rignai da na rikutuk da tamo khlaina nai? Omo hwnkhe sari. Waisa bai hwnke, chwng sari kangbwswk tagwi man? Soi ta. Soitarog tagwi mano hwnkai nwng tini romdi tini chengkha hwnkai obo swngbaiwi, takbaiwi paisukna khe salbwswkrog nang? Soita no de? Soitano le nangw mas ordekrog."
+		intervals [5]:
+			xmin = 81.99
+			xmax = 83.91
+			text = "0"
+		intervals [6]:
+			xmin = 83.91
+			xmax = 109.6
+			text = "Omo hwngkhe omo hwngkhe moirang khe tou w ta plenya. Nwng obo sarini bwsak wngkhe kuphur wngnai haida wngkhe kinar o wngkhai gulapi. Hwnke bwthairog tongnai da?Bwthai tongo. Bwthai khe bo bwthai wngnai? Monipurini, u Mondir bokhrok ri takmani omo hai."
+		intervals [7]:
+			xmin = 109.6
+			xmax = 109.7
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 109.7
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.1
+			text = "0"
+		intervals [2]:
+			xmin = 0.1
+			xmax = 40.61
+			text = ""
+		intervals [3]:
+			xmin = 40.61
+			xmax = 40.9
+			text = "0"
+		intervals [4]:
+			xmin = 40.9
+			xmax = 81.99
+			text = ""
+		intervals [5]:
+			xmin = 81.99
+			xmax = 83.91
+			text = "0"
+		intervals [6]:
+			xmin = 83.91
+			xmax = 109.6
+			text = ""
+		intervals [7]:
+			xmin = 109.6
+			xmax = 109.7
+			text = "0"

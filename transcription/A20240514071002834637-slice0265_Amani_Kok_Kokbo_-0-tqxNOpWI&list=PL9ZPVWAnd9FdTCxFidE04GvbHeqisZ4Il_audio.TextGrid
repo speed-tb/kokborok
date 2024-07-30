@@ -1,0 +1,208 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 22.1
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 22.1
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.16
+			text = "0"
+		intervals [2]:
+			xmin = 1.16
+			xmax = 4.38
+			text = ""
+		intervals [3]:
+			xmin = 4.38
+			xmax = 4.41
+			text = "0"
+		intervals [4]:
+			xmin = 4.41
+			xmax = 7.15
+			text = ""
+		intervals [5]:
+			xmin = 7.15
+			xmax = 7.17
+			text = "0"
+		intervals [6]:
+			xmin = 7.17
+			xmax = 9.77
+			text = ""
+		intervals [7]:
+			xmin = 9.77
+			xmax = 9.79
+			text = "0"
+		intervals [8]:
+			xmin = 9.79
+			xmax = 13.2
+			text = ""
+		intervals [9]:
+			xmin = 13.2
+			xmax = 14.36
+			text = "0"
+		intervals [10]:
+			xmin = 14.36
+			xmax = 21.01
+			text = ""
+		intervals [11]:
+			xmin = 21.01
+			xmax = 22.1
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 22.1
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.16
+			text = "0"
+		intervals [2]:
+			xmin = 1.16
+			xmax = 4.38
+			text = "kintu borogbo kichhu guidence nango,"
+		intervals [3]:
+			xmin = 4.38
+			xmax = 4.41
+			text = "0"
+		intervals [4]:
+			xmin = 4.41
+			xmax = 7.15
+			text = "continuous simultaneously swi thang thani"
+		intervals [5]:
+			xmin = 7.15
+			xmax = 7.17
+			text = "0"
+		intervals [6]:
+			xmin = 7.17
+			xmax = 9.77
+			text = "tar financial bepat tepatrog tongono nango somoio"
+		intervals [7]:
+			xmin = 9.77
+			xmax = 9.79
+			text = "0"
+		intervals [8]:
+			xmin = 9.79
+			xmax = 13.2
+			text = "hwnkei tei oro da nondo tei kokthaisa ma sao, thaisa ma sao."
+		intervals [9]:
+			xmin = 13.2
+			xmax = 14.36
+			text = "0"
+		intervals [10]:
+			xmin = 14.36
+			xmax = 21.01
+			text = "kaisa platform bo nango je jagao, platform bo chung riwi maya wngwi tongkha, media nango"
+		intervals [11]:
+			xmin = 21.01
+			xmax = 22.1
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 22.1
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.16
+			text = "0"
+		intervals [2]:
+			xmin = 1.16
+			xmax = 4.38
+			text = ""
+		intervals [3]:
+			xmin = 4.38
+			xmax = 4.41
+			text = "0"
+		intervals [4]:
+			xmin = 4.41
+			xmax = 7.15
+			text = ""
+		intervals [5]:
+			xmin = 7.15
+			xmax = 7.17
+			text = "0"
+		intervals [6]:
+			xmin = 7.17
+			xmax = 9.77
+			text = ""
+		intervals [7]:
+			xmin = 9.77
+			xmax = 9.79
+			text = "0"
+		intervals [8]:
+			xmin = 9.79
+			xmax = 13.2
+			text = ""
+		intervals [9]:
+			xmin = 13.2
+			xmax = 14.36
+			text = "0"
+		intervals [10]:
+			xmin = 14.36
+			xmax = 21.01
+			text = ""
+		intervals [11]:
+			xmin = 21.01
+			xmax = 22.1
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 22.1
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.16
+			text = "0"
+		intervals [2]:
+			xmin = 1.16
+			xmax = 4.38
+			text = ""
+		intervals [3]:
+			xmin = 4.38
+			xmax = 4.41
+			text = "0"
+		intervals [4]:
+			xmin = 4.41
+			xmax = 7.15
+			text = ""
+		intervals [5]:
+			xmin = 7.15
+			xmax = 7.17
+			text = "0"
+		intervals [6]:
+			xmin = 7.17
+			xmax = 9.77
+			text = ""
+		intervals [7]:
+			xmin = 9.77
+			xmax = 9.79
+			text = "0"
+		intervals [8]:
+			xmin = 9.79
+			xmax = 13.2
+			text = ""
+		intervals [9]:
+			xmin = 13.2
+			xmax = 14.36
+			text = "0"
+		intervals [10]:
+			xmin = 14.36
+			xmax = 21.01
+			text = ""
+		intervals [11]:
+			xmin = 21.01
+			xmax = 22.1
+			text = "0"

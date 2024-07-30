@@ -1,0 +1,144 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 56.4
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 56.4
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.45
+			text = "0"
+		intervals [2]:
+			xmin = 0.45
+			xmax = 24.24
+			text = ""
+		intervals [3]:
+			xmin = 24.24
+			xmax = 24.29
+			text = "0"
+		intervals [4]:
+			xmin = 24.29
+			xmax = 34.93
+			text = ""
+		intervals [5]:
+			xmin = 34.93
+			xmax = 35.08
+			text = "0"
+		intervals [6]:
+			xmin = 35.08
+			xmax = 56.0
+			text = ""
+		intervals [7]:
+			xmin = 56.0
+			xmax = 56.4
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 56.4
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.45
+			text = "0"
+		intervals [2]:
+			xmin = 0.45
+			xmax = 24.24
+			text = "O kuplung chaitokmungni bisingtwi hukbar khlainairog, sakni mwikhwtwng tai bwthairogni kahamkuk morokmung mankha. Tei lukurog bo phres mwikhwtwng man nani nangkha. Aro ajibika pham phres epsni aidiya belai kheno mung manjak wngwi tong kha. Lokdaun jorao borog bachi rasai ni slai phano kwbang marini bwthai mwikhwtwng lukurogni thani tunwi kha."
+		intervals [3]:
+			xmin = 24.24
+			xmax = 24.29
+			text = "0"
+		intervals [4]:
+			xmin = 24.29
+			xmax = 34.93
+			text = "Chlaisong egrikalchar sektoro man mari kaham tongmani bagwi chini sikla chalaisongbo kwbangkukno abobai kwrwngwi tonglai kha."
+		intervals [5]:
+			xmin = 34.93
+			xmax = 35.08
+			text = "0"
+		intervals [6]:
+			xmin = 35.08
+			xmax = 56.0
+			text = "Motdo prodesni Barbarini Otul pathidar bini amchaini khorogbrwisai hukbar khlainairogno, digitalni mangbai kwrwngri kha. O hukbar khlainairog Otul patidarni e-plot pharm kat ni jaratwi khe manwi, bithi, bwchwlwi,"
+		intervals [7]:
+			xmin = 56.0
+			xmax = 56.4
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 56.4
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.45
+			text = "0"
+		intervals [2]:
+			xmin = 0.45
+			xmax = 24.24
+			text = ""
+		intervals [3]:
+			xmin = 24.24
+			xmax = 24.29
+			text = "0"
+		intervals [4]:
+			xmin = 24.29
+			xmax = 34.93
+			text = ""
+		intervals [5]:
+			xmin = 34.93
+			xmax = 35.08
+			text = "0"
+		intervals [6]:
+			xmin = 35.08
+			xmax = 56.0
+			text = ""
+		intervals [7]:
+			xmin = 56.0
+			xmax = 56.4
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 56.4
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.45
+			text = "0"
+		intervals [2]:
+			xmin = 0.45
+			xmax = 24.24
+			text = ""
+		intervals [3]:
+			xmin = 24.24
+			xmax = 24.29
+			text = "0"
+		intervals [4]:
+			xmin = 24.29
+			xmax = 34.93
+			text = ""
+		intervals [5]:
+			xmin = 34.93
+			xmax = 35.08
+			text = "0"
+		intervals [6]:
+			xmin = 35.08
+			xmax = 56.0
+			text = ""
+		intervals [7]:
+			xmin = 56.0
+			xmax = 56.4
+			text = "0"

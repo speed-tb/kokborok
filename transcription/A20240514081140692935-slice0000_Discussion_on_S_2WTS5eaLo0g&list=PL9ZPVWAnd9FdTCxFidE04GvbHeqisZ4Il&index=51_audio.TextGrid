@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 66.2
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 66.2
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 4.94
+			text = "0"
+		intervals [2]:
+			xmin = 4.94
+			xmax = 37.86
+			text = ""
+		intervals [3]:
+			xmin = 37.86
+			xmax = 37.92
+			text = "0"
+		intervals [4]:
+			xmin = 37.92
+			xmax = 64.81
+			text = ""
+		intervals [5]:
+			xmin = 64.81
+			xmax = 66.2
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 66.2
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 4.94
+			text = "0"
+		intervals [2]:
+			xmin = 4.94
+			xmax = 37.86
+			text = "Puilano chini o programno nai tongnai, khajani takhuk bukhuksongno ani kha kaham yaphao. Chwng tini o jogao drugs no twiwi kok salainai. Obono twiwi sai khwna rina bagwi chini studio o phai sokphai kha khoroksa takhuk okwra, bo agi ONGC o chakri khlai phaijak, retire wngjak. Haiphano bo chini kokborok kokthaino belai kheno hamjago, chini cultureno belai kheno hamjago,koklop koktang swi kwrwngno hinsi wano bono. Puilano takhuk okwrano khulum mung yapharo chini o panda o."
+		intervals [3]:
+			xmin = 37.86
+			xmax = 37.92
+			text = "0"
+		intervals [4]:
+			xmin = 37.92
+			xmax = 64.81
+			text = "Hingke puilano ang nono swngna muchung ma khe hai se, nwng to kokborokno belai khe hamjaknai ba haiya deba, kokborok koktang, kokloprog, swiw rog hwnwi nono ang khwna o. Hinke o kokloprogno nwng buphruni simi chengkha swi nani. Ani mo koklop onek ageno swika,ang tiniswk jora oro ani kokloprogno sapai mananw hwnwi ang kha khaimaya. Tini jotoni wngko bai ang koklopno khwnarwi manai."
+		intervals [5]:
+			xmin = 64.81
+			xmax = 66.2
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 66.2
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 4.94
+			text = "0"
+		intervals [2]:
+			xmin = 4.94
+			xmax = 37.86
+			text = ""
+		intervals [3]:
+			xmin = 37.86
+			xmax = 37.92
+			text = "0"
+		intervals [4]:
+			xmin = 37.92
+			xmax = 64.81
+			text = ""
+		intervals [5]:
+			xmin = 64.81
+			xmax = 66.2
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 66.2
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 4.94
+			text = "0"
+		intervals [2]:
+			xmin = 4.94
+			xmax = 37.86
+			text = ""
+		intervals [3]:
+			xmin = 37.86
+			xmax = 37.92
+			text = "0"
+		intervals [4]:
+			xmin = 37.92
+			xmax = 64.81
+			text = ""
+		intervals [5]:
+			xmin = 64.81
+			xmax = 66.2
+			text = "0"

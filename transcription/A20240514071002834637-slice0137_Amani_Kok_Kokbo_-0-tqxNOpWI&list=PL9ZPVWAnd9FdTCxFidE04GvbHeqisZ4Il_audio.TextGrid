@@ -1,0 +1,176 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 26.8
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 26.8
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.66
+			text = "0"
+		intervals [2]:
+			xmin = 0.66
+			xmax = 9.47
+			text = ""
+		intervals [3]:
+			xmin = 9.47
+			xmax = 9.64
+			text = "0"
+		intervals [4]:
+			xmin = 9.64
+			xmax = 12.22
+			text = ""
+		intervals [5]:
+			xmin = 12.22
+			xmax = 12.27
+			text = "0"
+		intervals [6]:
+			xmin = 12.27
+			xmax = 16.86
+			text = ""
+		intervals [7]:
+			xmin = 16.86
+			xmax = 17.89
+			text = "0"
+		intervals [8]:
+			xmin = 17.89
+			xmax = 25.11
+			text = ""
+		intervals [9]:
+			xmin = 25.11
+			xmax = 26.8
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 26.8
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.66
+			text = "0"
+		intervals [2]:
+			xmin = 0.66
+			xmax = 9.47
+			text = "swidi swikhe wngnai kintu aswk joratwile ang kurita kobita basai khlainani moto manya kho, khakochomya kho porewi."
+		intervals [3]:
+			xmin = 9.47
+			xmax = 9.64
+			text = "0"
+		intervals [4]:
+			xmin = 9.64
+			xmax = 12.22
+			text = "ani boyosirog jara borogno bat rwwinai."
+		intervals [5]:
+			xmin = 12.22
+			xmax = 12.27
+			text = "0"
+		intervals [6]:
+			xmin = 12.27
+			xmax = 16.86
+			text = "ani boyosi bolte,je bikash, chondro kanto murasing, ba some other"
+		intervals [7]:
+			xmin = 16.86
+			xmax = 17.89
+			text = "0"
+		intervals [8]:
+			xmin = 17.89
+			xmax = 25.11
+			text = "ei borokrog okwrani jara sinijak borokno badei, tabukni kwtal swinairogno below thirtyfive."
+		intervals [9]:
+			xmin = 25.11
+			xmax = 26.8
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 26.8
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.66
+			text = "0"
+		intervals [2]:
+			xmin = 0.66
+			xmax = 9.47
+			text = ""
+		intervals [3]:
+			xmin = 9.47
+			xmax = 9.64
+			text = "0"
+		intervals [4]:
+			xmin = 9.64
+			xmax = 12.22
+			text = ""
+		intervals [5]:
+			xmin = 12.22
+			xmax = 12.27
+			text = "0"
+		intervals [6]:
+			xmin = 12.27
+			xmax = 16.86
+			text = ""
+		intervals [7]:
+			xmin = 16.86
+			xmax = 17.89
+			text = "0"
+		intervals [8]:
+			xmin = 17.89
+			xmax = 25.11
+			text = ""
+		intervals [9]:
+			xmin = 25.11
+			xmax = 26.8
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 26.8
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.66
+			text = "0"
+		intervals [2]:
+			xmin = 0.66
+			xmax = 9.47
+			text = ""
+		intervals [3]:
+			xmin = 9.47
+			xmax = 9.64
+			text = "0"
+		intervals [4]:
+			xmin = 9.64
+			xmax = 12.22
+			text = ""
+		intervals [5]:
+			xmin = 12.22
+			xmax = 12.27
+			text = "0"
+		intervals [6]:
+			xmin = 12.27
+			xmax = 16.86
+			text = ""
+		intervals [7]:
+			xmin = 16.86
+			xmax = 17.89
+			text = "0"
+		intervals [8]:
+			xmin = 17.89
+			xmax = 25.11
+			text = ""
+		intervals [9]:
+			xmin = 25.11
+			xmax = 26.8
+			text = "0"

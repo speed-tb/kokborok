@@ -1,0 +1,96 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 58.2
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 58.2
+		intervals: size = 4
+		intervals [1]:
+			xmin = 0.0
+			xmax = 11.31
+			text = ""
+		intervals [2]:
+			xmin = 11.31
+			xmax = 19.26
+			text = ""
+		intervals [3]:
+			xmin = 19.26
+			xmax = 19.27
+			text = "0"
+		intervals [4]:
+			xmin = 19.27
+			xmax = 58.2
+			text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 58.2
+		intervals: size = 4
+		intervals [1]:
+			xmin = 0.0
+			xmax = 11.31
+			text = "recording khlaiwi bono youtubeo yaka rina nango,bono popularize khlaina nango, omtwi khlai maha wngkhe to chanai."
+		intervals [2]:
+			xmin = 11.31
+			xmax = 19.26
+			text = "jaihuk chwng kok kwbangma salai kha haiphanw, paithago jora, oboto nini samwng jora pai tongkha."
+		intervals [3]:
+			xmin = 19.26
+			xmax = 19.27
+			text = "0"
+		intervals [4]:
+			xmin = 19.27
+			xmax = 58.2
+			text = "ani dharona wngkha jora kom wng tongkha, lasto o kok chwng salai thangsiwanw tini bhasha dibos matri bhasha dibos ebong kokborok chwng matri wngko ni bwsa bwtwi hisabe, tabok je cholei tongmani kaisa andulong ba akankha songbidhan eight schedule o habnani ei prosonge bo sanani jora malai kha, chini kok bai chwng salai kha thikno tongo, ei prosongo sathai, omo khub important ei astom toposile songbidhan ni aro habnani bagwi nai kokborokni,"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 58.2
+		intervals: size = 4
+		intervals [1]:
+			xmin = 0.0
+			xmax = 11.31
+			text = ""
+		intervals [2]:
+			xmin = 11.31
+			xmax = 19.26
+			text = ""
+		intervals [3]:
+			xmin = 19.26
+			xmax = 19.27
+			text = "0"
+		intervals [4]:
+			xmin = 19.27
+			xmax = 58.2
+			text = ""
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 58.2
+		intervals: size = 4
+		intervals [1]:
+			xmin = 0.0
+			xmax = 11.31
+			text = ""
+		intervals [2]:
+			xmin = 11.31
+			xmax = 19.26
+			text = ""
+		intervals [3]:
+			xmin = 19.26
+			xmax = 19.27
+			text = "0"
+		intervals [4]:
+			xmin = 19.27
+			xmax = 58.2
+			text = ""

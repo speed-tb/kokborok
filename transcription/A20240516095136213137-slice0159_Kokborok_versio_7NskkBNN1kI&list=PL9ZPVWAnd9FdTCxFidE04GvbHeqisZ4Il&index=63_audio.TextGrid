@@ -1,0 +1,176 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 42.1
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 42.1
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.52
+			text = "0"
+		intervals [2]:
+			xmin = 0.52
+			xmax = 9.23
+			text = ""
+		intervals [3]:
+			xmin = 9.23
+			xmax = 9.34
+			text = "0"
+		intervals [4]:
+			xmin = 9.34
+			xmax = 20.09
+			text = ""
+		intervals [5]:
+			xmin = 20.09
+			xmax = 20.13
+			text = "0"
+		intervals [6]:
+			xmin = 20.13
+			xmax = 39.03
+			text = ""
+		intervals [7]:
+			xmin = 39.03
+			xmax = 39.26
+			text = "0"
+		intervals [8]:
+			xmin = 39.26
+			xmax = 41.84
+			text = ""
+		intervals [9]:
+			xmin = 41.84
+			xmax = 42.1
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 42.1
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.52
+			text = "0"
+		intervals [2]:
+			xmin = 0.52
+			xmax = 9.23
+			text = "Tabuk abono rwksawi hukbar khlainairog Barotni jesa thaio bo bwthai phalwi manwi tongo, tai borog morokmung kahambo manwi tongo."
+		intervals [3]:
+			xmin = 9.23
+			xmax = 9.34
+			text = "0"
+		intervals [4]:
+			xmin = 9.34
+			xmax = 20.09
+			text = "Aboni bagwi borog wansuk laikha je o esktra prophit hukbar khlainairog baibo baklaina nango,aro boroni bo manthai tongo, tai borog hukbar khlainairog bo bonas yphar kha."
+		intervals [5]:
+			xmin = 20.09
+			xmax = 20.13
+			text = "0"
+		intervals [6]:
+			xmin = 20.13
+			xmax = 39.03
+			text = "Chalaisong bonas tabuk belai kisa phano ungthung,phiya ba o chengsamung belai kotor se,abobai chwng romwi mano je hukbar raida kwtal bai ha beremo bobo haini slaijakmung hukbar khlainairogni bwkhago manmari belai kaham wngnani sep kaham tongo."
+		intervals [7]:
+			xmin = 39.03
+			xmax = 39.26
+			text = "0"
+		intervals [8]:
+			xmin = 39.26
+			xmax = 41.84
+			text = "Ani khapangni hani lukurog,"
+		intervals [9]:
+			xmin = 41.84
+			xmax = 42.1
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 42.1
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.52
+			text = "0"
+		intervals [2]:
+			xmin = 0.52
+			xmax = 9.23
+			text = ""
+		intervals [3]:
+			xmin = 9.23
+			xmax = 9.34
+			text = "0"
+		intervals [4]:
+			xmin = 9.34
+			xmax = 20.09
+			text = ""
+		intervals [5]:
+			xmin = 20.09
+			xmax = 20.13
+			text = "0"
+		intervals [6]:
+			xmin = 20.13
+			xmax = 39.03
+			text = ""
+		intervals [7]:
+			xmin = 39.03
+			xmax = 39.26
+			text = "0"
+		intervals [8]:
+			xmin = 39.26
+			xmax = 41.84
+			text = ""
+		intervals [9]:
+			xmin = 41.84
+			xmax = 42.1
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 42.1
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.52
+			text = "0"
+		intervals [2]:
+			xmin = 0.52
+			xmax = 9.23
+			text = ""
+		intervals [3]:
+			xmin = 9.23
+			xmax = 9.34
+			text = "0"
+		intervals [4]:
+			xmin = 9.34
+			xmax = 20.09
+			text = ""
+		intervals [5]:
+			xmin = 20.09
+			xmax = 20.13
+			text = "0"
+		intervals [6]:
+			xmin = 20.13
+			xmax = 39.03
+			text = ""
+		intervals [7]:
+			xmin = 39.03
+			xmax = 39.26
+			text = "0"
+		intervals [8]:
+			xmin = 39.26
+			xmax = 41.84
+			text = ""
+		intervals [9]:
+			xmin = 41.84
+			xmax = 42.1
+			text = "0"

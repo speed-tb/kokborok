@@ -1,0 +1,192 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 121.8
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 121.8
+		intervals: size = 10
+		intervals [1]:
+			xmin = 0.0
+			xmax = 7.3
+			text = ""
+		intervals [2]:
+			xmin = 7.3
+			xmax = 7.5
+			text = "0"
+		intervals [3]:
+			xmin = 7.5
+			xmax = 41.0
+			text = ""
+		intervals [4]:
+			xmin = 41.0
+			xmax = 41.3
+			text = "0"
+		intervals [5]:
+			xmin = 41.3
+			xmax = 63.4
+			text = ""
+		intervals [6]:
+			xmin = 63.4
+			xmax = 63.6
+			text = "0"
+		intervals [7]:
+			xmin = 63.6
+			xmax = 104.3
+			text = ""
+		intervals [8]:
+			xmin = 104.3
+			xmax = 104.8
+			text = "0"
+		intervals [9]:
+			xmin = 104.8
+			xmax = 120.4
+			text = ""
+		intervals [10]:
+			xmin = 120.4
+			xmax = 121.8
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 121.8
+		intervals: size = 10
+		intervals [1]:
+			xmin = 0.0
+			xmax = 7.3
+			text = ""
+		intervals [2]:
+			xmin = 7.3
+			xmax = 7.5
+			text = "0"
+		intervals [3]:
+			xmin = 7.5
+			xmax = 41.0
+			text = ""
+		intervals [4]:
+			xmin = 41.0
+			xmax = 41.3
+			text = "0"
+		intervals [5]:
+			xmin = 41.3
+			xmax = 63.4
+			text = ""
+		intervals [6]:
+			xmin = 63.4
+			xmax = 63.6
+			text = "0"
+		intervals [7]:
+			xmin = 63.6
+			xmax = 104.3
+			text = ""
+		intervals [8]:
+			xmin = 104.3
+			xmax = 104.8
+			text = "0"
+		intervals [9]:
+			xmin = 104.8
+			xmax = 120.4
+			text = ""
+		intervals [10]:
+			xmin = 120.4
+			xmax = 121.8
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 121.8
+		intervals: size = 10
+		intervals [1]:
+			xmin = 0.0
+			xmax = 7.3
+			text = "Twenty ninth July hwnke omo no particular ta special day, world ORS day, hwnwi chwng omo no palaio."
+		intervals [2]:
+			xmin = 7.3
+			xmax = 7.5
+			text = "0"
+		intervals [3]:
+			xmin = 7.5
+			xmax = 41.0
+			text = "WHO, UNICEF, hinwi je songstharog tong bai o association tong baio, pura world o no borog omono kwrak khe romwi narwkna naio, public awareness je domain no. Chini Idia o bo doctors associations kwbangmano tongo, jara je o world ORS week no strongly palaio. A boni bisingo Indian ekademi of pediatrics. Karon je o dairiya hinmani je ORS rog je nangmani, cherairogni bisingo belaino nangkugo.Aboni bagwi Indian ekademi of Pediatrics cherairogni doctorni je association, borog teibo kwrak khe omono romwi narwgwi palai laio."
+		intervals [4]:
+			xmin = 41.0
+			xmax = 41.3
+			text = "0"
+		intervals [5]:
+			xmin = 41.3
+			xmax = 63.4
+			text = "Chini Tripura o bo chwng around fourty five oro members tongo,Tripura state branch hwnwi. Indian academic of Pediatrics wngkhe central branch, abononi chwng kaisa part, hwnke chwngbo oro kaham khe omono romwi public awareness khainani chwng chaitogo, o je whole seven days je one week o last week of July o ta."
+		intervals [6]:
+			xmin = 63.4
+			xmax = 63.6
+			text = "0"
+		intervals [7]:
+			xmin = 63.6
+			xmax = 104.3
+			text = "O week eba o salno palaina bagwi tamo samung bwtang naharjak? Chwng, o je weeko hinkei, kwbangma platform chwng choose khaio. Durdarsan Kendro agortola,omoni bagwi belaino hambai yapharo norokno.Hwnkai All India Radio obo chwng omono chaitogo abono newsrogo chwng abono awai khaio. Printed midiya wo, youtube ni through twi, public rallies. Hwnke abotwi hai kwbangma chini omtwi platform no chwng use khaio.Public jora chwng sogwi rwinani bagwi.Chini o je khorangno. ORS ni nangmung no borokrog ni thani sogwi rinani bagwi."
+		intervals [8]:
+			xmin = 104.3
+			xmax = 104.8
+			text = "0"
+		intervals [9]:
+			xmin = 104.8
+			xmax = 120.4
+			text = "Hwnkai Sir tai kaisa hwnkai ORS aphrono nangjago borokrogni jephru Dairiya wngo, khio kwba o wngo.Hwnkai Dairiya abo bobo hai bemarno Dairiya hwnwi bujinai tai bini sintomrog tamo abono kisa sai khwna rwdi?"
+		intervals [10]:
+			xmin = 120.4
+			xmax = 121.8
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 121.8
+		intervals: size = 10
+		intervals [1]:
+			xmin = 0.0
+			xmax = 7.3
+			text = ""
+		intervals [2]:
+			xmin = 7.3
+			xmax = 7.5
+			text = "0"
+		intervals [3]:
+			xmin = 7.5
+			xmax = 41.0
+			text = ""
+		intervals [4]:
+			xmin = 41.0
+			xmax = 41.3
+			text = "0"
+		intervals [5]:
+			xmin = 41.3
+			xmax = 63.4
+			text = ""
+		intervals [6]:
+			xmin = 63.4
+			xmax = 63.6
+			text = "0"
+		intervals [7]:
+			xmin = 63.6
+			xmax = 104.3
+			text = ""
+		intervals [8]:
+			xmin = 104.3
+			xmax = 104.8
+			text = "0"
+		intervals [9]:
+			xmin = 104.8
+			xmax = 120.4
+			text = ""
+		intervals [10]:
+			xmin = 120.4
+			xmax = 121.8
+			text = "0"

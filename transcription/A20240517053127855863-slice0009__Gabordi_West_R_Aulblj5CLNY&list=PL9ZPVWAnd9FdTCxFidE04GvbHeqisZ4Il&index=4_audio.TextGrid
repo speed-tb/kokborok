@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 15.2
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Latin-gloss"
+		xmin = 0.0
+		xmax = 15.2
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.88
+			text = "0"
+		intervals [2]:
+			xmin = 0.88
+			xmax = 12.86
+			text = ""
+		intervals [3]:
+			xmin = 12.86
+			xmax = 13.03
+			text = "0"
+		intervals [4]:
+			xmin = 13.03
+			xmax = 13.04
+			text = ""
+		intervals [5]:
+			xmin = 13.04
+			xmax = 15.2
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 15.2
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.88
+			text = "0"
+		intervals [2]:
+			xmin = 0.88
+			xmax = 12.86
+			text = "Nogo puicharog belai khe nango,tabok lekha pora khlai thani joto no, kwsrang khe khwlai lai kha hinkhai chwng poisa kisa le ajelai malainai nogo achugwi tongya wi."
+		intervals [3]:
+			xmin = 12.86
+			xmax = 13.03
+			text = "0"
+		intervals [4]:
+			xmin = 13.03
+			xmax = 13.04
+			text = ""
+		intervals [5]:
+			xmin = 13.04
+			xmax = 15.2
+			text = "0"

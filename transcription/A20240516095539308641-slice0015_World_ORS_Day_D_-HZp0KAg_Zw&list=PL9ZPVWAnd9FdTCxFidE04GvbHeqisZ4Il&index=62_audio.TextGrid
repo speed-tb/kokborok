@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 28.3
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 28.3
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 4.69
+			text = "0"
+		intervals [2]:
+			xmin = 4.69
+			xmax = 26.91
+			text = ""
+		intervals [3]:
+			xmin = 26.91
+			xmax = 28.3
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 28.3
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 4.69
+			text = "0"
+		intervals [2]:
+			xmin = 4.69
+			xmax = 26.91
+			text = "Obo khei, tabuk, chwrai chikon ni bagwi, chwrai chikon ni bagwi dui bosor ni sai kom. Hwnkai, obo waisa bai de khan nai? I. Omono bo minimum bini je nwngmani poriman hwnkai fifty ml wngna nangnai hwnkai bo fifty to hundred ml. Mane ada cup hoite ek cup jora bo nwngwi mano. Hwnkai chamos bo naha nai,buma chamos naharwi,"
+		intervals [3]:
+			xmin = 26.91
+			xmax = 28.3
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 28.3
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 4.69
+			text = "0"
+		intervals [2]:
+			xmin = 4.69
+			xmax = 26.91
+			text = ""
+		intervals [3]:
+			xmin = 26.91
+			xmax = 28.3
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 28.3
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 4.69
+			text = "0"
+		intervals [2]:
+			xmin = 4.69
+			xmax = 26.91
+			text = ""
+		intervals [3]:
+			xmin = 26.91
+			xmax = 28.3
+			text = "0"

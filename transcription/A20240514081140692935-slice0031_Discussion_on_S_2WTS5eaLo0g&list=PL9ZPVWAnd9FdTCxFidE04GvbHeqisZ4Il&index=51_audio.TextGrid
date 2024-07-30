@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 29.5
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 29.5
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.94
+			text = "0"
+		intervals [2]:
+			xmin = 1.94
+			xmax = 28.57
+			text = ""
+		intervals [3]:
+			xmin = 28.57
+			xmax = 29.5
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 29.5
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.94
+			text = "0"
+		intervals [2]:
+			xmin = 1.94
+			xmax = 28.57
+			text = "Chwng tamo hwnwi sanai,chini bosongrog, bukung bararog, kungthai babarrog. Chwng thumwi rogwi se mochomsa haya diba na, mochomsa si kagra ya. Mochomsasi kaya dengsa si. A bisingo si mo hai baksa ba drugs paising kwlwgo, baksa ba, baksa ba kubuni phaising kwlwgo haya diba. Wngkai to chini bosong komornani phaisingo no thangwi tongo haiya da. Hwngke u siklarogno nwng mane tamo hwnwi teibo  kok kwcharna muchung? Ang borogno kok kwcharnani muchungo no muchungo,"
+		intervals [3]:
+			xmin = 28.57
+			xmax = 29.5
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 29.5
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.94
+			text = "0"
+		intervals [2]:
+			xmin = 1.94
+			xmax = 28.57
+			text = ""
+		intervals [3]:
+			xmin = 28.57
+			xmax = 29.5
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 29.5
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.94
+			text = "0"
+		intervals [2]:
+			xmin = 1.94
+			xmax = 28.57
+			text = ""
+		intervals [3]:
+			xmin = 28.57
+			xmax = 29.5
+			text = "0"

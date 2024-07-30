@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 124.6
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 124.6
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.1
+			text = "0"
+		intervals [2]:
+			xmin = 2.1
+			xmax = 12.5
+			text = ""
+		intervals [3]:
+			xmin = 12.5
+			xmax = 12.7
+			text = "0"
+		intervals [4]:
+			xmin = 12.7
+			xmax = 122.1
+			text = ""
+		intervals [5]:
+			xmin = 122.1
+			xmax = 124.6
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 124.6
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.1
+			text = "0"
+		intervals [2]:
+			xmin = 2.1
+			xmax = 12.5
+			text = "Amo swnam nani bisingo kisa raida tongo. Amo kaisa discipline tongo.  Haya khe bini u, ORS ni je saltrog tongmani Procautionrog jodi miliya hwnkai kaham khe omo effective wnglak."
+		intervals [3]:
+			xmin = 12.5
+			xmax = 12.7
+			text = "0"
+		intervals [4]:
+			xmin = 12.7
+			xmax = 122.1
+			text = "Au omo naima swkang tei kaisa ang kisa swrai swrai wngna muchungo sar. Abo hwnke abtwi wngko dairiyarog wngkha hwnkai chwng nokrogo bo kisa swnamwi khanimani nugu. Kisa chini riwi kisa som riwi, twi kaham bai khe gulogwi khanio. Abole bwswk samung phnang? Amoni bising wo bw poriman tongo. Kaisa proportion kaisa tongo, ek litar twi nana nangnai,a jagao soi chamos chini ma rinai, tai ada chamos hinkai som ma rinai. Wngke a proportion jodi thik tongkha hwnke, nini ORS ni ekdum ORS hai wngya phano ORS ni equivalent samung cholei thango ta. Sapos hor rogo jemon mungsa wngkha,bini dairiya wngkha, wngkai tabuk ORS peket bo kwrwi horo  sapos, wngkai borog amotwi khe swnamwi rwimano ta. U twi bai som chini je wngko khai, je procaution samani, soi chamos chini, tei ada chamos som amno riwi swnam kha hwnkai, bo u je poriman samani u je dui bosor ni sai kom,dui theka dos bosorni je poriman, hinkai dos bosorni sai je okwra borogno bahai ke rinani a same amount o jodi rikha hwnke, onekta relief manwi painai.Hinkei emne to sana thang khe ORS ni powder je peket standard je formula tongo. Amono kaham kuk amo kwrwi hinke boni tei alternative ta. Hwnke onek somoi omo swna nani phano tabuk manwi kwrwi wng tongkha ba, hwnkei mai phena o jaga bw kisa som riwi rikha hwnke amo bo charwi mano ta. Mai sung phru je bwtwi sebwi khibmani abo ta. Amobo onekta nutrises tongo. Amo bo nin je dehydration amono kom khainai, amo help khainai. Hwnke sar kisa nailai wanw chwng ORS swnam mani."
+		intervals [5]:
+			xmin = 122.1
+			xmax = 124.6
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 124.6
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.1
+			text = "0"
+		intervals [2]:
+			xmin = 2.1
+			xmax = 12.5
+			text = ""
+		intervals [3]:
+			xmin = 12.5
+			xmax = 12.7
+			text = "0"
+		intervals [4]:
+			xmin = 12.7
+			xmax = 122.1
+			text = ""
+		intervals [5]:
+			xmin = 122.1
+			xmax = 124.6
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 124.6
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.1
+			text = "0"
+		intervals [2]:
+			xmin = 2.1
+			xmax = 12.5
+			text = ""
+		intervals [3]:
+			xmin = 12.5
+			xmax = 12.7
+			text = "0"
+		intervals [4]:
+			xmin = 12.7
+			xmax = 122.1
+			text = ""
+		intervals [5]:
+			xmin = 122.1
+			xmax = 124.6
+			text = "0"

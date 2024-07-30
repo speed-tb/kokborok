@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 36.9
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 36.9
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 23.01
+			text = "0"
+		intervals [2]:
+			xmin = 23.01
+			xmax = 32.37
+			text = ""
+		intervals [3]:
+			xmin = 32.37
+			xmax = 36.9
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 36.9
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 23.01
+			text = "0"
+		intervals [2]:
+			xmin = 23.01
+			xmax = 32.37
+			text = "Phai di chwng je bini dalbidal milokrogni bising tongo. O milokrog khe tei kubun ni sai bokong koto koto, o milokni bumung khe tamosa? O bumung khe moina."
+		intervals [3]:
+			xmin = 32.37
+			xmax = 36.9
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 36.9
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 23.01
+			text = "0"
+		intervals [2]:
+			xmin = 23.01
+			xmax = 32.37
+			text = ""
+		intervals [3]:
+			xmin = 32.37
+			xmax = 36.9
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 36.9
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 23.01
+			text = "0"
+		intervals [2]:
+			xmin = 23.01
+			xmax = 32.37
+			text = ""
+		intervals [3]:
+			xmin = 32.37
+			xmax = 36.9
+			text = "0"

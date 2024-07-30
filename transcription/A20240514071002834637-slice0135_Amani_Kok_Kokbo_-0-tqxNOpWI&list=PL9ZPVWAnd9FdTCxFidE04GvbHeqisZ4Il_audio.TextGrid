@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 21.8
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 21.8
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.49
+			text = "0"
+		intervals [2]:
+			xmin = 2.49
+			xmax = 21.11
+			text = ""
+		intervals [3]:
+			xmin = 21.11
+			xmax = 21.8
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 21.8
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.49
+			text = "0"
+		intervals [2]:
+			xmin = 2.49
+			xmax = 21.11
+			text = "ih bonole ang bare bar porei mano,hopung sapungno porei tongmano,abo hai kobita wairewai porei mano, kobita to onontokal ni bagwi kaisa sompot, o kobita bo swiya phuru kwrwi, bo swibai paiwi se wngo, abo hai kobita,"
+		intervals [3]:
+			xmin = 21.11
+			xmax = 21.8
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 21.8
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.49
+			text = "0"
+		intervals [2]:
+			xmin = 2.49
+			xmax = 21.11
+			text = ""
+		intervals [3]:
+			xmin = 21.11
+			xmax = 21.8
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 21.8
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.49
+			text = "0"
+		intervals [2]:
+			xmin = 2.49
+			xmax = 21.11
+			text = ""
+		intervals [3]:
+			xmin = 21.11
+			xmax = 21.8
+			text = "0"

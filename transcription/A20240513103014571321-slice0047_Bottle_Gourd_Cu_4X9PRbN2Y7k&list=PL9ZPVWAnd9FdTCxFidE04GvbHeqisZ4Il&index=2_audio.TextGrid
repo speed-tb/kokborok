@@ -1,0 +1,176 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 31.3
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 31.3
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.66
+			text = "0"
+		intervals [2]:
+			xmin = 2.66
+			xmax = 6.7
+			text = ""
+		intervals [3]:
+			xmin = 6.7
+			xmax = 8.65
+			text = "0"
+		intervals [4]:
+			xmin = 8.65
+			xmax = 15.24
+			text = ""
+		intervals [5]:
+			xmin = 15.24
+			xmax = 16.78
+			text = "0"
+		intervals [6]:
+			xmin = 16.78
+			xmax = 22.65
+			text = ""
+		intervals [7]:
+			xmin = 22.65
+			xmax = 24.57
+			text = "0"
+		intervals [8]:
+			xmin = 24.57
+			xmax = 29.6
+			text = ""
+		intervals [9]:
+			xmin = 29.6
+			xmax = 31.3
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 31.3
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.66
+			text = "0"
+		intervals [2]:
+			xmin = 2.66
+			xmax = 6.7
+			text = "Obo khe milok kiting jat. Bwswk jora tor bo? Teisa toro."
+		intervals [3]:
+			xmin = 6.7
+			xmax = 8.65
+			text = "0"
+		intervals [4]:
+			xmin = 8.65
+			xmax = 15.24
+			text = "Thokthani khe bobo thokuk? Thogo moina bo thogo, hypha mwilok to thogo thokma khe to. Omo khe bisi torwi maya ta."
+		intervals [5]:
+			xmin = 15.24
+			xmax = 16.78
+			text = "0"
+		intervals [6]:
+			xmin = 16.78
+			xmax = 22.65
+			text = "Obo khe tamo? Obo Daina.Obo daina na? Obo tai bwswk torna tongkho? Toro tei bo toro, tei bo toro."
+		intervals [7]:
+			xmin = 22.65
+			xmax = 24.57
+			text = "0"
+		intervals [8]:
+			xmin = 24.57
+			xmax = 29.6
+			text = "Kaisa kaisrog bwswkrog khe phal? Paikari rohoro obo cholis biyalis tekarog khe."
+		intervals [9]:
+			xmin = 29.6
+			xmax = 31.3
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 31.3
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.66
+			text = "0"
+		intervals [2]:
+			xmin = 2.66
+			xmax = 6.7
+			text = ""
+		intervals [3]:
+			xmin = 6.7
+			xmax = 8.65
+			text = "0"
+		intervals [4]:
+			xmin = 8.65
+			xmax = 15.24
+			text = ""
+		intervals [5]:
+			xmin = 15.24
+			xmax = 16.78
+			text = "0"
+		intervals [6]:
+			xmin = 16.78
+			xmax = 22.65
+			text = ""
+		intervals [7]:
+			xmin = 22.65
+			xmax = 24.57
+			text = "0"
+		intervals [8]:
+			xmin = 24.57
+			xmax = 29.6
+			text = ""
+		intervals [9]:
+			xmin = 29.6
+			xmax = 31.3
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 31.3
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.66
+			text = "0"
+		intervals [2]:
+			xmin = 2.66
+			xmax = 6.7
+			text = ""
+		intervals [3]:
+			xmin = 6.7
+			xmax = 8.65
+			text = "0"
+		intervals [4]:
+			xmin = 8.65
+			xmax = 15.24
+			text = ""
+		intervals [5]:
+			xmin = 15.24
+			xmax = 16.78
+			text = "0"
+		intervals [6]:
+			xmin = 16.78
+			xmax = 22.65
+			text = ""
+		intervals [7]:
+			xmin = 22.65
+			xmax = 24.57
+			text = "0"
+		intervals [8]:
+			xmin = 24.57
+			xmax = 29.6
+			text = ""
+		intervals [9]:
+			xmin = 29.6
+			xmax = 31.3
+			text = "0"

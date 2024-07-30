@@ -1,0 +1,128 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 46.5
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 46.5
+		intervals: size = 6
+		intervals [1]:
+			xmin = 0.0
+			xmax = 8.24
+			text = "0"
+		intervals [2]:
+			xmin = 8.24
+			xmax = 15.46
+			text = ""
+		intervals [3]:
+			xmin = 15.46
+			xmax = 17.78
+			text = "0"
+		intervals [4]:
+			xmin = 17.78
+			xmax = 29.33
+			text = ""
+		intervals [5]:
+			xmin = 29.33
+			xmax = 34.59
+			text = "0"
+		intervals [6]:
+			xmin = 34.59
+			xmax = 46.5
+			text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 46.5
+		intervals: size = 6
+		intervals [1]:
+			xmin = 0.0
+			xmax = 8.24
+			text = "0"
+		intervals [2]:
+			xmin = 8.24
+			xmax = 15.46
+			text = "U je chwng age noknukhungo tilokrog swnam mani abo de? Ei o jatno abo. Koto kotoma wngo.Bokong si koto koto naila, aboni bokong si naila."
+		intervals [3]:
+			xmin = 15.46
+			xmax = 17.78
+			text = "0"
+		intervals [4]:
+			xmin = 17.78
+			xmax = 29.33
+			text = "Khapangni takhuk tei bukhuksong hwnkei je moina milok mo kotor wngo teibo kotor,oro no aige chini je chuchu borasong som dawi nai tilok swnam mani."
+		intervals [5]:
+			xmin = 29.33
+			xmax = 34.59
+			text = "0"
+		intervals [6]:
+			xmin = 34.59
+			xmax = 46.5
+			text = "Abo hai tilokrog to nukliya ba, tabok nin oro obo hai kwbangma je milok nuk kha ba nwng khe omo hai kotor kaisa narwgwi  tilokrog de swnam na uansogwi tong? Bwchlwi narwk man ta."
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 46.5
+		intervals: size = 6
+		intervals [1]:
+			xmin = 0.0
+			xmax = 8.24
+			text = "0"
+		intervals [2]:
+			xmin = 8.24
+			xmax = 15.46
+			text = ""
+		intervals [3]:
+			xmin = 15.46
+			xmax = 17.78
+			text = "0"
+		intervals [4]:
+			xmin = 17.78
+			xmax = 29.33
+			text = ""
+		intervals [5]:
+			xmin = 29.33
+			xmax = 34.59
+			text = "0"
+		intervals [6]:
+			xmin = 34.59
+			xmax = 46.5
+			text = ""
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 46.5
+		intervals: size = 6
+		intervals [1]:
+			xmin = 0.0
+			xmax = 8.24
+			text = "0"
+		intervals [2]:
+			xmin = 8.24
+			xmax = 15.46
+			text = ""
+		intervals [3]:
+			xmin = 15.46
+			xmax = 17.78
+			text = "0"
+		intervals [4]:
+			xmin = 17.78
+			xmax = 29.33
+			text = ""
+		intervals [5]:
+			xmin = 29.33
+			xmax = 34.59
+			text = "0"
+		intervals [6]:
+			xmin = 34.59
+			xmax = 46.5
+			text = ""

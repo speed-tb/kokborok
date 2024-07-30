@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 19.6
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 19.6
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.52
+			text = "0"
+		intervals [2]:
+			xmin = 0.52
+			xmax = 18.71
+			text = ""
+		intervals [3]:
+			xmin = 18.71
+			xmax = 19.6
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 19.6
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.52
+			text = "0"
+		intervals [2]:
+			xmin = 0.52
+			xmax = 18.71
+			text = "Tumung kebo omhai hukbarog khalai nani khatungwi tongo, kintu bini sepsap manya, hwnkhe nwng nini thani, chubachurog san khe nwng borogno bahai khe khalai, teknikelrog phrwngnai de? Phrwngwi rw wano. Tabukno sijon kainani khei.Ekdom sijon masingni milok kainai khe tabukno sijon."
+		intervals [3]:
+			xmin = 18.71
+			xmax = 19.6
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 19.6
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.52
+			text = "0"
+		intervals [2]:
+			xmin = 0.52
+			xmax = 18.71
+			text = ""
+		intervals [3]:
+			xmin = 18.71
+			xmax = 19.6
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 19.6
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.52
+			text = "0"
+		intervals [2]:
+			xmin = 0.52
+			xmax = 18.71
+			text = ""
+		intervals [3]:
+			xmin = 18.71
+			xmax = 19.6
+			text = "0"

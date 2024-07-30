@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 14.3
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 14.3
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.94
+			text = "0"
+		intervals [2]:
+			xmin = 0.94
+			xmax = 13.23
+			text = ""
+		intervals [3]:
+			xmin = 13.23
+			xmax = 14.3
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 14.3
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.94
+			text = "0"
+		intervals [2]:
+			xmin = 0.94
+			xmax = 13.23
+			text = "U.P ni Barot bakini khoroksa bwrwi Suman Debi, Suman Debi selhelp grupni bini chalai bukhuksong bai kwthawi khadi ni maks swnamna cheng kha."
+		intervals [3]:
+			xmin = 13.23
+			xmax = 14.3
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 14.3
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.94
+			text = "0"
+		intervals [2]:
+			xmin = 0.94
+			xmax = 13.23
+			text = ""
+		intervals [3]:
+			xmin = 13.23
+			xmax = 14.3
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 14.3
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.94
+			text = "0"
+		intervals [2]:
+			xmin = 0.94
+			xmax = 13.23
+			text = ""
+		intervals [3]:
+			xmin = 13.23
+			xmax = 14.3
+			text = "0"

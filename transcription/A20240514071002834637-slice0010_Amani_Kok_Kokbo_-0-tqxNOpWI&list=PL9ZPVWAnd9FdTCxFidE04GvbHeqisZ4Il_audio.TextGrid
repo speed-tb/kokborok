@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 15.7
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 15.7
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.61
+			text = "0"
+		intervals [2]:
+			xmin = 1.61
+			xmax = 14.2
+			text = ""
+		intervals [3]:
+			xmin = 14.2
+			xmax = 15.7
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 15.7
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.61
+			text = "0"
+		intervals [2]:
+			xmin = 1.61
+			xmax = 14.2
+			text = "kok kwrwi jotono buba wng tongbai kha wngkhe, borog kok bai ontoto kuno views rohormani sanmani abo wngwlak khamung, khoroksani wansukmano tei khoroksani thani tunwi man glak khamung."
+		intervals [3]:
+			xmin = 14.2
+			xmax = 15.7
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 15.7
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.61
+			text = "0"
+		intervals [2]:
+			xmin = 1.61
+			xmax = 14.2
+			text = ""
+		intervals [3]:
+			xmin = 14.2
+			xmax = 15.7
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 15.7
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.61
+			text = "0"
+		intervals [2]:
+			xmin = 1.61
+			xmax = 14.2
+			text = ""
+		intervals [3]:
+			xmin = 14.2
+			xmax = 15.7
+			text = "0"

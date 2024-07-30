@@ -1,0 +1,144 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 26.7
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 26.7
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.75
+			text = "0"
+		intervals [2]:
+			xmin = 0.75
+			xmax = 8.38
+			text = ""
+		intervals [3]:
+			xmin = 8.38
+			xmax = 8.48
+			text = "0"
+		intervals [4]:
+			xmin = 8.48
+			xmax = 19.06
+			text = ""
+		intervals [5]:
+			xmin = 19.06
+			xmax = 19.25
+			text = "0"
+		intervals [6]:
+			xmin = 19.25
+			xmax = 26.4
+			text = ""
+		intervals [7]:
+			xmin = 26.4
+			xmax = 26.7
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 26.7
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.75
+			text = "0"
+		intervals [2]:
+			xmin = 0.75
+			xmax = 8.38
+			text = ""
+		intervals [3]:
+			xmin = 8.38
+			xmax = 8.48
+			text = "0"
+		intervals [4]:
+			xmin = 8.48
+			xmax = 19.06
+			text = ""
+		intervals [5]:
+			xmin = 19.06
+			xmax = 19.25
+			text = "0"
+		intervals [6]:
+			xmin = 19.25
+			xmax = 26.4
+			text = ""
+		intervals [7]:
+			xmin = 26.4
+			xmax = 26.7
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 26.7
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.75
+			text = "0"
+		intervals [2]:
+			xmin = 0.75
+			xmax = 8.38
+			text = "Bahaijani bo khwna kha pensil swnam thani, o popular wud eba khe chainani buphang bol samwng thepajakna cheng kha hwnwi."
+		intervals [3]:
+			xmin = 8.38
+			xmax = 8.48
+			text = "0"
+		intervals [4]:
+			xmin = 8.48
+			xmax = 19.06
+			text = "O kokthum manma yagulo takhuk monjur sakni rwngmano samungo phnangwi, kisaswk phemas pensil menuphekcharing iyusrogo popular wuden boks roho nani cheng kha."
+		intervals [5]:
+			xmin = 19.06
+			xmax = 19.25
+			text = "0"
+		intervals [6]:
+			xmin = 19.25
+			xmax = 26.4
+			text = "Monjur a samung khwlaiwi belai man mari kaham man kha. Tei bini ajemungbo belai kwbang wngkha."
+		intervals [7]:
+			xmin = 26.4
+			xmax = 26.7
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 26.7
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.75
+			text = "0"
+		intervals [2]:
+			xmin = 0.75
+			xmax = 8.38
+			text = ""
+		intervals [3]:
+			xmin = 8.38
+			xmax = 8.48
+			text = "0"
+		intervals [4]:
+			xmin = 8.48
+			xmax = 19.06
+			text = ""
+		intervals [5]:
+			xmin = 19.06
+			xmax = 19.25
+			text = "0"
+		intervals [6]:
+			xmin = 19.25
+			xmax = 26.4
+			text = ""
+		intervals [7]:
+			xmin = 26.4
+			xmax = 26.7
+			text = "0"

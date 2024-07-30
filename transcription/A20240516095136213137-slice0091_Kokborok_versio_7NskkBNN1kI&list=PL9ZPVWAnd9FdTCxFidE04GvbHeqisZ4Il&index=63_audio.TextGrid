@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 32.7
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 32.7
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.83
+			text = "0"
+		intervals [2]:
+			xmin = 0.83
+			xmax = 31.64
+			text = ""
+		intervals [3]:
+			xmin = 31.64
+			xmax = 32.7
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 32.7
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.83
+			text = "0"
+		intervals [2]:
+			xmin = 0.83
+			xmax = 31.64
+			text = "Abotwi kheno Chondigor o kaisa NGO chaloknai, Sondipkumar kaisa miniben o mubail laibreri swnam kha. A boni bisingtwino bigra nukhungni cherairogno magwna bijap riwi pori rijago. Aboni logi Gujwrat ni Babnogorni kwnwi mothani kok nobo sawi mano, jerog belai khe samung kaham tanglaio. Aroni bising kaisa wngkha Bikas Bartul Tras. A motha amjokmung batainai swrwngnairogno tiyar khalai thani belai bumung gwnang."
+		intervals [3]:
+			xmin = 31.64
+			xmax = 32.7
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 32.7
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.83
+			text = "0"
+		intervals [2]:
+			xmin = 0.83
+			xmax = 31.64
+			text = ""
+		intervals [3]:
+			xmin = 31.64
+			xmax = 32.7
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 32.7
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.83
+			text = "0"
+		intervals [2]:
+			xmin = 0.83
+			xmax = 31.64
+			text = ""
+		intervals [3]:
+			xmin = 31.64
+			xmax = 32.7
+			text = "0"

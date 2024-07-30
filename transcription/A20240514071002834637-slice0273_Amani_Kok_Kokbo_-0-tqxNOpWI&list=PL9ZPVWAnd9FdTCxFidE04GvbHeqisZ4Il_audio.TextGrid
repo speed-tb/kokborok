@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 10.5
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 10.5
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 3.75
+			text = "0"
+		intervals [2]:
+			xmin = 3.75
+			xmax = 9.54
+			text = ""
+		intervals [3]:
+			xmin = 9.54
+			xmax = 10.5
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 10.5
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 3.75
+			text = "0"
+		intervals [2]:
+			xmin = 3.75
+			xmax = 9.54
+			text = "cherwi nai, swbaiwi sukhrubwi, sanai khoroksa tongna nango, suinai khoroksa tongna nango."
+		intervals [3]:
+			xmin = 9.54
+			xmax = 10.5
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 10.5
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 3.75
+			text = "0"
+		intervals [2]:
+			xmin = 3.75
+			xmax = 9.54
+			text = ""
+		intervals [3]:
+			xmin = 9.54
+			xmax = 10.5
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 10.5
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 3.75
+			text = "0"
+		intervals [2]:
+			xmin = 3.75
+			xmax = 9.54
+			text = ""
+		intervals [3]:
+			xmin = 9.54
+			xmax = 10.5
+			text = "0"

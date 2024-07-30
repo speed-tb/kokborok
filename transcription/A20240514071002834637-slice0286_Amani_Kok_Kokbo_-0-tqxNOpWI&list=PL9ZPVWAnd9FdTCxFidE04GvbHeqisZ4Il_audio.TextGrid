@@ -1,0 +1,208 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 52.6
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 52.6
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.11
+			text = "0"
+		intervals [2]:
+			xmin = 1.11
+			xmax = 4.01
+			text = ""
+		intervals [3]:
+			xmin = 4.01
+			xmax = 4.08
+			text = "0"
+		intervals [4]:
+			xmin = 4.08
+			xmax = 13.49
+			text = ""
+		intervals [5]:
+			xmin = 13.49
+			xmax = 17.44
+			text = "0"
+		intervals [6]:
+			xmin = 17.44
+			xmax = 28.92
+			text = ""
+		intervals [7]:
+			xmin = 28.92
+			xmax = 28.93
+			text = "0"
+		intervals [8]:
+			xmin = 28.93
+			xmax = 37.36
+			text = ""
+		intervals [9]:
+			xmin = 37.36
+			xmax = 38.25
+			text = "0"
+		intervals [10]:
+			xmin = 38.25
+			xmax = 52.42
+			text = ""
+		intervals [11]:
+			xmin = 52.42
+			xmax = 52.6
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 52.6
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.11
+			text = "0"
+		intervals [2]:
+			xmin = 1.11
+			xmax = 4.01
+			text = ""
+		intervals [3]:
+			xmin = 4.01
+			xmax = 4.08
+			text = "0"
+		intervals [4]:
+			xmin = 4.08
+			xmax = 13.49
+			text = ""
+		intervals [5]:
+			xmin = 13.49
+			xmax = 17.44
+			text = "0"
+		intervals [6]:
+			xmin = 17.44
+			xmax = 28.92
+			text = "kokborokni kobita sara prithivini kwbangma jagao sogwikha, natok sogwi kha, kobita sogwi kha, probondor sogwi kha,rwchamung sogwi kha, quality japhanw wngthwng, bhashato sogwi gwrakha."
+		intervals [7]:
+			xmin = 28.92
+			xmax = 28.93
+			text = "0"
+		intervals [8]:
+			xmin = 28.93
+			xmax = 37.36
+			text = ""
+		intervals [9]:
+			xmin = 37.36
+			xmax = 38.25
+			text = "0"
+		intervals [10]:
+			xmin = 38.25
+			xmax = 52.42
+			text = ""
+		intervals [11]:
+			xmin = 52.42
+			xmax = 52.6
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 52.6
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.11
+			text = "0"
+		intervals [2]:
+			xmin = 1.11
+			xmax = 4.01
+			text = "kokbo kuthwiya"
+		intervals [3]:
+			xmin = 4.01
+			xmax = 4.08
+			text = "0"
+		intervals [4]:
+			xmin = 4.08
+			xmax = 13.49
+			text = "aboto poroboti jorao jephuru u borokrog sai thangkha je abo death language, tabok to my language wil never die."
+		intervals [5]:
+			xmin = 13.49
+			xmax = 17.44
+			text = "0"
+		intervals [6]:
+			xmin = 17.44
+			xmax = 28.92
+			text = ""
+		intervals [7]:
+			xmin = 28.92
+			xmax = 28.93
+			text = "0"
+		intervals [8]:
+			xmin = 28.93
+			xmax = 37.36
+			text = "omo chwng yapiri sewi tongmani, yapiri yasa yasa sewi hachwk kasa"
+		intervals [9]:
+			xmin = 37.36
+			xmax = 38.25
+			text = "0"
+		intervals [10]:
+			xmin = 38.25
+			xmax = 52.42
+			text = "sir abono paithago barasa khlaiwi kok kwchar di tabokni swinairogno eba kokborok sanairogno, chini kokborokno kwthang tonna bagwi tei tamo khaiman, salno naina bagwi."
+		intervals [11]:
+			xmin = 52.42
+			xmax = 52.6
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 52.6
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.11
+			text = "0"
+		intervals [2]:
+			xmin = 1.11
+			xmax = 4.01
+			text = ""
+		intervals [3]:
+			xmin = 4.01
+			xmax = 4.08
+			text = "0"
+		intervals [4]:
+			xmin = 4.08
+			xmax = 13.49
+			text = ""
+		intervals [5]:
+			xmin = 13.49
+			xmax = 17.44
+			text = "0"
+		intervals [6]:
+			xmin = 17.44
+			xmax = 28.92
+			text = ""
+		intervals [7]:
+			xmin = 28.92
+			xmax = 28.93
+			text = "0"
+		intervals [8]:
+			xmin = 28.93
+			xmax = 37.36
+			text = ""
+		intervals [9]:
+			xmin = 37.36
+			xmax = 38.25
+			text = "0"
+		intervals [10]:
+			xmin = 38.25
+			xmax = 52.42
+			text = ""
+		intervals [11]:
+			xmin = 52.42
+			xmax = 52.6
+			text = "0"

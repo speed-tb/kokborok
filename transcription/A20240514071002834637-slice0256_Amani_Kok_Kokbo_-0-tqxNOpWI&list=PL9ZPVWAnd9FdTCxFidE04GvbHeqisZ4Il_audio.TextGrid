@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 13.9
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 13.9
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.32
+			text = "0"
+		intervals [2]:
+			xmin = 2.32
+			xmax = 3.77
+			text = ""
+		intervals [3]:
+			xmin = 3.77
+			xmax = 5.51
+			text = "0"
+		intervals [4]:
+			xmin = 5.51
+			xmax = 12.27
+			text = ""
+		intervals [5]:
+			xmin = 12.27
+			xmax = 13.9
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 13.9
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.32
+			text = "0"
+		intervals [2]:
+			xmin = 2.32
+			xmax = 3.77
+			text = "swijakya haiya"
+		intervals [3]:
+			xmin = 3.77
+			xmax = 5.51
+			text = "0"
+		intervals [4]:
+			xmin = 5.51
+			xmax = 12.27
+			text = "mane ang je samani,je ang pochhondo wngya kho, aswk khe manya kho hwnwi hinmani"
+		intervals [5]:
+			xmin = 12.27
+			xmax = 13.9
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 13.9
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.32
+			text = "0"
+		intervals [2]:
+			xmin = 2.32
+			xmax = 3.77
+			text = ""
+		intervals [3]:
+			xmin = 3.77
+			xmax = 5.51
+			text = "0"
+		intervals [4]:
+			xmin = 5.51
+			xmax = 12.27
+			text = ""
+		intervals [5]:
+			xmin = 12.27
+			xmax = 13.9
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 13.9
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.32
+			text = "0"
+		intervals [2]:
+			xmin = 2.32
+			xmax = 3.77
+			text = ""
+		intervals [3]:
+			xmin = 3.77
+			xmax = 5.51
+			text = "0"
+		intervals [4]:
+			xmin = 5.51
+			xmax = 12.27
+			text = ""
+		intervals [5]:
+			xmin = 12.27
+			xmax = 13.9
+			text = "0"

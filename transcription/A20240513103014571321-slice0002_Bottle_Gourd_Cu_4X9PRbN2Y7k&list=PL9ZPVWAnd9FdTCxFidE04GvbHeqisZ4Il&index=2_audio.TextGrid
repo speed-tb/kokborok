@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 40.6
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Latin-gloss"
+		xmin = 0.0
+		xmax = 40.6
+		intervals: size = 6
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.19
+			text = "0"
+		intervals [2]:
+			xmin = 1.19
+			xmax = 18.55
+			text = ""
+		intervals [3]:
+			xmin = 18.55
+			xmax = 18.73
+			text = "0"
+		intervals [4]:
+			xmin = 18.73
+			xmax = 23.3
+			text = ""
+		intervals [5]:
+			xmin = 23.3
+			xmax = 24.1
+			text = "0"
+		intervals [6]:
+			xmin = 24.1
+			xmax = 40.6
+			text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 40.6
+		intervals: size = 6
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.19
+			text = "0"
+		intervals [2]:
+			xmin = 1.19
+			xmax = 18.55
+			text = "Belai nithothok khe oro bo milokni babicha khalai ba milokni hukbar khalai kha. Phaidi bobai kok sainailai nai je o khalai thani, bo bahai khe wansuk kha ba oborok khalainai bini bwswk airog wngkha oborogno sina chaitok lainai."
+		intervals [3]:
+			xmin = 18.55
+			xmax = 18.73
+			text = "0"
+		intervals [4]:
+			xmin = 18.73
+			xmax = 23.3
+			text = "Puilano lamsogo takhuk no DD Tripura ni hukbar pandao. Khulum kha,; khulum kha."
+		intervals [5]:
+			xmin = 23.3
+			xmax = 24.1
+			text = "0"
+		intervals [6]:
+			xmin = 24.1
+			xmax = 40.6
+			text = "Nwng je o jagao aswk milokni kheto khalai mani,  obo buile milok hwnka kei kheto awar-rogo se khalaio nini mo to mura sakao no khalai mani, bwswk jagarog? Omo char kani ni upor panj kanirog wngwanw."

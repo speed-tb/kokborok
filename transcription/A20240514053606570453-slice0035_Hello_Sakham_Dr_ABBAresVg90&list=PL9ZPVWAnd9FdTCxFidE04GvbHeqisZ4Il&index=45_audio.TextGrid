@@ -1,0 +1,240 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 126.6
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 126.6
+		intervals: size = 13
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.83
+			text = "0"
+		intervals [2]:
+			xmin = 2.83
+			xmax = 14.9
+			text = ""
+		intervals [3]:
+			xmin = 14.9
+			xmax = 15.2
+			text = "0"
+		intervals [4]:
+			xmin = 15.2
+			xmax = 40.13
+			text = ""
+		intervals [5]:
+			xmin = 40.13
+			xmax = 40.65
+			text = "0"
+		intervals [6]:
+			xmin = 40.65
+			xmax = 69.97
+			text = ""
+		intervals [7]:
+			xmin = 69.97
+			xmax = 70.15
+			text = "0"
+		intervals [8]:
+			xmin = 70.15
+			xmax = 83.65
+			text = ""
+		intervals [9]:
+			xmin = 83.65
+			xmax = 86.45
+			text = "0"
+		intervals [10]:
+			xmin = 86.45
+			xmax = 105.28
+			text = ""
+		intervals [11]:
+			xmin = 105.28
+			xmax = 105.57
+			text = "0"
+		intervals [12]:
+			xmin = 105.57
+			xmax = 126.3
+			text = ""
+		intervals [13]:
+			xmin = 126.3
+			xmax = 126.6
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 126.6
+		intervals: size = 13
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.83
+			text = "0"
+		intervals [2]:
+			xmin = 2.83
+			xmax = 14.9
+			text = ""
+		intervals [3]:
+			xmin = 14.9
+			xmax = 15.2
+			text = "0"
+		intervals [4]:
+			xmin = 15.2
+			xmax = 40.13
+			text = ""
+		intervals [5]:
+			xmin = 40.13
+			xmax = 40.65
+			text = "0"
+		intervals [6]:
+			xmin = 40.65
+			xmax = 69.97
+			text = ""
+		intervals [7]:
+			xmin = 69.97
+			xmax = 70.15
+			text = "0"
+		intervals [8]:
+			xmin = 70.15
+			xmax = 83.65
+			text = ""
+		intervals [9]:
+			xmin = 83.65
+			xmax = 86.45
+			text = "0"
+		intervals [10]:
+			xmin = 86.45
+			xmax = 105.28
+			text = ""
+		intervals [11]:
+			xmin = 105.28
+			xmax = 105.57
+			text = "0"
+		intervals [12]:
+			xmin = 105.57
+			xmax = 126.3
+			text = ""
+		intervals [13]:
+			xmin = 126.3
+			xmax = 126.6
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 126.6
+		intervals: size = 13
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.83
+			text = "0"
+		intervals [2]:
+			xmin = 2.83
+			xmax = 14.9
+			text = "aboto swng nangmani kokno lockdown ni karone sini chwrairog je porei maya wngwi tongkha, hinkhe abono sak-hamno important abono kisa saklai rwsidi."
+		intervals [3]:
+			xmin = 14.9
+			xmax = 15.2
+			text = "0"
+		intervals [4]:
+			xmin = 15.2
+			xmax = 40.13
+			text = "o je lockdown ni jate iskulrog, koleis, universitiesrog kisa bongni bondo khai rwmarog oborog belaino important, tangwi hwnwi ba chwrairog belai kuthumo kaisa classroomo, ekso duiso jonarog hinkhe nwng university ba iskulo thangkhe gari kai thangnai ba borok kwbangma mililainai hwnke, abo haikhe tonglai khe o je swng dabling time hinmani abo komei thangnai."
+		intervals [5]:
+			xmin = 40.13
+			xmax = 40.65
+			text = "0"
+		intervals [6]:
+			xmin = 40.65
+			xmax = 69.97
+			text = "tabok je egaro dino dabol wngwi tongmani abo jodino dui tin dino dobol wngwi tongo mane, abo infection rate belaino barei thangnai, wngkhe hai wngwi thangkha hwnke mane, abo aswk khe spread wngwi thangwanw, sini to aswk population to kwrwi, kintu aswk borok jodinw infect wngwi thangkha hwnke  abono menes khainani, aswk hospitol totong sini oro,aswk obo hai equipment aswk man power totong, hwnke abono wansogwino  swng o je lockdown no pholo ma khainai."
+		intervals [7]:
+			xmin = 69.97
+			xmax = 70.15
+			text = "0"
+		intervals [8]:
+			xmin = 70.15
+			xmax = 83.65
+			text = "hwnke je nwng swngmwng je iskulrog bahai khe porenai hwnke abo government already kwbangma online classesrog chengdi hinwi nai abo saklaimung rwkha,hwnke abo chebo chengjak kha."
+		intervals [9]:
+			xmin = 83.65
+			xmax = 86.45
+			text = "0"
+		intervals [10]:
+			xmin = 86.45
+			xmax = 105.28
+			text = "apps ni thrutwi, google meet hwnwi kaisa ep mane tamo tongo bongni softwarerog tongo, aboni thrutwi borong kwbangma studentsno nogo achoktwtwino laptop bai wngthwng borong phwrwngwi tongwi mano, wngkhe haikhe nuk kha chwrairog baksa baksa class naphuru notesrog bo swnamwi tonwi rwo."
+		intervals [11]:
+			xmin = 105.28
+			xmax = 105.57
+			text = "0"
+		intervals [12]:
+			xmin = 105.57
+			xmax = 126.3
+			text = "hinkhe aswk wanana nangya, haikheno porei tongwimano, phatar deso chwng age khwnalaimahai iskulo thangyawi bo pora suna khaio hinmani, tabok swng abohai jorao no sogwi kha, chwngbo advance wngwi tongo, laptop, mobile naino porii tongwi mano, hinke abono aswk wanana nangya, lockdown jora laikha hinkhe aste aste abobo phaiwani."
+		intervals [13]:
+			xmin = 126.3
+			xmax = 126.6
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 126.6
+		intervals: size = 13
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.83
+			text = "0"
+		intervals [2]:
+			xmin = 2.83
+			xmax = 14.9
+			text = ""
+		intervals [3]:
+			xmin = 14.9
+			xmax = 15.2
+			text = "0"
+		intervals [4]:
+			xmin = 15.2
+			xmax = 40.13
+			text = ""
+		intervals [5]:
+			xmin = 40.13
+			xmax = 40.65
+			text = "0"
+		intervals [6]:
+			xmin = 40.65
+			xmax = 69.97
+			text = ""
+		intervals [7]:
+			xmin = 69.97
+			xmax = 70.15
+			text = "0"
+		intervals [8]:
+			xmin = 70.15
+			xmax = 83.65
+			text = ""
+		intervals [9]:
+			xmin = 83.65
+			xmax = 86.45
+			text = "0"
+		intervals [10]:
+			xmin = 86.45
+			xmax = 105.28
+			text = ""
+		intervals [11]:
+			xmin = 105.28
+			xmax = 105.57
+			text = "0"
+		intervals [12]:
+			xmin = 105.57
+			xmax = 126.3
+			text = ""
+		intervals [13]:
+			xmin = 126.3
+			xmax = 126.6
+			text = "0"

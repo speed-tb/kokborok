@@ -1,0 +1,144 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 51.6
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 51.6
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.54
+			text = "0"
+		intervals [2]:
+			xmin = 0.54
+			xmax = 15.62
+			text = ""
+		intervals [3]:
+			xmin = 15.62
+			xmax = 15.71
+			text = "0"
+		intervals [4]:
+			xmin = 15.71
+			xmax = 41.87
+			text = ""
+		intervals [5]:
+			xmin = 41.87
+			xmax = 41.91
+			text = "0"
+		intervals [6]:
+			xmin = 41.91
+			xmax = 50.24
+			text = ""
+		intervals [7]:
+			xmin = 50.24
+			xmax = 51.6
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 51.6
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.54
+			text = "0"
+		intervals [2]:
+			xmin = 0.54
+			xmax = 15.62
+			text = "Nainti parsent no milogo twi tongo,aboni bagwinai milok chakha hwnka khei satung jorao sak thanda wngwi tongo,sak thanda wngma bai baksa baksa ok bo kuplung wngwi tongo. Abo twi kwbang tongma bai."
+		intervals [3]:
+			xmin = 15.62
+			xmax = 15.71
+			text = "0"
+		intervals [4]:
+			xmin = 15.71
+			xmax = 41.87
+			text = "Milok jani horo muktrwi maya,borog o milok mui cha kha hwnka khe,borogni horni muktrwirog kaham wngo.Abono karwinai,jani swtwi thani problem wngo ba swtwi thani yoksao, borog o milok mui regular chakha hwnka khe, o swtwi kormo kormo swtwimarog hamwi thango,milok dayabitis bemarogni bagwi belai kaham."
+		intervals [5]:
+			xmin = 41.87
+			xmax = 41.91
+			text = "0"
+		intervals [6]:
+			xmin = 41.91
+			xmax = 50.24
+			text = "Aboni bagwin o milok aswk khe kothok,aboni bagwino bangla bai kaisa rwchamung tongo, sader lau banailo more boiragi."
+		intervals [7]:
+			xmin = 50.24
+			xmax = 51.6
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 51.6
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.54
+			text = "0"
+		intervals [2]:
+			xmin = 0.54
+			xmax = 15.62
+			text = ""
+		intervals [3]:
+			xmin = 15.62
+			xmax = 15.71
+			text = "0"
+		intervals [4]:
+			xmin = 15.71
+			xmax = 41.87
+			text = ""
+		intervals [5]:
+			xmin = 41.87
+			xmax = 41.91
+			text = "0"
+		intervals [6]:
+			xmin = 41.91
+			xmax = 50.24
+			text = ""
+		intervals [7]:
+			xmin = 50.24
+			xmax = 51.6
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 51.6
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.54
+			text = "0"
+		intervals [2]:
+			xmin = 0.54
+			xmax = 15.62
+			text = ""
+		intervals [3]:
+			xmin = 15.62
+			xmax = 15.71
+			text = "0"
+		intervals [4]:
+			xmin = 15.71
+			xmax = 41.87
+			text = ""
+		intervals [5]:
+			xmin = 41.87
+			xmax = 41.91
+			text = "0"
+		intervals [6]:
+			xmin = 41.91
+			xmax = 50.24
+			text = ""
+		intervals [7]:
+			xmin = 50.24
+			xmax = 51.6
+			text = "0"

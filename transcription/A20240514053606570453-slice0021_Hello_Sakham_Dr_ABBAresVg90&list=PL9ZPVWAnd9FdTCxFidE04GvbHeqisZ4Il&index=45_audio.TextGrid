@@ -1,0 +1,176 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 113.9
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 113.9
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.8
+			text = "0"
+		intervals [2]:
+			xmin = 2.8
+			xmax = 8.39
+			text = ""
+		intervals [3]:
+			xmin = 8.39
+			xmax = 15.32
+			text = "0"
+		intervals [4]:
+			xmin = 15.32
+			xmax = 37.66
+			text = ""
+		intervals [5]:
+			xmin = 37.66
+			xmax = 39.38
+			text = "0"
+		intervals [6]:
+			xmin = 39.38
+			xmax = 90.12
+			text = ""
+		intervals [7]:
+			xmin = 90.12
+			xmax = 90.32
+			text = "0"
+		intervals [8]:
+			xmin = 90.32
+			xmax = 105.88
+			text = ""
+		intervals [9]:
+			xmin = 105.88
+			xmax = 113.9
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 113.9
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.8
+			text = "0"
+		intervals [2]:
+			xmin = 2.8
+			xmax = 8.39
+			text = ""
+		intervals [3]:
+			xmin = 8.39
+			xmax = 15.32
+			text = "0"
+		intervals [4]:
+			xmin = 15.32
+			xmax = 37.66
+			text = ""
+		intervals [5]:
+			xmin = 37.66
+			xmax = 39.38
+			text = "0"
+		intervals [6]:
+			xmin = 39.38
+			xmax = 90.12
+			text = ""
+		intervals [7]:
+			xmin = 90.12
+			xmax = 90.32
+			text = "0"
+		intervals [8]:
+			xmin = 90.32
+			xmax = 105.88
+			text = ""
+		intervals [9]:
+			xmin = 105.88
+			xmax = 113.9
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 113.9
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.8
+			text = "0"
+		intervals [2]:
+			xmin = 2.8
+			xmax = 8.39
+			text = "takhukno tei kaisa sana muchungo tv ni bolium tongmungno kwbang khe rwjak hwnkhe line choi thangnai."
+		intervals [3]:
+			xmin = 8.39
+			xmax = 15.32
+			text = "0"
+		intervals [4]:
+			xmin = 15.32
+			xmax = 37.66
+			text = "wngkhai kok khe haise u je kisa misa wngkokha wngkhai lumkha wngkhai tamo bithirog chawi mane wngko nwng mane koruna de wngkha tamobo wngkha mane jeta phaiya phano kisa misa luma manirog  bithirog tamorog chanai hwnwi"
+		intervals [5]:
+			xmin = 37.66
+			xmax = 39.38
+			text = "0"
+		intervals [6]:
+			xmin = 39.38
+			xmax = 90.12
+			text = "obo belai importance tabok baksa baksa borok kirilai phano ongkhorya ba hospitol hachal hwnwi thangna phano muchungya wngwi tongmano, wngkheno nwng amo hai nwng kongrai wngwi tongo lumwi tongo, hinke lum-mani bagwi chwng plane paracetamol chaimano five hundred milligram abo basic five hundred milligram dos-wo phaio, nini tei kisa ujon besi, seventy five kg-rog hwnkhe six-fifty miligram phano naimano, hwnke abono mai chabai pai chadi paracetamol five hundred milligram , ok khali ta chadi ta, kunu kaisa chama pore chadi, hwnkhe salo wainwi waitham hoite chaimano. mai chamani yagulo salo waithamswk chaimano. waithamswk chaimano belai lumkha hwnke, wngya khe waisa wuisu chama baino abo hamwi thango. hwnkhe o paracetamol mo hai kaisa bithi amo sudu nini luma mani bo hamriya nini bikhrok samani, bwsak sakhrupmani aborogbo nono komirwi ro-wo"
+		intervals [7]:
+			xmin = 90.12
+			xmax = 90.32
+			text = "0"
+		intervals [8]:
+			xmin = 90.32
+			xmax = 105.88
+			text = "hwnke aswk doctorni aro phaiya phano nwng abo bithirog chadi, hinke twi kaham khe nwng di, twi kutung nwng di,hinke jora jorao nini jodino totra kosoro abohairog wngkha hwnke nwng som bai twi muthungwi kisa  tungluluk khai nai dailorog phano khai mano."
+		intervals [9]:
+			xmin = 105.88
+			xmax = 113.9
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 113.9
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.8
+			text = "0"
+		intervals [2]:
+			xmin = 2.8
+			xmax = 8.39
+			text = ""
+		intervals [3]:
+			xmin = 8.39
+			xmax = 15.32
+			text = "0"
+		intervals [4]:
+			xmin = 15.32
+			xmax = 37.66
+			text = ""
+		intervals [5]:
+			xmin = 37.66
+			xmax = 39.38
+			text = "0"
+		intervals [6]:
+			xmin = 39.38
+			xmax = 90.12
+			text = ""
+		intervals [7]:
+			xmin = 90.12
+			xmax = 90.32
+			text = "0"
+		intervals [8]:
+			xmin = 90.32
+			xmax = 105.88
+			text = ""
+		intervals [9]:
+			xmin = 105.88
+			xmax = 113.9
+			text = "0"

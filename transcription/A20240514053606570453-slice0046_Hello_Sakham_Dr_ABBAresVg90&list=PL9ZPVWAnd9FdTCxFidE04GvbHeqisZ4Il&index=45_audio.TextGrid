@@ -1,0 +1,208 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 39.4
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 39.4
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.86
+			text = "0"
+		intervals [2]:
+			xmin = 0.86
+			xmax = 5.67
+			text = ""
+		intervals [3]:
+			xmin = 5.67
+			xmax = 7.36
+			text = "0"
+		intervals [4]:
+			xmin = 7.36
+			xmax = 8.74
+			text = ""
+		intervals [5]:
+			xmin = 8.74
+			xmax = 9.57
+			text = "0"
+		intervals [6]:
+			xmin = 9.57
+			xmax = 19.56
+			text = ""
+		intervals [7]:
+			xmin = 19.56
+			xmax = 19.7
+			text = "0"
+		intervals [8]:
+			xmin = 19.7
+			xmax = 23.74
+			text = ""
+		intervals [9]:
+			xmin = 23.74
+			xmax = 23.81
+			text = "0"
+		intervals [10]:
+			xmin = 23.81
+			xmax = 36.53
+			text = ""
+		intervals [11]:
+			xmin = 36.53
+			xmax = 39.4
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 39.4
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.86
+			text = "0"
+		intervals [2]:
+			xmin = 0.86
+			xmax = 5.67
+			text = "ang kisa norokno bai swngna muchungma khe haisi,"
+		intervals [3]:
+			xmin = 5.67
+			xmax = 7.36
+			text = "0"
+		intervals [4]:
+			xmin = 7.36
+			xmax = 8.74
+			text = ""
+		intervals [5]:
+			xmin = 8.74
+			xmax = 9.57
+			text = "0"
+		intervals [6]:
+			xmin = 9.57
+			xmax = 19.56
+			text = "u tabuk je koruna bairas hinmani tabuk je der bosorogni cherairog abo bahai khe katinai borog?"
+		intervals [7]:
+			xmin = 19.56
+			xmax = 19.7
+			text = "0"
+		intervals [8]:
+			xmin = 19.7
+			xmax = 23.74
+			text = "der bosorni cherairog bahai khe katenai? der bosorni cherairog,"
+		intervals [9]:
+			xmin = 23.74
+			xmax = 23.81
+			text = "0"
+		intervals [10]:
+			xmin = 23.81
+			xmax = 36.53
+			text = "at bosor ba sat bosorogni cherairogsi kati phano, der bosor dui bosorni cherairog bahai khe katinai? bo sana naima khe der bosorni cherairog maksrog thubwi manya ba, borogto maksa thubwi manya"
+		intervals [11]:
+			xmin = 36.53
+			xmax = 39.4
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 39.4
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.86
+			text = "0"
+		intervals [2]:
+			xmin = 0.86
+			xmax = 5.67
+			text = ""
+		intervals [3]:
+			xmin = 5.67
+			xmax = 7.36
+			text = "0"
+		intervals [4]:
+			xmin = 7.36
+			xmax = 8.74
+			text = ""
+		intervals [5]:
+			xmin = 8.74
+			xmax = 9.57
+			text = "0"
+		intervals [6]:
+			xmin = 9.57
+			xmax = 19.56
+			text = ""
+		intervals [7]:
+			xmin = 19.56
+			xmax = 19.7
+			text = "0"
+		intervals [8]:
+			xmin = 19.7
+			xmax = 23.74
+			text = ""
+		intervals [9]:
+			xmin = 23.74
+			xmax = 23.81
+			text = "0"
+		intervals [10]:
+			xmin = 23.81
+			xmax = 36.53
+			text = ""
+		intervals [11]:
+			xmin = 36.53
+			xmax = 39.4
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 39.4
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.86
+			text = "0"
+		intervals [2]:
+			xmin = 0.86
+			xmax = 5.67
+			text = ""
+		intervals [3]:
+			xmin = 5.67
+			xmax = 7.36
+			text = "0"
+		intervals [4]:
+			xmin = 7.36
+			xmax = 8.74
+			text = ""
+		intervals [5]:
+			xmin = 8.74
+			xmax = 9.57
+			text = "0"
+		intervals [6]:
+			xmin = 9.57
+			xmax = 19.56
+			text = ""
+		intervals [7]:
+			xmin = 19.56
+			xmax = 19.7
+			text = "0"
+		intervals [8]:
+			xmin = 19.7
+			xmax = 23.74
+			text = ""
+		intervals [9]:
+			xmin = 23.74
+			xmax = 23.81
+			text = "0"
+		intervals [10]:
+			xmin = 23.81
+			xmax = 36.53
+			text = ""
+		intervals [11]:
+			xmin = 36.53
+			xmax = 39.4
+			text = "0"

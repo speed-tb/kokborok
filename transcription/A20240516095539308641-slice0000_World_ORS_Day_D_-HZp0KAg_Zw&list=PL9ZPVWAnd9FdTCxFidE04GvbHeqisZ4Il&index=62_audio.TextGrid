@@ -1,0 +1,176 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 63.9
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 63.9
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 3.48
+			text = "0"
+		intervals [2]:
+			xmin = 3.48
+			xmax = 11.43
+			text = ""
+		intervals [3]:
+			xmin = 11.43
+			xmax = 11.6
+			text = "0"
+		intervals [4]:
+			xmin = 11.6
+			xmax = 21.13
+			text = ""
+		intervals [5]:
+			xmin = 21.13
+			xmax = 21.3
+			text = "0"
+		intervals [6]:
+			xmin = 21.3
+			xmax = 43.38
+			text = ""
+		intervals [7]:
+			xmin = 43.38
+			xmax = 43.61
+			text = "0"
+		intervals [8]:
+			xmin = 43.61
+			xmax = 62.83
+			text = ""
+		intervals [9]:
+			xmin = 62.83
+			xmax = 63.9
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 63.9
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 3.48
+			text = "0"
+		intervals [2]:
+			xmin = 3.48
+			xmax = 11.43
+			text = "Khulum kha naiwi tongnai joto takhuk bukhuksongno puila o no kha kaham yapharwi lamsogo tini chini o panda o."
+		intervals [3]:
+			xmin = 11.43
+			xmax = 11.6
+			text = "0"
+		intervals [4]:
+			xmin = 11.6
+			xmax = 21.13
+			text = "Tini chwng chini o pandao khwnalaiwano world ORS day no twiwi koklam. Hayung ORS ni sal."
+		intervals [5]:
+			xmin = 21.13
+			xmax = 21.3
+			text = "0"
+		intervals [6]:
+			xmin = 21.3
+			xmax = 43.38
+			text = "Tamni bagwi palaijak,eba o sal palai mani kok bothoma tamo?Abono tini chwng khalaiwano. Tei abono twiwi chini o panda o swbaiwi sukhrubwi sai khwna rwna bagwi, chini o pandani naruwai wngwi phai manjak phai kha Doctor Ripon Debbarma,Assistant Professor Department of Pediatrics AGMC."
+		intervals [7]:
+			xmin = 43.38
+			xmax = 43.61
+			text = "0"
+		intervals [8]:
+			xmin = 43.61
+			xmax = 62.83
+			text = "Sar no chini panda o lamsogo,hwnkai sar chwngto saimano twentyninth July, obo hwnkai World ORS day, hwnke obono karwi bo hati barsa kaisa palaijago. Abono bo kisa nwng sai khwna ridi.Tei o sal tamni bagwi palaijak,kokbothoma tamo huijagwi tong aro?"
+		intervals [9]:
+			xmin = 62.83
+			xmax = 63.9
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 63.9
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 3.48
+			text = "0"
+		intervals [2]:
+			xmin = 3.48
+			xmax = 11.43
+			text = ""
+		intervals [3]:
+			xmin = 11.43
+			xmax = 11.6
+			text = "0"
+		intervals [4]:
+			xmin = 11.6
+			xmax = 21.13
+			text = ""
+		intervals [5]:
+			xmin = 21.13
+			xmax = 21.3
+			text = "0"
+		intervals [6]:
+			xmin = 21.3
+			xmax = 43.38
+			text = ""
+		intervals [7]:
+			xmin = 43.38
+			xmax = 43.61
+			text = "0"
+		intervals [8]:
+			xmin = 43.61
+			xmax = 62.83
+			text = ""
+		intervals [9]:
+			xmin = 62.83
+			xmax = 63.9
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 63.9
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 3.48
+			text = "0"
+		intervals [2]:
+			xmin = 3.48
+			xmax = 11.43
+			text = ""
+		intervals [3]:
+			xmin = 11.43
+			xmax = 11.6
+			text = "0"
+		intervals [4]:
+			xmin = 11.6
+			xmax = 21.13
+			text = ""
+		intervals [5]:
+			xmin = 21.13
+			xmax = 21.3
+			text = "0"
+		intervals [6]:
+			xmin = 21.3
+			xmax = 43.38
+			text = ""
+		intervals [7]:
+			xmin = 43.38
+			xmax = 43.61
+			text = "0"
+		intervals [8]:
+			xmin = 43.61
+			xmax = 62.83
+			text = ""
+		intervals [9]:
+			xmin = 62.83
+			xmax = 63.9
+			text = "0"

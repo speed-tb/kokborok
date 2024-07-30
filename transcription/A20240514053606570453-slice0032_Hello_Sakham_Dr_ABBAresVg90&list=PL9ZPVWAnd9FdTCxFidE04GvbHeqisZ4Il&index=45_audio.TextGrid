@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 9.7
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 9.7
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.65
+			text = "0"
+		intervals [2]:
+			xmin = 2.65
+			xmax = 5.06
+			text = ""
+		intervals [3]:
+			xmin = 5.06
+			xmax = 6.49
+			text = "0"
+		intervals [4]:
+			xmin = 6.49
+			xmax = 8.05
+			text = ""
+		intervals [5]:
+			xmin = 8.05
+			xmax = 9.7
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 9.7
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.65
+			text = "0"
+		intervals [2]:
+			xmin = 2.65
+			xmax = 5.06
+			text = "sadi nini swngmwng swng di, khonjon tripura"
+		intervals [3]:
+			xmin = 5.06
+			xmax = 6.49
+			text = "0"
+		intervals [4]:
+			xmin = 6.49
+			xmax = 8.05
+			text = "nini swngmwng swngdi"
+		intervals [5]:
+			xmin = 8.05
+			xmax = 9.7
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 9.7
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.65
+			text = "0"
+		intervals [2]:
+			xmin = 2.65
+			xmax = 5.06
+			text = ""
+		intervals [3]:
+			xmin = 5.06
+			xmax = 6.49
+			text = "0"
+		intervals [4]:
+			xmin = 6.49
+			xmax = 8.05
+			text = ""
+		intervals [5]:
+			xmin = 8.05
+			xmax = 9.7
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 9.7
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.65
+			text = "0"
+		intervals [2]:
+			xmin = 2.65
+			xmax = 5.06
+			text = ""
+		intervals [3]:
+			xmin = 5.06
+			xmax = 6.49
+			text = "0"
+		intervals [4]:
+			xmin = 6.49
+			xmax = 8.05
+			text = ""
+		intervals [5]:
+			xmin = 8.05
+			xmax = 9.7
+			text = "0"

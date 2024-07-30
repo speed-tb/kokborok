@@ -1,0 +1,192 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 42.9
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 42.9
+		intervals: size = 10
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.17
+			text = "0"
+		intervals [2]:
+			xmin = 1.17
+			xmax = 5.57
+			text = ""
+		intervals [3]:
+			xmin = 5.57
+			xmax = 5.87
+			text = "0"
+		intervals [4]:
+			xmin = 5.87
+			xmax = 12.31
+			text = ""
+		intervals [5]:
+			xmin = 12.31
+			xmax = 12.61
+			text = "0"
+		intervals [6]:
+			xmin = 12.61
+			xmax = 18.29
+			text = ""
+		intervals [7]:
+			xmin = 18.29
+			xmax = 18.36
+			text = "0"
+		intervals [8]:
+			xmin = 18.36
+			xmax = 34.43
+			text = ""
+		intervals [9]:
+			xmin = 34.43
+			xmax = 42.41
+			text = ""
+		intervals [10]:
+			xmin = 42.41
+			xmax = 42.9
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 42.9
+		intervals: size = 10
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.17
+			text = "0"
+		intervals [2]:
+			xmin = 1.17
+			xmax = 5.57
+			text = "deblab bolte aigi chwng pore phro khai hawai chopolse kai ma thang jao."
+		intervals [3]:
+			xmin = 5.57
+			xmax = 5.87
+			text = "0"
+		intervals [4]:
+			xmin = 5.87
+			xmax = 12.31
+			text = "himwi se ma thango,tabok bo omtwiya abono gari gura sob kisu, jekhane thangna khei jotono subida mano."
+		intervals [5]:
+			xmin = 12.31
+			xmax = 12.61
+			text = "0"
+		intervals [6]:
+			xmin = 12.61
+			xmax = 18.29
+			text = "hwnke o hisabe tabok porinairogno, aram kheino poei mano, kaham kheibo porei mano."
+		intervals [7]:
+			xmin = 18.29
+			xmax = 18.36
+			text = "0"
+		intervals [8]:
+			xmin = 18.36
+			xmax = 34.43
+			text = "borogno ang abono message rwo,khasi pore bai di, sudu nini  nwng manma simi ya,abo dophanibo manjak, amtwi wansogwi, ang borogno obono meses rwo, khoborda jekuno hamyao yak ta ridi,pori pai di."
+		intervals [9]:
+			xmin = 34.43
+			xmax = 42.41
+			text = "pori paikhei jesa phano khaidi, thwphano thwng di,gan phano khaidi japhano khai di,kintu pori paigrana nangwanw. Porano swkang."
+		intervals [10]:
+			xmin = 42.41
+			xmax = 42.9
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 42.9
+		intervals: size = 10
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.17
+			text = "0"
+		intervals [2]:
+			xmin = 1.17
+			xmax = 5.57
+			text = ""
+		intervals [3]:
+			xmin = 5.57
+			xmax = 5.87
+			text = "0"
+		intervals [4]:
+			xmin = 5.87
+			xmax = 12.31
+			text = ""
+		intervals [5]:
+			xmin = 12.31
+			xmax = 12.61
+			text = "0"
+		intervals [6]:
+			xmin = 12.61
+			xmax = 18.29
+			text = ""
+		intervals [7]:
+			xmin = 18.29
+			xmax = 18.36
+			text = "0"
+		intervals [8]:
+			xmin = 18.36
+			xmax = 34.43
+			text = ""
+		intervals [9]:
+			xmin = 34.43
+			xmax = 42.41
+			text = ""
+		intervals [10]:
+			xmin = 42.41
+			xmax = 42.9
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 42.9
+		intervals: size = 10
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.17
+			text = "0"
+		intervals [2]:
+			xmin = 1.17
+			xmax = 5.57
+			text = ""
+		intervals [3]:
+			xmin = 5.57
+			xmax = 5.87
+			text = "0"
+		intervals [4]:
+			xmin = 5.87
+			xmax = 12.31
+			text = ""
+		intervals [5]:
+			xmin = 12.31
+			xmax = 12.61
+			text = "0"
+		intervals [6]:
+			xmin = 12.61
+			xmax = 18.29
+			text = ""
+		intervals [7]:
+			xmin = 18.29
+			xmax = 18.36
+			text = "0"
+		intervals [8]:
+			xmin = 18.36
+			xmax = 34.43
+			text = ""
+		intervals [9]:
+			xmin = 34.43
+			xmax = 42.41
+			text = ""
+		intervals [10]:
+			xmin = 42.41
+			xmax = 42.9
+			text = "0"

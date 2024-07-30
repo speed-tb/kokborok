@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 32.7
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 32.7
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.72
+			text = "0"
+		intervals [2]:
+			xmin = 1.72
+			xmax = 25.59
+			text = ""
+		intervals [3]:
+			xmin = 25.59
+			xmax = 32.7
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 32.7
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.72
+			text = "0"
+		intervals [2]:
+			xmin = 1.72
+			xmax = 25.59
+			text = "Wng khai khapangni takhuk tei bukhuksong, chwng je jotoni sai kotor hwnwi puila thai mani, abo tilokni bagwi hwnwi nai je narwk mani, abo asole bo bwchlwi narwkna bagwi se, puilani bwchlwino jotoni slai kaham wngkugo.Aboni bagwi nai, a bwchlai kaham khe phwranwi narwk kha hwnkhe abono tei waisa tei kaisa sijono kaiphi kha wngkhe aroni theke no haino hai boni bwthai ba bwsa achai kha hwnkhe bwthai kaham mano."
+		intervals [3]:
+			xmin = 25.59
+			xmax = 32.7
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 32.7
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.72
+			text = "0"
+		intervals [2]:
+			xmin = 1.72
+			xmax = 25.59
+			text = ""
+		intervals [3]:
+			xmin = 25.59
+			xmax = 32.7
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 32.7
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.72
+			text = "0"
+		intervals [2]:
+			xmin = 1.72
+			xmax = 25.59
+			text = ""
+		intervals [3]:
+			xmin = 25.59
+			xmax = 32.7
+			text = "0"

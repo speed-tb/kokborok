@@ -1,0 +1,160 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 123.5
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 123.5
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0.0
+			xmax = 54.9
+			text = ""
+		intervals [2]:
+			xmin = 54.9
+			xmax = 55.3
+			text = "0"
+		intervals [3]:
+			xmin = 55.3
+			xmax = 83.5
+			text = ""
+		intervals [4]:
+			xmin = 83.5
+			xmax = 83.85
+			text = "0"
+		intervals [5]:
+			xmin = 83.85
+			xmax = 104.85
+			text = ""
+		intervals [6]:
+			xmin = 104.85
+			xmax = 105.0
+			text = "0"
+		intervals [7]:
+			xmin = 105.0
+			xmax = 123.05
+			text = ""
+		intervals [8]:
+			xmin = 123.05
+			xmax = 123.5
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 123.5
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0.0
+			xmax = 54.9
+			text = ""
+		intervals [2]:
+			xmin = 54.9
+			xmax = 55.3
+			text = "0"
+		intervals [3]:
+			xmin = 55.3
+			xmax = 83.5
+			text = ""
+		intervals [4]:
+			xmin = 83.5
+			xmax = 83.85
+			text = "0"
+		intervals [5]:
+			xmin = 83.85
+			xmax = 104.85
+			text = ""
+		intervals [6]:
+			xmin = 104.85
+			xmax = 105.0
+			text = "0"
+		intervals [7]:
+			xmin = 105.0
+			xmax = 123.05
+			text = ""
+		intervals [8]:
+			xmin = 123.05
+			xmax = 123.5
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 123.5
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0.0
+			xmax = 54.9
+			text = "treatment se rwo chwng, oxygen nangkhe oxygen rwkha ventilator nang khe ventilator rwkha kintu omo permanent solutionya permanent solution-ni bagwi vaccine nango, je rokom swng u DPT-rog ro-wo, polio vaccine, wngkhe abo hai vaccine already research cholii tongo. united kingdom UK-wo oxford university-wo doctor scientist khoroksa tongo, bo already abo research study khai pai kha, bo nije no nakha puila, hinkhe abohai kheno around six companies all over the world tongo vaccine-ni upuro borong research khai tongo, study khai tongo, hinke borong sao je by September of this year human trails, mane borokni uporo study khaimani muta-muti complete wngwani, hwnke by this september sini bagwi khobor, koktwma kaham phano phai mano je kaisa vaccine wngkha hwnwi hwnke aswk tabuk kirina nangya"
+		intervals [2]:
+			xmin = 54.9
+			xmax = 55.3
+			text = "0"
+		intervals [3]:
+			xmin = 55.3
+			xmax = 83.5
+			text = "o je vaccine wngsak jora twi, swng jeswk o social distance maintain khai tongkha khe, hand hygiene,phatar-rogo thangkha-khe yak bar-bar su mani, nogo phaikha wngkhe ri-chumrog sunani tei nije no jeswk mano sabsutra khe tongmani,bukung, bukhugo yasi yakrog aswk phwnangyawi tongmani hinkhe abono sobse importance role play khainai o vaccine wngya sak."
+		intervals [4]:
+			xmin = 83.5
+			xmax = 83.85
+			text = "0"
+		intervals [5]:
+			xmin = 83.85
+			xmax = 104.85
+			text = "hinkhe abono swng tini to  kwbangkukno saimanlai kha je corona bairas wngwi bo aswk kirinani nangya, hwnke tongmungno nogo okra chakra, belaino chakra borok tongkha hwnke borogno chwng keyar khaitai tei sabsutra tong tei chawi nwngwi nijini phan je sak hamyano katenani phan abono swnamna nango abose kotor kok."
+		intervals [6]:
+			xmin = 104.85
+			xmax = 105.0
+			text = "0"
+		intervals [7]:
+			xmin = 105.0
+			xmax = 123.05
+			text = "hwnkhe chwng tini aswk jora to swng saimanlaikha chnini koruna bairas chini hayung gwnangwi belaino wanama singsano wngwi tongmani jorao, sini tipura hao to aswk jora to swng kirina to kokya haiphano swng omo taibo kwbang ta wngthwng abono chwng katina bagwino je chwng lokdaunrogno chwng jotono,"
+		intervals [8]:
+			xmin = 123.05
+			xmax = 123.5
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 123.5
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0.0
+			xmax = 54.9
+			text = ""
+		intervals [2]:
+			xmin = 54.9
+			xmax = 55.3
+			text = "0"
+		intervals [3]:
+			xmin = 55.3
+			xmax = 83.5
+			text = ""
+		intervals [4]:
+			xmin = 83.5
+			xmax = 83.85
+			text = "0"
+		intervals [5]:
+			xmin = 83.85
+			xmax = 104.85
+			text = ""
+		intervals [6]:
+			xmin = 104.85
+			xmax = 105.0
+			text = "0"
+		intervals [7]:
+			xmin = 105.0
+			xmax = 123.05
+			text = ""
+		intervals [8]:
+			xmin = 123.05
+			xmax = 123.5
+			text = "0"

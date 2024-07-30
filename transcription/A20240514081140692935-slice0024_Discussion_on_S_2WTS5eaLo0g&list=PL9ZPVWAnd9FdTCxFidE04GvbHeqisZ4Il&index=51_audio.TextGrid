@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 29.4
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 29.4
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.21
+			text = "0"
+		intervals [2]:
+			xmin = 1.21
+			xmax = 6.99
+			text = ""
+		intervals [3]:
+			xmin = 6.99
+			xmax = 8.1
+			text = "0"
+		intervals [4]:
+			xmin = 8.1
+			xmax = 28.27
+			text = ""
+		intervals [5]:
+			xmin = 28.27
+			xmax = 29.4
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 29.4
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.21
+			text = "0"
+		intervals [2]:
+			xmin = 1.21
+			xmax = 6.99
+			text = "Tabok khai aboya tabok khai, nesani batai si wnglangsiw. Chini aro khup,"
+		intervals [3]:
+			xmin = 6.99
+			xmax = 8.1
+			text = "0"
+		intervals [4]:
+			xmin = 8.1
+			xmax = 28.27
+			text = "Au, aboto haino, haiphano tabuk chwng je chini susaiti wo chwng nuk tongw ta, chini sikla chalairog twrwk twrwk phekmani phaisingo no kwlwgwi tong kha, haya diba na, omo hai nugw. Wngkhe u je sikla chalairogno,nwng tamo hwnwi sana muchung? Tamo kok kwcharna muchung? Sikla chalairogno je,"
+		intervals [5]:
+			xmin = 28.27
+			xmax = 29.4
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 29.4
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.21
+			text = "0"
+		intervals [2]:
+			xmin = 1.21
+			xmax = 6.99
+			text = ""
+		intervals [3]:
+			xmin = 6.99
+			xmax = 8.1
+			text = "0"
+		intervals [4]:
+			xmin = 8.1
+			xmax = 28.27
+			text = ""
+		intervals [5]:
+			xmin = 28.27
+			xmax = 29.4
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 29.4
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.21
+			text = "0"
+		intervals [2]:
+			xmin = 1.21
+			xmax = 6.99
+			text = ""
+		intervals [3]:
+			xmin = 6.99
+			xmax = 8.1
+			text = "0"
+		intervals [4]:
+			xmin = 8.1
+			xmax = 28.27
+			text = ""
+		intervals [5]:
+			xmin = 28.27
+			xmax = 29.4
+			text = "0"

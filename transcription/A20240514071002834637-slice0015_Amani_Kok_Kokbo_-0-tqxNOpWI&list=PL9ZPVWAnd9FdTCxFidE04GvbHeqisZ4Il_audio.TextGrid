@@ -1,0 +1,176 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 50.6
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 50.6
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.69
+			text = "0"
+		intervals [2]:
+			xmin = 1.69
+			xmax = 11.32
+			text = ""
+		intervals [3]:
+			xmin = 11.32
+			xmax = 11.41
+			text = "0"
+		intervals [4]:
+			xmin = 11.41
+			xmax = 29.21
+			text = ""
+		intervals [5]:
+			xmin = 29.21
+			xmax = 29.34
+			text = "0"
+		intervals [6]:
+			xmin = 29.34
+			xmax = 35.73
+			text = ""
+		intervals [7]:
+			xmin = 35.73
+			xmax = 35.82
+			text = "0"
+		intervals [8]:
+			xmin = 35.82
+			xmax = 49.58
+			text = ""
+		intervals [9]:
+			xmin = 49.58
+			xmax = 50.6
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 50.6
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.69
+			text = "0"
+		intervals [2]:
+			xmin = 1.69
+			xmax = 11.32
+			text = "aboni bwkha je sentiment bwkhao danani bagwi je message, abono matri bhasha dibos palon khlainani prokrito asol kokmang bini."
+		intervals [3]:
+			xmin = 11.32
+			xmax = 11.41
+			text = "0"
+		intervals [4]:
+			xmin = 11.41
+			xmax = 29.21
+			text = "banglar bhasha je nineteen fifty two o, bangla bhasha bw haikhenw buibai swklwkjakna nai tongmani, urdu bai aro purbo pakistan o khwlaijagwi tongmani, chapokjagwi tongmani aboni birude aroni borokrog bachakha."
+		intervals [5]:
+			xmin = 29.21
+			xmax = 29.34
+			text = "0"
+		intervals [6]:
+			xmin = 29.34
+			xmax = 35.73
+			text = "bachawi khwlaite khwlaite, joto itihasni yang naro phainai seventy one o khe, abo desh si wng thangsi w."
+		intervals [7]:
+			xmin = 35.73
+			xmax = 35.82
+			text = "0"
+		intervals [8]:
+			xmin = 35.82
+			xmax = 49.58
+			text = "sudu bhashani bagwi loraiya, bhashani bagwi choba simiya,bhasha choba khlaina thang thani hani mung sudu paltogwi rikha, orthat prithibini map swlaiwi rwkha."
+		intervals [9]:
+			xmin = 49.58
+			xmax = 50.6
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 50.6
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.69
+			text = "0"
+		intervals [2]:
+			xmin = 1.69
+			xmax = 11.32
+			text = ""
+		intervals [3]:
+			xmin = 11.32
+			xmax = 11.41
+			text = "0"
+		intervals [4]:
+			xmin = 11.41
+			xmax = 29.21
+			text = ""
+		intervals [5]:
+			xmin = 29.21
+			xmax = 29.34
+			text = "0"
+		intervals [6]:
+			xmin = 29.34
+			xmax = 35.73
+			text = ""
+		intervals [7]:
+			xmin = 35.73
+			xmax = 35.82
+			text = "0"
+		intervals [8]:
+			xmin = 35.82
+			xmax = 49.58
+			text = ""
+		intervals [9]:
+			xmin = 49.58
+			xmax = 50.6
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 50.6
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.69
+			text = "0"
+		intervals [2]:
+			xmin = 1.69
+			xmax = 11.32
+			text = ""
+		intervals [3]:
+			xmin = 11.32
+			xmax = 11.41
+			text = "0"
+		intervals [4]:
+			xmin = 11.41
+			xmax = 29.21
+			text = ""
+		intervals [5]:
+			xmin = 29.21
+			xmax = 29.34
+			text = "0"
+		intervals [6]:
+			xmin = 29.34
+			xmax = 35.73
+			text = ""
+		intervals [7]:
+			xmin = 35.73
+			xmax = 35.82
+			text = "0"
+		intervals [8]:
+			xmin = 35.82
+			xmax = 49.58
+			text = ""
+		intervals [9]:
+			xmin = 49.58
+			xmax = 50.6
+			text = "0"

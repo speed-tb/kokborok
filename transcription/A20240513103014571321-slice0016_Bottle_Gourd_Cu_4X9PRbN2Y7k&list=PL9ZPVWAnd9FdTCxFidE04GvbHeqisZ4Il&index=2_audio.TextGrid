@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 21.4
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Latin-gloss"
+		xmin = 0.0
+		xmax = 21.4
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.31
+			text = "0"
+		intervals [2]:
+			xmin = 2.31
+			xmax = 13.05
+			text = ""
+		intervals [3]:
+			xmin = 13.05
+			xmax = 14.29
+			text = "0"
+		intervals [4]:
+			xmin = 14.29
+			xmax = 19.7
+			text = ""
+		intervals [5]:
+			xmin = 19.7
+			xmax = 21.4
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 21.4
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.31
+			text = "0"
+		intervals [2]:
+			xmin = 2.31
+			xmax = 13.05
+			text = "Wngkhei saiman kha je buphang tungmung jodi, bemari romkha wngkha khe, khaksa kwchak wngwi thang kha hwnkhe borog a buphangno totalli phuisai khibio, jate kubun soloi maya wngnatwi"
+		intervals [3]:
+			xmin = 13.05
+			xmax = 14.29
+			text = "0"
+		intervals [4]:
+			xmin = 14.29
+			xmax = 19.7
+			text = "Nwng je bemari milokni bemari wngo hwnmani je thwi w hwnmani abo bomo hai?"
+		intervals [5]:
+			xmin = 19.7
+			xmax = 21.4
+			text = "0"

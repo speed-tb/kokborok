@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 20.0
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 20.0
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.75
+			text = "0"
+		intervals [2]:
+			xmin = 1.75
+			xmax = 19.07
+			text = ""
+		intervals [3]:
+			xmin = 19.07
+			xmax = 20.0
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 20.0
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.75
+			text = "0"
+		intervals [2]:
+			xmin = 1.75
+			xmax = 19.07
+			text = "Lamatwi bo bini thangna kwrwi,twi twi bo thangna kwrwi, nobartwi birwi thangwi se bo aro nise  ha twiphaima, aboni bara to duniya tei kothin to tei nuhorya. Abono no makha hinke chini borok chwla chalairog, drugs je chalaimarog,abono nitchoi karmanai hwnwi ang bwkha ani bwkha wngko khwlaio."
+		intervals [3]:
+			xmin = 19.07
+			xmax = 20.0
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 20.0
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.75
+			text = "0"
+		intervals [2]:
+			xmin = 1.75
+			xmax = 19.07
+			text = ""
+		intervals [3]:
+			xmin = 19.07
+			xmax = 20.0
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 20.0
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.75
+			text = "0"
+		intervals [2]:
+			xmin = 1.75
+			xmax = 19.07
+			text = ""
+		intervals [3]:
+			xmin = 19.07
+			xmax = 20.0
+			text = "0"

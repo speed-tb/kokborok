@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 75.2
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Latin-gloss"
+		xmin = 0.0
+		xmax = 75.2
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.02
+			text = "0"
+		intervals [2]:
+			xmin = 0.02
+			xmax = 44.31
+			text = ""
+		intervals [3]:
+			xmin = 44.31
+			xmax = 75.2
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 75.2
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.02
+			text = "0"
+		intervals [2]:
+			xmin = 0.02
+			xmax = 44.31
+			text = "Haino hai lamsogo khapang ni takhuk bukhuksong joto dongor tv nai tongnairogno. Tini hukbarni panda. O naithothok hukbar khlaimani chini chakra tei chakrajwk. Naithothok derasoni hukbar tei lubiyani hukbar. Amono twiwi no chwng borok bai thaisa thainwi kok lam salainai. Chwng phaisok phai kha west Rotonpurni Berjo kamini takhuk Nipendro debbarmani bo hukbar khwlai mani, belai kheno naithothok. Kwsrang okra chakra wngwibo nogo achogwi tongya. A hai kheno sosarog bo kaiwi borog baniya khwlaiwi phalwi mwikwthwng phalwi borog rang poisa ajewi tongo. Nogo achogwi tongya. Nai nai di bwswkse naithothok o deraso. Hakhe borogni khuktwi bo thaisa thainwi khwnai nailai wano borog bahai khe omo haikhe khwlaiwi tongkha. Mane jagano khil rohoya buibai baga phano khwlaio. Haya khe borogni khuktwino swrai swrai saimanai."
+		intervals [3]:
+			xmin = 44.31
+			xmax = 51.32
+			text = "0"
+		intervals [4]:
+			xmin = 51.32
+			xmax = 74.74
+			text = "Aphru bwswkrog phal khwna omo hai khet khlai phru? Khet khlai phru dei? Phal kha ble.Tiris hajar haino phal kha. Hwnkhe tabok mo paiwi tamo kaio khua? Obono paiwi nai wngko sosa, derso ro khata.Deraso bai sobai na? Deraso bai sobai. Omo khe kwle kaijakya twi kolom bla. Hwnkhe norok je o derso kaimani khe norok tabuk da puila phal-lai? Koi bar? Phal kha."
+		intervals [5]:
+			xmin = 74.74
+			xmax = 75.2
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 75.2
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.02
+			text = "0"
+		intervals [2]:
+			xmin = 0.02
+			xmax = 44.31
+			text = ""
+		intervals [3]:
+			xmin = 44.31
+			xmax = 75.2
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 75.2
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.02
+			text = "0"
+		intervals [2]:
+			xmin = 0.02
+			xmax = 44.31
+			text = ""
+		intervals [3]:
+			xmin = 44.31
+			xmax = 75.2
+			text = "0"
+	item [5]:
+		class = "IntervalTier"
+		name = "sentence-eng-Latn-translation"
+		xmin = 0.0
+		xmax = 75.2
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.02
+			text = "0"
+		intervals [2]:
+			xmin = 0.02
+			xmax = 44.31
+			text = ""
+		intervals [3]:
+			xmin = 44.31
+			xmax = 75.2
+			text = "0"

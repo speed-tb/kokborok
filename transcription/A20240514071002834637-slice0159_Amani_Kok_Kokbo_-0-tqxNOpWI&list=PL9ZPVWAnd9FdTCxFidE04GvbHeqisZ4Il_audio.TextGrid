@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 20.7
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 20.7
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.43
+			text = "0"
+		intervals [2]:
+			xmin = 1.43
+			xmax = 17.81
+			text = ""
+		intervals [3]:
+			xmin = 17.81
+			xmax = 20.7
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 20.7
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.43
+			text = "0"
+		intervals [2]:
+			xmin = 1.43
+			xmax = 17.81
+			text = "omorogno birkho bikoto panj bosor jabot naimani nukbai pai'ino, borogni swimungrog, borogni studiesrog, kaisa kuisu kaham kaham, waisa wuisu phaio borogni continuity kwrwi sustain khlaimaya borog"
+		intervals [3]:
+			xmin = 17.81
+			xmax = 20.7
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 20.7
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.43
+			text = "0"
+		intervals [2]:
+			xmin = 1.43
+			xmax = 17.81
+			text = ""
+		intervals [3]:
+			xmin = 17.81
+			xmax = 20.7
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 20.7
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.43
+			text = "0"
+		intervals [2]:
+			xmin = 1.43
+			xmax = 17.81
+			text = ""
+		intervals [3]:
+			xmin = 17.81
+			xmax = 20.7
+			text = "0"

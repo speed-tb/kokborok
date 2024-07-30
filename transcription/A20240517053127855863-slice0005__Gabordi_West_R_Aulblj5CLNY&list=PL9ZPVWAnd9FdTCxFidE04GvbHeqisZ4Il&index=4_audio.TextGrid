@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 35.7
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Latin-gloss"
+		xmin = 0.0
+		xmax = 35.7
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.82
+			text = "0"
+		intervals [2]:
+			xmin = 0.82
+			xmax = 20.95
+			text = ""
+		intervals [3]:
+			xmin = 20.95
+			xmax = 35.7
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 35.7
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.82
+			text = "0"
+		intervals [2]:
+			xmin = 0.82
+			xmax = 20.95
+			text = "O parani mung hwnkha khei Sibchadra para. Sibchandra para na? Je o malikni mung tamo? Omo khe khe ani jagaya. Omo khe Badol ni. Haino khil tongmani bla khwlainai kwrwi. Mai khlai khe pusokya hwnwi wngkhe, ang khira phano kai nai wano hwnwi nai. Hwnka khe kaidi, hwnwi hino hinkei khai kha ta."
+		intervals [3]:
+			xmin = 20.95
+			xmax = 21.33
+			text = "0"
+		intervals [4]:
+			xmin = 21.33
+			xmax = 33.04
+			text = "O berarog bebak ang khabaima mangno. Gairingbo tang na kha ta, hwnkhe gairing swbai khibi kha ta. Tabok omo u ha wakhagwi nai khira khwlai phina hwnwi thik khe ton kha ta."
+		intervals [5]:
+			xmin = 33.04
+			xmax = 35.7
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 35.7
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.82
+			text = "0"
+		intervals [2]:
+			xmin = 0.82
+			xmax = 20.95
+			text = ""
+		intervals [3]:
+			xmin = 20.95
+			xmax = 35.7
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 35.7
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.82
+			text = "0"
+		intervals [2]:
+			xmin = 0.82
+			xmax = 20.95
+			text = ""
+		intervals [3]:
+			xmin = 20.95
+			xmax = 35.7
+			text = "0"
+	item [5]:
+		class = "IntervalTier"
+		name = "sentence-eng-Latn-translation"
+		xmin = 0.0
+		xmax = 35.7
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.82
+			text = "0"
+		intervals [2]:
+			xmin = 0.82
+			xmax = 20.95
+			text = ""
+		intervals [3]:
+			xmin = 20.95
+			xmax = 35.7
+			text = "0"

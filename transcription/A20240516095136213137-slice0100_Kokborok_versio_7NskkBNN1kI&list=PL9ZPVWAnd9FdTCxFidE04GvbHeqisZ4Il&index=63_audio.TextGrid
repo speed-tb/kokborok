@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 7.1
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 7.1
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.48
+			text = "0"
+		intervals [2]:
+			xmin = 1.48
+			xmax = 6.41
+			text = ""
+		intervals [3]:
+			xmin = 6.41
+			xmax = 7.1
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 7.1
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.48
+			text = "0"
+		intervals [2]:
+			xmin = 1.48
+			xmax = 6.41
+			text = "Aboni kokmung wngkha simari bai baksa o hayung mungsa bo kwthar kwrwi."
+		intervals [3]:
+			xmin = 6.41
+			xmax = 7.1
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 7.1
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.48
+			text = "0"
+		intervals [2]:
+			xmin = 1.48
+			xmax = 6.41
+			text = ""
+		intervals [3]:
+			xmin = 6.41
+			xmax = 7.1
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 7.1
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.48
+			text = "0"
+		intervals [2]:
+			xmin = 1.48
+			xmax = 6.41
+			text = ""
+		intervals [3]:
+			xmin = 6.41
+			xmax = 7.1
+			text = "0"

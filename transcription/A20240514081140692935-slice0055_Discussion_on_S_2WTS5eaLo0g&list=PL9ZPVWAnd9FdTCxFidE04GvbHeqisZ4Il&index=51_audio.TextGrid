@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 12.7
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 12.7
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.36
+			text = "0"
+		intervals [2]:
+			xmin = 0.36
+			xmax = 10.95
+			text = ""
+		intervals [3]:
+			xmin = 10.95
+			xmax = 12.7
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 12.7
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.36
+			text = "0"
+		intervals [2]:
+			xmin = 0.36
+			xmax = 10.95
+			text = "Bo dol hamya baide kwtha, dol hamya kwtha phano dol hamaya nobo hamya hin maya bono bo chung bujokna manai nai. Amtwi ma khainai buma-bupha nino pura daito."
+		intervals [3]:
+			xmin = 10.95
+			xmax = 12.7
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 12.7
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.36
+			text = "0"
+		intervals [2]:
+			xmin = 0.36
+			xmax = 10.95
+			text = ""
+		intervals [3]:
+			xmin = 10.95
+			xmax = 12.7
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 12.7
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.36
+			text = "0"
+		intervals [2]:
+			xmin = 0.36
+			xmax = 10.95
+			text = ""
+		intervals [3]:
+			xmin = 10.95
+			xmax = 12.7
+			text = "0"

@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 27.3
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 27.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.84
+			text = "0"
+		intervals [2]:
+			xmin = 0.84
+			xmax = 13.67
+			text = ""
+		intervals [3]:
+			xmin = 13.67
+			xmax = 14.58
+			text = "0"
+		intervals [4]:
+			xmin = 14.58
+			xmax = 19.73
+			text = ""
+		intervals [5]:
+			xmin = 19.73
+			xmax = 27.3
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 27.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.84
+			text = "0"
+		intervals [2]:
+			xmin = 0.84
+			xmax = 13.67
+			text = "Omo ORS swnam ma swkang, omo chwng ensure ma khainai je chini yak saban bai kaham khe sui ma khibi nai ta. Omo no kaham khei saban bai su bai, amoni pore no chwng manwirogno romwi ORS swnam nai."
+		intervals [3]:
+			xmin = 13.67
+			xmax = 14.58
+			text = "0"
+		intervals [4]:
+			xmin = 14.58
+			xmax = 19.73
+			text = "Omo wngkei puila no chwng oro twi, ek litar lui ri ganai,"
+		intervals [5]:
+			xmin = 19.73
+			xmax = 27.3
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 27.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.84
+			text = "0"
+		intervals [2]:
+			xmin = 0.84
+			xmax = 13.67
+			text = ""
+		intervals [3]:
+			xmin = 13.67
+			xmax = 14.58
+			text = "0"
+		intervals [4]:
+			xmin = 14.58
+			xmax = 19.73
+			text = ""
+		intervals [5]:
+			xmin = 19.73
+			xmax = 27.3
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 27.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.84
+			text = "0"
+		intervals [2]:
+			xmin = 0.84
+			xmax = 13.67
+			text = ""
+		intervals [3]:
+			xmin = 13.67
+			xmax = 14.58
+			text = "0"
+		intervals [4]:
+			xmin = 14.58
+			xmax = 19.73
+			text = ""
+		intervals [5]:
+			xmin = 19.73
+			xmax = 27.3
+			text = "0"

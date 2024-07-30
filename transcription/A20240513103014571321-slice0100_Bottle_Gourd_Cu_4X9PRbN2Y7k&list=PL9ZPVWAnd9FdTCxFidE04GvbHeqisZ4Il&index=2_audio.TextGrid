@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 15.054875283446712
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 15.054875283446712
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.35
+			text = "0"
+		intervals [2]:
+			xmin = 1.35
+			xmax = 11.49
+			text = ""
+		intervals [3]:
+			xmin = 11.49
+			xmax = 15.054875283446712
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 15.054875283446712
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.35
+			text = "0"
+		intervals [2]:
+			xmin = 1.35
+			xmax = 11.49
+			text = "Durodosan ni hukbar panda o tini ni bagwi aswkno wngsi thwng,aswk jora chini logi tongmani bagwi norogno paiphlaiya hambai. Joto nono khulum kha."
+		intervals [3]:
+			xmin = 11.49
+			xmax = 15.054875283446712
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 15.054875283446712
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.35
+			text = "0"
+		intervals [2]:
+			xmin = 1.35
+			xmax = 11.49
+			text = ""
+		intervals [3]:
+			xmin = 11.49
+			xmax = 15.054875283446712
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 15.054875283446712
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.35
+			text = "0"
+		intervals [2]:
+			xmin = 1.35
+			xmax = 11.49
+			text = ""
+		intervals [3]:
+			xmin = 11.49
+			xmax = 15.054875283446712
+			text = "0"

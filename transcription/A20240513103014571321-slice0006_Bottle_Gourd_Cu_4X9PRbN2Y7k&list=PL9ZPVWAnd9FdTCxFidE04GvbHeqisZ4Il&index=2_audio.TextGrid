@@ -1,0 +1,186 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 49.9
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Latin-gloss"
+		xmin = 0.0
+		xmax = 49.9
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.1
+			text = "0"
+		intervals [2]:
+			xmin = 1.1
+			xmax = 3.2
+			text = ""
+		intervals [3]:
+			xmin = 3.2
+			xmax = 5.56
+			text = "0"
+		intervals [4]:
+			xmin = 5.56
+			xmax = 12.69
+			text = ""
+		intervals [5]:
+			xmin = 12.69
+			xmax = 15.76
+			text = "0"
+		intervals [6]:
+			xmin = 15.76
+			xmax = 20.7
+			text = ""
+		intervals [7]:
+			xmin = 20.7
+			xmax = 21.19
+			text = "0"
+		intervals [8]:
+			xmin = 21.19
+			xmax = 30.63
+			text = ""
+		intervals [9]:
+			xmin = 30.63
+			xmax = 49.9
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 49.9
+		intervals: size = 13
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.1
+			text = "0"
+		intervals [2]:
+			xmin = 1.1
+			xmax = 3.2
+			text = "Angno jat kwbangma kisa kai rwjaktwino wng."
+		intervals [3]:
+			xmin = 3.2
+			xmax = 5.56
+			text = "0"
+		intervals [4]:
+			xmin = 5.56
+			xmax = 12.69
+			text = "Sema o bwswkrog nwng milogo bwswkrog nini ajimungrog wng khana? Char lakrog man khana."
+		intervals [5]:
+			xmin = 12.69
+			xmax = 15.76
+			text = "0"
+		intervals [6]:
+			xmin = 15.76
+			xmax = 20.7
+			text = "Obo ki nije ni jaga da na? obo mama ni jaga si, ani jaga kwrwi."
+		intervals [7]:
+			xmin = 20.7
+			xmax = 21.19
+			text = "0"
+		intervals [8]:
+			xmin = 21.19
+			xmax = 30.63
+			text = "Ni mama ni jaga o nwng tamo amo khei lis nawi de khalai tong? Ihi lis naya haino khlai nakha ta, bolong wng tongma ba ang no khwlai na kha ta sawi."
+		intervals [9]:
+			xmin = 30.63
+			xmax = 30.82
+			text = "0"
+		intervals [10]:
+			xmin = 30.82
+			xmax = 42.28
+			text = "Nini oro to tabuk nuk mani kwbangma samung khalainairog bo nugo, hwnkhe khorog bwswkrog nin oro samung? tabuk to tini tongo baro jona, thang bai kha ta, din ni kam ba. O baksa thang kha baksa khe tong kho."
+		intervals [11]:
+			xmin = 42.28
+			xmax = 43.64
+			text = "0"
+		intervals [12]:
+			xmin = 43.64
+			xmax = 47.54
+			text = "Deili no da borok omo hai khe samung khalai tong? Tongo deilino aste noin jona tongo."
+		intervals [13]:
+			xmin = 47.54
+			xmax = 49.9
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 49.9
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.1
+			text = "0"
+		intervals [2]:
+			xmin = 1.1
+			xmax = 3.2
+			text = ""
+		intervals [3]:
+			xmin = 3.2
+			xmax = 5.56
+			text = "0"
+		intervals [4]:
+			xmin = 5.56
+			xmax = 12.69
+			text = ""
+		intervals [5]:
+			xmin = 12.69
+			xmax = 49.9
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 49.9
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.1
+			text = "0"
+		intervals [2]:
+			xmin = 1.1
+			xmax = 3.2
+			text = ""
+		intervals [3]:
+			xmin = 3.2
+			xmax = 5.56
+			text = "0"
+		intervals [4]:
+			xmin = 5.56
+			xmax = 12.69
+			text = ""
+		intervals [5]:
+			xmin = 12.69
+			xmax = 49.9
+			text = "0"
+	item [5]:
+		class = "IntervalTier"
+		name = "sentence-eng-Latn-translation"
+		xmin = 0.0
+		xmax = 49.9
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.1
+			text = "0"
+		intervals [2]:
+			xmin = 1.1
+			xmax = 3.2
+			text = ""
+		intervals [3]:
+			xmin = 3.2
+			xmax = 5.56
+			text = "0"
+		intervals [4]:
+			xmin = 5.56
+			xmax = 12.69
+			text = ""
+		intervals [5]:
+			xmin = 12.69
+			xmax = 49.9
+			text = "0"

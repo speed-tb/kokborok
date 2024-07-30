@@ -1,0 +1,128 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 145.5
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 145.5
+		intervals: size = 6
+		intervals [1]:
+			xmin = 0.0
+			xmax = 39.3
+			text = ""
+		intervals [2]:
+			xmin = 39.3
+			xmax = 39.4
+			text = "0"
+		intervals [3]:
+			xmin = 39.4
+			xmax = 60.9
+			text = ""
+		intervals [4]:
+			xmin = 60.9
+			xmax = 61.0
+			text = "0"
+		intervals [5]:
+			xmin = 61.0
+			xmax = 145.0
+			text = ""
+		intervals [6]:
+			xmin = 145.0
+			xmax = 145.5
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 145.5
+		intervals: size = 6
+		intervals [1]:
+			xmin = 0.0
+			xmax = 39.3
+			text = "Khuri o aswk rw wi twrwk khe nwng rw sinai  ta. Omo ek chamos wngnai o ek chamos no ek minit dui minit o.  Waisa ri kha ble kisa lela di,kisa lela na nangnai, haya khe kwbangma omo ek loge phat phat khei khanwi rikha hwnkai chwrairog onek somoi okhlai rwi mano, kwbai rwimano. Abono ni bagwi twrwk twrwk khanrina nangnai. Hwnke onek somoi omo rima pore bo, cherairog sapos kwba kha, hwnke amoni pore kisa dosminit kisa bwthakna nangnai, bwthagwi, amono teis akwtal khai cheng di, ageni sai tei bo slow khai. Age khe ek minito rwi tongmani, tabuk dui minit, tin minit o rwdi ta twrwk twrwk khai."
+		intervals [2]:
+			xmin = 39.3
+			xmax = 39.4
+			text = "0"
+		intervals [3]:
+			xmin = 39.4
+			xmax = 60.9
+			text = "Abo belai khe nangmani tamo hinkai o raidani sisukya ni bagwi,baksa baksa chwrairog kwno kwbao. Omtwi nwngna soiya taste manjakyarog wngjago. Hwnkai aboto belai nangmani abo chwng tini saiman kha je chwng kisa siya ba korowi tongmani raida tini chwng swrai swrai wngkha."
+		intervals [4]:
+			xmin = 60.9
+			xmax = 61.0
+			text = "0"
+		intervals [5]:
+			xmin = 61.0
+			xmax = 145.0
+			text = "Wngkai tei kaisa hwnke ORSL tei peket je jus man mani abono twi kisa sagra di? Abo khe bwswk chini sakni bagwi kaham ba chini bagwi kaham da hamya? Omo bo koiekta comon question no, chwngno , chwng chini je daily practice o chwng omo malaio, chwngno buma bupha phai swng phaio. Sar je u bajaro je ORSL hinwi man mani ba je u peketni je jusrog amorog rikha hwnke bahai wngo hwnwi? Hwnke amo bumung simi si ORSL, ORS Liquid wngko hinwi. Amo kintu dairiya ni bangwiya. Amo just kaisa misnomark ka hai se, amo je bini bumung bai chwng abono ORS wngna hwnwi khobwi sibo. A bumung amo amtwi a soiya amo dairiya o rwnani bangwiya a je jus tongmani. Abono ta ridi riya kheno chao. Amo rikha hwnkei dairiya teibo haya phano wngwi thang mano. Karon aroni je content tongmani o ORS bai miliya. Aboni contentrog aro sugar bisi aboni osmolarity bisi,hwnke amo tei bo je bohok je deramani amo teibo barei mano. Amoni bangwino ang jotono no kobogo, o je bajarni je peketni je jus ka hai manthok mani aborogno ta nwngbai di. O je powderni je ORS amono soi ORS."
+		intervals [6]:
+			xmin = 145.0
+			xmax = 145.5
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 145.5
+		intervals: size = 6
+		intervals [1]:
+			xmin = 0.0
+			xmax = 39.3
+			text = ""
+		intervals [2]:
+			xmin = 39.3
+			xmax = 39.4
+			text = "0"
+		intervals [3]:
+			xmin = 39.4
+			xmax = 60.9
+			text = ""
+		intervals [4]:
+			xmin = 60.9
+			xmax = 61.0
+			text = "0"
+		intervals [5]:
+			xmin = 61.0
+			xmax = 145.0
+			text = ""
+		intervals [6]:
+			xmin = 145.0
+			xmax = 145.5
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 145.5
+		intervals: size = 6
+		intervals [1]:
+			xmin = 0.0
+			xmax = 39.3
+			text = ""
+		intervals [2]:
+			xmin = 39.3
+			xmax = 39.4
+			text = "0"
+		intervals [3]:
+			xmin = 39.4
+			xmax = 60.9
+			text = ""
+		intervals [4]:
+			xmin = 60.9
+			xmax = 61.0
+			text = "0"
+		intervals [5]:
+			xmin = 61.0
+			xmax = 145.0
+			text = ""
+		intervals [6]:
+			xmin = 145.0
+			xmax = 145.5
+			text = "0"

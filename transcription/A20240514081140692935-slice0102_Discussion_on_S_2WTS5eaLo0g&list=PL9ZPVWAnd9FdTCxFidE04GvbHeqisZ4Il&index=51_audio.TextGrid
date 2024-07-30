@@ -1,0 +1,176 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 39.9
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 39.9
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.84
+			text = "0"
+		intervals [2]:
+			xmin = 0.84
+			xmax = 5.46
+			text = ""
+		intervals [3]:
+			xmin = 5.46
+			xmax = 5.87
+			text = "0"
+		intervals [4]:
+			xmin = 5.87
+			xmax = 18.46
+			text = ""
+		intervals [5]:
+			xmin = 18.46
+			xmax = 18.48
+			text = "0"
+		intervals [6]:
+			xmin = 18.48
+			xmax = 23.97
+			text = ""
+		intervals [7]:
+			xmin = 23.97
+			xmax = 24.43
+			text = "0"
+		intervals [8]:
+			xmin = 24.43
+			xmax = 36.61
+			text = ""
+		intervals [9]:
+			xmin = 36.61
+			xmax = 39.9
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 39.9
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.84
+			text = "0"
+		intervals [2]:
+			xmin = 0.84
+			xmax = 5.46
+			text = "hwnke tabok ba paikha iko kokloprog simi sui tongkha ta iko."
+		intervals [3]:
+			xmin = 5.46
+			xmax = 5.87
+			text = "0"
+		intervals [4]:
+			xmin = 5.87
+			xmax = 18.46
+			text = "belai kheno kaham kok, teibo swikhei,mane swimakhe swi di teibo. swi o swinai,ang teibi swi tongnai, tabuk to ani kambo krwi, retired wngkha busuk masa bono twi chwng, naikani khai tongo."
+		intervals [5]:
+			xmin = 18.46
+			xmax = 18.48
+			text = "0"
+		intervals [6]:
+			xmin = 18.48
+			xmax = 23.97
+			text = "buma-bupha chakri thangbaio, hwnke hai naikani khaiwi amtwi khe tonglai ja ta iko. au abono."
+		intervals [7]:
+			xmin = 23.97
+			xmax = 24.43
+			text = "0"
+		intervals [8]:
+			xmin = 24.43
+			xmax = 36.61
+			text = "swinani sara tei kuno samung si kwrwi kha, au belai khe no hambai  teibo swidi obo hairog. chini kokborok nini bisingtwi kokborok kokthai teibo awai wngthwng chwng obono naio haiya deba,"
+		intervals [9]:
+			xmin = 36.61
+			xmax = 39.9
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 39.9
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.84
+			text = "0"
+		intervals [2]:
+			xmin = 0.84
+			xmax = 5.46
+			text = ""
+		intervals [3]:
+			xmin = 5.46
+			xmax = 5.87
+			text = "0"
+		intervals [4]:
+			xmin = 5.87
+			xmax = 18.46
+			text = ""
+		intervals [5]:
+			xmin = 18.46
+			xmax = 18.48
+			text = "0"
+		intervals [6]:
+			xmin = 18.48
+			xmax = 23.97
+			text = ""
+		intervals [7]:
+			xmin = 23.97
+			xmax = 24.43
+			text = "0"
+		intervals [8]:
+			xmin = 24.43
+			xmax = 36.61
+			text = ""
+		intervals [9]:
+			xmin = 36.61
+			xmax = 39.9
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 39.9
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.84
+			text = "0"
+		intervals [2]:
+			xmin = 0.84
+			xmax = 5.46
+			text = ""
+		intervals [3]:
+			xmin = 5.46
+			xmax = 5.87
+			text = "0"
+		intervals [4]:
+			xmin = 5.87
+			xmax = 18.46
+			text = ""
+		intervals [5]:
+			xmin = 18.46
+			xmax = 18.48
+			text = "0"
+		intervals [6]:
+			xmin = 18.48
+			xmax = 23.97
+			text = ""
+		intervals [7]:
+			xmin = 23.97
+			xmax = 24.43
+			text = "0"
+		intervals [8]:
+			xmin = 24.43
+			xmax = 36.61
+			text = ""
+		intervals [9]:
+			xmin = 36.61
+			xmax = 39.9
+			text = "0"

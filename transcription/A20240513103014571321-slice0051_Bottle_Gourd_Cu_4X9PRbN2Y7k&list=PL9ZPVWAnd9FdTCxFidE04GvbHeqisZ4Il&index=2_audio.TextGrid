@@ -1,0 +1,208 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 33.500022675736965
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 33.500022675736965
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.82
+			text = "0"
+		intervals [2]:
+			xmin = 0.82
+			xmax = 5.7
+			text = ""
+		intervals [3]:
+			xmin = 5.7
+			xmax = 5.76
+			text = "0"
+		intervals [4]:
+			xmin = 5.76
+			xmax = 10.26
+			text = ""
+		intervals [5]:
+			xmin = 10.26
+			xmax = 12.64
+			text = "0"
+		intervals [6]:
+			xmin = 12.64
+			xmax = 18.34
+			text = ""
+		intervals [7]:
+			xmin = 18.34
+			xmax = 19.37
+			text = "0"
+		intervals [8]:
+			xmin = 19.37
+			xmax = 24.54
+			text = ""
+		intervals [9]:
+			xmin = 24.54
+			xmax = 28.27
+			text = "0"
+		intervals [10]:
+			xmin = 28.27
+			xmax = 31.56
+			text = ""
+		intervals [11]:
+			xmin = 31.56
+			xmax = 33.500022675736965
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 33.500022675736965
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.82
+			text = "0"
+		intervals [2]:
+			xmin = 0.82
+			xmax = 5.7
+			text = ""
+		intervals [3]:
+			xmin = 5.7
+			xmax = 5.76
+			text = "0"
+		intervals [4]:
+			xmin = 5.76
+			xmax = 10.26
+			text = ""
+		intervals [5]:
+			xmin = 10.26
+			xmax = 12.64
+			text = "0"
+		intervals [6]:
+			xmin = 12.64
+			xmax = 18.34
+			text = ""
+		intervals [7]:
+			xmin = 18.34
+			xmax = 19.37
+			text = "0"
+		intervals [8]:
+			xmin = 19.37
+			xmax = 24.54
+			text = ""
+		intervals [9]:
+			xmin = 24.54
+			xmax = 28.27
+			text = "0"
+		intervals [10]:
+			xmin = 28.27
+			xmax = 31.56
+			text = ""
+		intervals [11]:
+			xmin = 31.56
+			xmax = 33.500022675736965
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 33.500022675736965
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.82
+			text = "0"
+		intervals [2]:
+			xmin = 0.82
+			xmax = 5.7
+			text = "Bukhuk o se kalaithok kalaithok wngo. Ani bwsakango norok nugwi man khwna milok kolok jat"
+		intervals [3]:
+			xmin = 5.7
+			xmax = 5.76
+			text = "0"
+		intervals [4]:
+			xmin = 5.76
+			xmax = 10.26
+			text = "Aro wo hwnka kei kiting jat, omo torna tongkho mo khei chikon kho."
+		intervals [5]:
+			xmin = 10.26
+			xmax = 12.64
+			text = "0"
+		intervals [6]:
+			xmin = 12.64
+			xmax = 18.34
+			text = "Omoni khe tamo bumungrog morog? O milok hwnka khe obo kuphur ta,jat kuphur jat hwnjak ta."
+		intervals [7]:
+			xmin = 18.34
+			xmax = 19.37
+			text = "0"
+		intervals [8]:
+			xmin = 19.37
+			xmax = 24.54
+			text = "Tei kubunrogni sai thoda thokuk sa? thogo obo ekdum norom, sobse  milokni bisingo obo."
+		intervals [9]:
+			xmin = 24.54
+			xmax = 28.27
+			text = "0"
+		intervals [10]:
+			xmin = 28.27
+			xmax = 31.56
+			text = "Omo hairog phada phalkha? Phalkha kwbangma phalkha."
+		intervals [11]:
+			xmin = 31.56
+			xmax = 33.500022675736965
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 33.500022675736965
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.82
+			text = "0"
+		intervals [2]:
+			xmin = 0.82
+			xmax = 5.7
+			text = ""
+		intervals [3]:
+			xmin = 5.7
+			xmax = 5.76
+			text = "0"
+		intervals [4]:
+			xmin = 5.76
+			xmax = 10.26
+			text = ""
+		intervals [5]:
+			xmin = 10.26
+			xmax = 12.64
+			text = "0"
+		intervals [6]:
+			xmin = 12.64
+			xmax = 18.34
+			text = ""
+		intervals [7]:
+			xmin = 18.34
+			xmax = 19.37
+			text = "0"
+		intervals [8]:
+			xmin = 19.37
+			xmax = 24.54
+			text = ""
+		intervals [9]:
+			xmin = 24.54
+			xmax = 28.27
+			text = "0"
+		intervals [10]:
+			xmin = 28.27
+			xmax = 31.56
+			text = ""
+		intervals [11]:
+			xmin = 31.56
+			xmax = 33.500022675736965
+			text = "0"

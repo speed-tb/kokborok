@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 6.6000226757369616
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 6.6000226757369616
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.31
+			text = "0"
+		intervals [2]:
+			xmin = 1.31
+			xmax = 3.66
+			text = ""
+		intervals [3]:
+			xmin = 3.66
+			xmax = 6.6000226757369616
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 6.6000226757369616
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.31
+			text = "0"
+		intervals [2]:
+			xmin = 1.31
+			xmax = 3.66
+			text = "thangnai ponchis bosorni bisingo"
+		intervals [3]:
+			xmin = 3.66
+			xmax = 6.6000226757369616
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 6.6000226757369616
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.31
+			text = "0"
+		intervals [2]:
+			xmin = 1.31
+			xmax = 3.66
+			text = ""
+		intervals [3]:
+			xmin = 3.66
+			xmax = 6.6000226757369616
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 6.6000226757369616
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.31
+			text = "0"
+		intervals [2]:
+			xmin = 1.31
+			xmax = 3.66
+			text = ""
+		intervals [3]:
+			xmin = 3.66
+			xmax = 6.6000226757369616
+			text = "0"

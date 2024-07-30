@@ -1,0 +1,144 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 197.2
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 197.2
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.2
+			text = "0"
+		intervals [2]:
+			xmin = 0.2
+			xmax = 45.6
+			text = ""
+		intervals [3]:
+			xmin = 45.6
+			xmax = 45.9
+			text = "0"
+		intervals [4]:
+			xmin = 45.9
+			xmax = 166.2
+			text = ""
+		intervals [5]:
+			xmin = 166.2
+			xmax = 167.3
+			text = "0"
+		intervals [6]:
+			xmin = 167.3
+			xmax = 196.7
+			text = ""
+		intervals [7]:
+			xmin = 196.7
+			xmax = 197.2
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 197.2
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.2
+			text = "0"
+		intervals [2]:
+			xmin = 0.2
+			xmax = 45.6
+			text = ""
+		intervals [3]:
+			xmin = 45.6
+			xmax = 45.9
+			text = "0"
+		intervals [4]:
+			xmin = 45.9
+			xmax = 166.2
+			text = ""
+		intervals [5]:
+			xmin = 166.2
+			xmax = 167.3
+			text = "0"
+		intervals [6]:
+			xmin = 167.3
+			xmax = 196.7
+			text = ""
+		intervals [7]:
+			xmin = 196.7
+			xmax = 197.2
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 197.2
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.2
+			text = "0"
+		intervals [2]:
+			xmin = 0.2
+			xmax = 45.6
+			text = "Dairiya kaisa belaini siriyas beram, omo bosor burun burumno pura world wo langkano chwrai ephekted wngo, langka thwibo thangbaio. Hwnkai India o bo, prai every year one lak joratwi cherairog thwi baio. O dairiya bemartwi. Dairiya hinkai kaisa bohokni infectionni beram,o jagao chwng je chini kokbai khio kwbao hino ta. Hinkai kulumbo wngwi mano. Cherai khio kwbao hwnke borogni bwsakni je twirog ongkhorwi thango, bwsakni twi tai som. Amo ongkhorwi thangkha wngke borog weak wngwi thango. Je chwngDehydration hwnwi je sio ta."
+		intervals [3]:
+			xmin = 45.6
+			xmax = 45.9
+			text = "0"
+		intervals [4]:
+			xmin = 45.9
+			xmax = 166.2
+			text = "Wngkhe o dairiya no kasunani lamale tamo tamo tong? Dairiya no kasunani kaisa khe to prevention, abono bahai khei chwng kasoi man. Tei kaisa khe je treatment wngkha wngkhe tamo khainai? Kasonani hwnkei chwng, je preventive mejors je chwng nogo acogwino naimano,amo khei yak sunani. Kaham kai yak suna nango. Chwng kunu mwngsa chama swkang, hwnkai hand washing je practice chwng u covid ni period o bo chwng nuk kha corona time o bahai khe borokrogno awareness je tisalai mani, yak bahai khe sulainani. Omo sudu dairiya simiya, kwbangma infection amo protection khaio. Hwnkai amoni bising dairiya bo kaisa. Hwnke amotwi kotor kotor beram yak sumabaino langkano prevent khai mano. Tasara government kaisa vaccine bo tikhlai kha omo, tabuk  chini vaccine sidule o bo tongo, National Immunization Programo, dairiyani bagwi. Dermas, araimas tei sare tinmaso rijago, kaisa rota vaccine hinwi, rota virus hinwi. Dairiyani bagwito kwbangma germs responsible virus tongo, bacteria tongo. Amoni bisingo kaisa jotoni sai je siriyas wngmani tai je number bisi khaio, dairiya bisi khainai mo rota virus hwnwi kaisa virus tongo. Aboni bagwi kaisa vaccine rwjak kha. Amoni pore je dairiyani je siriyasnes tongmani, langkano komewi phai kha. To phano rota virus simi virus ya, tei kwbangma bw virus tongo je pre bacteria je khaio, wngkhe to phano langka no kome kha ageni sai to. Hwnkai o vaccine time to time rwjak khai, hand washingrog khaika hinkhai chwng onekta dairiya no prevent khai mano. Hwnke specially cherairogno kisa kaham khe naina nango.Karon cherairog onek somoi o suppose thwngwi tong kha, kunu manwi sitra romjak, harogo thwngjak, nokni borokrog chama manwi twi phai kha mungsa wngkhe phatsa khe borog khosai chai sinai. Wngke amorogno borog habit o ma tubunai ta. Cherai phangsini borogno amo kaham khe phwrwngwi tuka hwnkei hand washingrog bai khe khaina nang, okrarogbo khaika hinke cherairog omono naharwi swrwngo. Hwnke u hand washing khaikha hinke langka no beramrogni hoite chwng protection mano, katerwi man nai ta."
+		intervals [5]:
+			xmin = 166.2
+			xmax = 167.3
+			text = "0"
+		intervals [6]:
+			xmin = 167.3
+			xmax = 196.7
+			text = "Kokthaisa bai sana thangkhai chwng sabsutra tongnani.Chwng chana swkang chwraino, chwraiphru ni simi loi khlainani je cnwng kunu manwi  chana hwnkai puila yakno sap khe suna nangnai. Hwnke chamani ulo bo yakno kaham khe suna nangnai. Kaham khe suna nangnai saban bai. Ei abono hwnkai abo kaisa hwnkai tei kaisa hwnke  to twini bagwi. Twi hamya ma nungmani bagwi bo to chini Tripura o, Dholai amchairogo je nukmani amoto twini bwgawi ungo hwnwi khwnamani, abole bahai?"
+		intervals [7]:
+			xmin = 196.7
+			xmax = 197.2
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 197.2
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.2
+			text = "0"
+		intervals [2]:
+			xmin = 0.2
+			xmax = 45.6
+			text = ""
+		intervals [3]:
+			xmin = 45.6
+			xmax = 45.9
+			text = "0"
+		intervals [4]:
+			xmin = 45.9
+			xmax = 166.2
+			text = ""
+		intervals [5]:
+			xmin = 166.2
+			xmax = 167.3
+			text = "0"
+		intervals [6]:
+			xmin = 167.3
+			xmax = 196.7
+			text = ""
+		intervals [7]:
+			xmin = 196.7
+			xmax = 197.2
+			text = "0"

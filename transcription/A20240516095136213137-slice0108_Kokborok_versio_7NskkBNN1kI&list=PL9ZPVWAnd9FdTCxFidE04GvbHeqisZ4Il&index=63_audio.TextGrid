@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 32.9
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 32.9
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.81
+			text = "0"
+		intervals [2]:
+			xmin = 0.81
+			xmax = 5.08
+			text = ""
+		intervals [3]:
+			xmin = 5.08
+			xmax = 5.19
+			text = "0"
+		intervals [4]:
+			xmin = 5.19
+			xmax = 32.24
+			text = ""
+		intervals [5]:
+			xmin = 32.24
+			xmax = 32.9
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 32.9
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.81
+			text = "0"
+		intervals [2]:
+			xmin = 0.81
+			xmax = 5.08
+			text = "Tamo nwng Sordar Petelno twiwi kaisa kok saide man?"
+		intervals [3]:
+			xmin = 5.08
+			xmax = 5.19
+			text = "0"
+		intervals [4]:
+			xmin = 5.19
+			xmax = 32.24
+			text = "Je bini sens op hiumarno phunuknani,kisa aironmen ni mangplino khapang nai di. Je bubagra ojamarog bai kok salai tongmani. Surijaknai bapuni luku choba no twidulwi tongmani. Abobai baksa Ingrejrog baibo choba khwlaiwi tongmani. Tai a joto bisingono bo bini sens op hiumar paisugwi goron tongmani. Bapu, Sordar Petelni bechebo samani,"
+		intervals [5]:
+			xmin = 32.24
+			xmax = 32.9
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 32.9
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.81
+			text = "0"
+		intervals [2]:
+			xmin = 0.81
+			xmax = 5.08
+			text = ""
+		intervals [3]:
+			xmin = 5.08
+			xmax = 5.19
+			text = "0"
+		intervals [4]:
+			xmin = 5.19
+			xmax = 32.24
+			text = ""
+		intervals [5]:
+			xmin = 32.24
+			xmax = 32.9
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 32.9
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.81
+			text = "0"
+		intervals [2]:
+			xmin = 0.81
+			xmax = 5.08
+			text = ""
+		intervals [3]:
+			xmin = 5.08
+			xmax = 5.19
+			text = "0"
+		intervals [4]:
+			xmin = 5.19
+			xmax = 32.24
+			text = ""
+		intervals [5]:
+			xmin = 32.24
+			xmax = 32.9
+			text = "0"

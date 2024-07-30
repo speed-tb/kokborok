@@ -1,0 +1,144 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 41.2
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 41.2
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.34
+			text = "0"
+		intervals [2]:
+			xmin = 1.34
+			xmax = 12.79
+			text = ""
+		intervals [3]:
+			xmin = 12.79
+			xmax = 12.83
+			text = "0"
+		intervals [4]:
+			xmin = 12.83
+			xmax = 24.47
+			text = ""
+		intervals [5]:
+			xmin = 24.47
+			xmax = 24.54
+			text = "0"
+		intervals [6]:
+			xmin = 24.54
+			xmax = 40.62
+			text = ""
+		intervals [7]:
+			xmin = 40.62
+			xmax = 41.2
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 41.2
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.34
+			text = "0"
+		intervals [2]:
+			xmin = 1.34
+			xmax = 12.79
+			text = "Tumung khe jora kwthar hai bahai khe thansani kothoma sajakha. Gonge cha Yamuna chiba, Gudabori, Sorosoti, Narmada, Sindu, Kaberi, Jalsemin, Sindi, kuruk."
+		intervals [3]:
+			xmin = 12.79
+			xmax = 12.83
+			text = "0"
+		intervals [4]:
+			xmin = 12.83
+			xmax = 24.47
+			text = "Abohai kheno Sikrogni tongthar thairogo, Nana Saheb tei Patna Saheb Guruduwar bo tongo.Chini Sikgururog bo baithangni langma tei samung kaham bisingtwi thansani wasukmung no ri kha."
+		intervals [5]:
+			xmin = 24.47
+			xmax = 24.54
+			text = "0"
+		intervals [6]:
+			xmin = 24.54
+			xmax = 40.62
+			text = "Laithangjak bisirogo, Chni haktoro, Doktor Baba Saheb Ambedkor hai chwngsasa sakmang tongmani, bo chwng jotono kerong chapni bisingtwi thansa khlai kha. Chalaisong Yuniti is pawar yunity is streng."
+		intervals [7]:
+			xmin = 40.62
+			xmax = 41.2
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 41.2
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.34
+			text = "0"
+		intervals [2]:
+			xmin = 1.34
+			xmax = 12.79
+			text = ""
+		intervals [3]:
+			xmin = 12.79
+			xmax = 12.83
+			text = "0"
+		intervals [4]:
+			xmin = 12.83
+			xmax = 24.47
+			text = ""
+		intervals [5]:
+			xmin = 24.47
+			xmax = 24.54
+			text = "0"
+		intervals [6]:
+			xmin = 24.54
+			xmax = 40.62
+			text = ""
+		intervals [7]:
+			xmin = 40.62
+			xmax = 41.2
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 41.2
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.34
+			text = "0"
+		intervals [2]:
+			xmin = 1.34
+			xmax = 12.79
+			text = ""
+		intervals [3]:
+			xmin = 12.79
+			xmax = 12.83
+			text = "0"
+		intervals [4]:
+			xmin = 12.83
+			xmax = 24.47
+			text = ""
+		intervals [5]:
+			xmin = 24.47
+			xmax = 24.54
+			text = "0"
+		intervals [6]:
+			xmin = 24.54
+			xmax = 40.62
+			text = ""
+		intervals [7]:
+			xmin = 40.62
+			xmax = 41.2
+			text = "0"

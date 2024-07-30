@@ -1,0 +1,144 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 58.3
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 58.3
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.69
+			text = "0"
+		intervals [2]:
+			xmin = 1.69
+			xmax = 13.35
+			text = ""
+		intervals [3]:
+			xmin = 13.35
+			xmax = 13.4
+			text = "0"
+		intervals [4]:
+			xmin = 13.4
+			xmax = 36.87
+			text = ""
+		intervals [5]:
+			xmin = 36.87
+			xmax = 37.08
+			text = "0"
+		intervals [6]:
+			xmin = 37.08
+			xmax = 57.58
+			text = ""
+		intervals [7]:
+			xmin = 57.58
+			xmax = 58.3
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 58.3
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.69
+			text = "0"
+		intervals [2]:
+			xmin = 1.69
+			xmax = 13.35
+			text = "Aboni kaisa kha sotonjaknai busuk tongo, Tinini kokbwtang. O beremo chwng salbrum koktangsa no juda juda kokbai bahai khe sajak abono swrwngwi mano."
+		intervals [3]:
+			xmin = 13.35
+			xmax = 13.4
+			text = "0"
+		intervals [4]:
+			xmin = 13.4
+			xmax = 36.87
+			text = "Nwng o websaitni bagwi kontribiut bi khwlai di, jetwi khe joto haste tei hukumu wo juda juda tongmung chamung tongmani o songmung oroni beremni mamwlai gwnang ingridents eba khe chamung tai moja bai sungjago.Tamo chwng o lukal phudni risipno lukal ingridents ni mungbai baksa thansa Barot  kahamkuk Barotni websaito seyar da khwlai mano?"
+		intervals [5]:
+			xmin = 36.87
+			xmax = 37.08
+			text = "0"
+		intervals [6]:
+			xmin = 37.08
+			xmax = 57.58
+			text = "Yuniti tai imiyuniti bangsa rinani bagwi, aboni slai kahamkuk kaida tei tamo wngwi man ba, chalaisong o talni thamchisa salmario, ang Kebriya o laibuma riks stechu op yuniti wo wngwi tongma kwbangma  panda wo thangnani sep kaham mana nw norokbo jesa khebo kwrwng di."
+		intervals [7]:
+			xmin = 57.58
+			xmax = 58.3
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 58.3
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.69
+			text = "0"
+		intervals [2]:
+			xmin = 1.69
+			xmax = 13.35
+			text = ""
+		intervals [3]:
+			xmin = 13.35
+			xmax = 13.4
+			text = "0"
+		intervals [4]:
+			xmin = 13.4
+			xmax = 36.87
+			text = ""
+		intervals [5]:
+			xmin = 36.87
+			xmax = 37.08
+			text = "0"
+		intervals [6]:
+			xmin = 37.08
+			xmax = 57.58
+			text = ""
+		intervals [7]:
+			xmin = 57.58
+			xmax = 58.3
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 58.3
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.69
+			text = "0"
+		intervals [2]:
+			xmin = 1.69
+			xmax = 13.35
+			text = ""
+		intervals [3]:
+			xmin = 13.35
+			xmax = 13.4
+			text = "0"
+		intervals [4]:
+			xmin = 13.4
+			xmax = 36.87
+			text = ""
+		intervals [5]:
+			xmin = 36.87
+			xmax = 37.08
+			text = "0"
+		intervals [6]:
+			xmin = 37.08
+			xmax = 57.58
+			text = ""
+		intervals [7]:
+			xmin = 57.58
+			xmax = 58.3
+			text = "0"

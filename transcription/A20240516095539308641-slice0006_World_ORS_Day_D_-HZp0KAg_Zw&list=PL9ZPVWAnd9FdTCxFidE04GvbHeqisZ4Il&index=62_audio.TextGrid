@@ -1,0 +1,160 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 160.7
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 160.7
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0.0
+			xmax = 33.0
+			text = ""
+		intervals [2]:
+			xmin = 33.0
+			xmax = 64.2
+			text = ""
+		intervals [3]:
+			xmin = 64.2
+			xmax = 64.4
+			text = "0"
+		intervals [4]:
+			xmin = 64.4
+			xmax = 92.4
+			text = ""
+		intervals [5]:
+			xmin = 92.4
+			xmax = 92.7
+			text = "0"
+		intervals [6]:
+			xmin = 92.7
+			xmax = 137.7
+			text = ""
+		intervals [7]:
+			xmin = 137.7
+			xmax = 160.6
+			text = ""
+		intervals [8]:
+			xmin = 160.6
+			xmax = 160.7
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 160.7
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0.0
+			xmax = 33.0
+			text = "Jokhon bo paikhena khaio bini khima thang phoro aphro jodi twi  kwbang hwnkai, a jorao no bono ORS ma rwnai. Bo salo charbar thang kha hwnke charbar amo ma rwnai emne to twirog nwngnai je mairog, je chamung chanai amorog  to normal tongnai no. Amoni logi logi ORS bo paikhena thangka wngke no bono ma rwwano, khika wngkeno waisa. Amoni amount tongo okwrarogno hwnkei ba bo jeswk nwngmansak tinso ml, chaiso ml jeswk bo nwngmansak bo nwngna nango ta. Bo khiwi thangwi phaikha hwnkhe no."
+		intervals [2]:
+			xmin = 33.0
+			xmax = 64.2
+			text = "Hwnkai chwraino khe bahai khe rwnai? Chwrairogni bisingo khe chwng borogni age group bai chwng amono devide khaio. Cherai belaino boyos kom hwnkai to absa kwlwi hwnke borogni sai kisa volume kom wngwanw, amount kom wngmai. Same ORS no rwnai? ORS same no okrarogni ORS bai cherairogni ORS omo je WHO je chwng, ORS hwnwi tongo WHO formula ni je ORS om cherai  okrarogni jotoni bagwinw same no amount simi borogni kisa juda wngo ta kwbang kisa khe ma rinai."
+		intervals [3]:
+			xmin = 64.2
+			xmax = 64.4
+			text = "0"
+		intervals [4]:
+			xmin = 64.4
+			xmax = 92.4
+			text = "Amoni bising raida hinke, dui bosorni sai jara cherai dui bosorni kom, borogno hinkai fifty ml to hundred ml khai ma riwo ORS. Borog paikhena tabuk thangkha hwnkeno loge loge rwi ridi. Hwnke amono rimani bo raida tongo. Hinkai je  slowly rikha hinke no cha o. Amono phatsa khei monoknani kok kwrwi rikha hwnke bo kwbai mano, bo chaya, ongkhlai rinai. Twrwk twrwk khai."
+		intervals [5]:
+			xmin = 92.4
+			xmax = 92.7
+			text = "0"
+		intervals [6]:
+			xmin = 92.7
+			xmax = 137.7
+			text = "Amo ek chamos, ek minit dui minit ni bisingo amswk slow. Kaisa tabuk rikha ble twrwk twrwk nwngkha hinke ek minit dui minit nakha. Teisa bwthak gadi teisa twrwk twrwk khai ridi. Hinkai dui bosorni cherai hinkai borogno ponchas ml hoite ekso ml jora. Dui bosor hoite dos bosor cherairogno hinkai ekso ml hote duiso ml jora. Hwnkhai okwra borok je dos bosorni sai okra, borogni khe bo jeswk nwngman sak teising samani ta tinso ml chaiso ml. Je nwng mansak jeswk borog comfortable wngsak. Salo borog waibwrwi thangkha, char bar thangkha hwnkei a thangma loge loge no phai nwng phainai. Borog soibar satbar thangkha wngke aboni logi logino phai nwng phainai."
+		intervals [7]:
+			xmin = 137.7
+			xmax = 160.6
+			text = "Waisa nwng phuru bwswk nwngnai obo? Dui bosorni sai kom wngke ponchas ml. Ponchas ml hwnke twio? ORS swnam nanibo raida tongo.  Amono chwng tini swrwnglai nai, nailai nakhe chawano, bahai khe swnam nani. Karon ORS to joto no tabok sibaio je dairiya wngkhe ORS."
+		intervals [8]:
+			xmin = 160.6
+			xmax = 160.7
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 160.7
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0.0
+			xmax = 33.0
+			text = ""
+		intervals [2]:
+			xmin = 33.0
+			xmax = 64.2
+			text = ""
+		intervals [3]:
+			xmin = 64.2
+			xmax = 64.4
+			text = "0"
+		intervals [4]:
+			xmin = 64.4
+			xmax = 92.4
+			text = ""
+		intervals [5]:
+			xmin = 92.4
+			xmax = 92.7
+			text = "0"
+		intervals [6]:
+			xmin = 92.7
+			xmax = 137.7
+			text = ""
+		intervals [7]:
+			xmin = 137.7
+			xmax = 160.6
+			text = ""
+		intervals [8]:
+			xmin = 160.6
+			xmax = 160.7
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 160.7
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0.0
+			xmax = 33.0
+			text = ""
+		intervals [2]:
+			xmin = 33.0
+			xmax = 64.2
+			text = ""
+		intervals [3]:
+			xmin = 64.2
+			xmax = 64.4
+			text = "0"
+		intervals [4]:
+			xmin = 64.4
+			xmax = 92.4
+			text = ""
+		intervals [5]:
+			xmin = 92.4
+			xmax = 92.7
+			text = "0"
+		intervals [6]:
+			xmin = 92.7
+			xmax = 137.7
+			text = ""
+		intervals [7]:
+			xmin = 137.7
+			xmax = 160.6
+			text = ""
+		intervals [8]:
+			xmin = 160.6
+			xmax = 160.7
+			text = "0"

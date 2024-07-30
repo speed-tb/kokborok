@@ -1,0 +1,176 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 23.5
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 23.5
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.07
+			text = "0"
+		intervals [2]:
+			xmin = 1.07
+			xmax = 6.6
+			text = ""
+		intervals [3]:
+			xmin = 6.6
+			xmax = 6.91
+			text = "0"
+		intervals [4]:
+			xmin = 6.91
+			xmax = 12.29
+			text = ""
+		intervals [5]:
+			xmin = 12.29
+			xmax = 12.49
+			text = "0"
+		intervals [6]:
+			xmin = 12.49
+			xmax = 17.83
+			text = ""
+		intervals [7]:
+			xmin = 17.83
+			xmax = 18.04
+			text = "0"
+		intervals [8]:
+			xmin = 18.04
+			xmax = 22.65
+			text = ""
+		intervals [9]:
+			xmin = 22.65
+			xmax = 23.5
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 23.5
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.07
+			text = "0"
+		intervals [2]:
+			xmin = 1.07
+			xmax = 6.6
+			text = ""
+		intervals [3]:
+			xmin = 6.6
+			xmax = 6.91
+			text = "0"
+		intervals [4]:
+			xmin = 6.91
+			xmax = 12.29
+			text = ""
+		intervals [5]:
+			xmin = 12.29
+			xmax = 12.49
+			text = "0"
+		intervals [6]:
+			xmin = 12.49
+			xmax = 17.83
+			text = ""
+		intervals [7]:
+			xmin = 17.83
+			xmax = 18.04
+			text = "0"
+		intervals [8]:
+			xmin = 18.04
+			xmax = 22.65
+			text = ""
+		intervals [9]:
+			xmin = 22.65
+			xmax = 23.5
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 23.5
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.07
+			text = "0"
+		intervals [2]:
+			xmin = 1.07
+			xmax = 6.6
+			text = "mwkhang batasa bangdurung khaja, mokol mu-wanjwi bukung siruruk, yaswi muiyasok nini."
+		intervals [3]:
+			xmin = 6.6
+			xmax = 6.91
+			text = "0"
+		intervals [4]:
+			xmin = 6.91
+			xmax = 12.29
+			text = "hache palebo chuktalangtalang, kuchuk palebo yakwlwkkwlwk rwksawi takjak nai ba."
+		intervals [5]:
+			xmin = 12.29
+			xmax = 12.49
+			text = "0"
+		intervals [6]:
+			xmin = 12.49
+			xmax = 17.83
+			text = "bachai tongkhelai silai songsatwi achuk tongkhelai japa bera twi naikolwi takjaknai ba."
+		intervals [7]:
+			xmin = 17.83
+			xmax = 18.04
+			text = "0"
+		intervals [8]:
+			xmin = 18.04
+			xmax = 22.65
+			text = "wagol bisingni kukthok de kukthok, romwi nai khe bo naithok, sogwi chawi bo kothok."
+		intervals [9]:
+			xmin = 22.65
+			xmax = 23.5
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 23.5
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.07
+			text = "0"
+		intervals [2]:
+			xmin = 1.07
+			xmax = 6.6
+			text = ""
+		intervals [3]:
+			xmin = 6.6
+			xmax = 6.91
+			text = "0"
+		intervals [4]:
+			xmin = 6.91
+			xmax = 12.29
+			text = ""
+		intervals [5]:
+			xmin = 12.29
+			xmax = 12.49
+			text = "0"
+		intervals [6]:
+			xmin = 12.49
+			xmax = 17.83
+			text = ""
+		intervals [7]:
+			xmin = 17.83
+			xmax = 18.04
+			text = "0"
+		intervals [8]:
+			xmin = 18.04
+			xmax = 22.65
+			text = ""
+		intervals [9]:
+			xmin = 22.65
+			xmax = 23.5
+			text = "0"

@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 8.6
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 8.6
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.36
+			text = "0"
+		intervals [2]:
+			xmin = 1.36
+			xmax = 7.41
+			text = ""
+		intervals [3]:
+			xmin = 7.41
+			xmax = 8.6
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 8.6
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.36
+			text = "0"
+		intervals [2]:
+			xmin = 1.36
+			xmax = 7.41
+			text = "nineteen fifty two-o je gotona wgkha, borok kubangma o jagao thulai kha, borogni mungbo chung saimano,"
+		intervals [3]:
+			xmin = 7.41
+			xmax = 8.6
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 8.6
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.36
+			text = "0"
+		intervals [2]:
+			xmin = 1.36
+			xmax = 7.41
+			text = ""
+		intervals [3]:
+			xmin = 7.41
+			xmax = 8.6
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 8.6
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.36
+			text = "0"
+		intervals [2]:
+			xmin = 1.36
+			xmax = 7.41
+			text = ""
+		intervals [3]:
+			xmin = 7.41
+			xmax = 8.6
+			text = "0"

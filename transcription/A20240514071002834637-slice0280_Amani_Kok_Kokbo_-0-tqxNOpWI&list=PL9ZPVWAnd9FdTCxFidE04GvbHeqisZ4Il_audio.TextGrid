@@ -1,0 +1,176 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 42.1
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 42.1
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.3
+			text = "0"
+		intervals [2]:
+			xmin = 0.3
+			xmax = 11.41
+			text = ""
+		intervals [3]:
+			xmin = 11.41
+			xmax = 12.41
+			text = "0"
+		intervals [4]:
+			xmin = 12.41
+			xmax = 18.13
+			text = ""
+		intervals [5]:
+			xmin = 18.13
+			xmax = 18.32
+			text = "0"
+		intervals [6]:
+			xmin = 18.32
+			xmax = 28.28
+			text = ""
+		intervals [7]:
+			xmin = 28.28
+			xmax = 29.02
+			text = "0"
+		intervals [8]:
+			xmin = 29.02
+			xmax = 41.85
+			text = ""
+		intervals [9]:
+			xmin = 41.85
+			xmax = 42.1
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 42.1
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.3
+			text = "0"
+		intervals [2]:
+			xmin = 0.3
+			xmax = 11.41
+			text = ""
+		intervals [3]:
+			xmin = 11.41
+			xmax = 12.41
+			text = "0"
+		intervals [4]:
+			xmin = 12.41
+			xmax = 18.13
+			text = ""
+		intervals [5]:
+			xmin = 18.13
+			xmax = 18.32
+			text = "0"
+		intervals [6]:
+			xmin = 18.32
+			xmax = 28.28
+			text = ""
+		intervals [7]:
+			xmin = 28.28
+			xmax = 29.02
+			text = "0"
+		intervals [8]:
+			xmin = 29.02
+			xmax = 41.85
+			text = "northeast o tongo mizo habyakho, khasi habyakho,kwbangma tongo, somobeto babe omo astonto omobo chini dabi"
+		intervals [9]:
+			xmin = 41.85
+			xmax = 42.1
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 42.1
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.3
+			text = "0"
+		intervals [2]:
+			xmin = 0.3
+			xmax = 11.41
+			text = "enlisted wngnani bagwinai, recognition bang je what ever it may be, abo bo chini bwskangni choba."
+		intervals [3]:
+			xmin = 11.41
+			xmax = 12.41
+			text = "0"
+		intervals [4]:
+			xmin = 12.41
+			xmax = 18.13
+			text = "eight schedule o hab khe kokborok tamo wngno tamo wngya bwswk mano bwswk maya aboni isab tisab ulo."
+		intervals [5]:
+			xmin = 18.13
+			xmax = 18.32
+			text = "0"
+		intervals [6]:
+			xmin = 18.32
+			xmax = 28.28
+			text = "kintu bharat borso no je linguistic diversity multilingual country hisabe, bharat borso eto gulu bhasha tabok bo eight schedule o habjakya wngwi tongo."
+		intervals [7]:
+			xmin = 28.28
+			xmax = 29.02
+			text = "0"
+		intervals [8]:
+			xmin = 29.02
+			xmax = 41.85
+			text = ""
+		intervals [9]:
+			xmin = 41.85
+			xmax = 42.1
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 42.1
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.3
+			text = "0"
+		intervals [2]:
+			xmin = 0.3
+			xmax = 11.41
+			text = ""
+		intervals [3]:
+			xmin = 11.41
+			xmax = 12.41
+			text = "0"
+		intervals [4]:
+			xmin = 12.41
+			xmax = 18.13
+			text = ""
+		intervals [5]:
+			xmin = 18.13
+			xmax = 18.32
+			text = "0"
+		intervals [6]:
+			xmin = 18.32
+			xmax = 28.28
+			text = ""
+		intervals [7]:
+			xmin = 28.28
+			xmax = 29.02
+			text = "0"
+		intervals [8]:
+			xmin = 29.02
+			xmax = 41.85
+			text = ""
+		intervals [9]:
+			xmin = 41.85
+			xmax = 42.1
+			text = "0"

@@ -1,0 +1,176 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 41.5
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 41.5
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.98
+			text = "0"
+		intervals [2]:
+			xmin = 0.98
+			xmax = 9.61
+			text = ""
+		intervals [3]:
+			xmin = 9.61
+			xmax = 9.65
+			text = "0"
+		intervals [4]:
+			xmin = 9.65
+			xmax = 17.51
+			text = ""
+		intervals [5]:
+			xmin = 17.51
+			xmax = 17.69
+			text = "0"
+		intervals [6]:
+			xmin = 17.69
+			xmax = 26.21
+			text = ""
+		intervals [7]:
+			xmin = 26.21
+			xmax = 30.25
+			text = "0"
+		intervals [8]:
+			xmin = 30.25
+			xmax = 36.15
+			text = ""
+		intervals [9]:
+			xmin = 36.15
+			xmax = 41.5
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 41.5
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.98
+			text = "0"
+		intervals [2]:
+			xmin = 0.98
+			xmax = 9.61
+			text = ""
+		intervals [3]:
+			xmin = 9.61
+			xmax = 9.65
+			text = "0"
+		intervals [4]:
+			xmin = 9.65
+			xmax = 17.51
+			text = ""
+		intervals [5]:
+			xmin = 17.51
+			xmax = 17.69
+			text = "0"
+		intervals [6]:
+			xmin = 17.69
+			xmax = 26.21
+			text = ""
+		intervals [7]:
+			xmin = 26.21
+			xmax = 30.25
+			text = "0"
+		intervals [8]:
+			xmin = 30.25
+			xmax = 36.15
+			text = ""
+		intervals [9]:
+			xmin = 36.15
+			xmax = 41.5
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 41.5
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.98
+			text = "0"
+		intervals [2]:
+			xmin = 0.98
+			xmax = 9.61
+			text = "emne to kirina nangya tangwi hwnwi ba eightyone percent caseno obo mild, hinke kirinase nangya bithi borai kisa chakha hwnkeno obo hamwi thango."
+		intervals [3]:
+			xmin = 9.61
+			xmax = 9.65
+			text = "0"
+		intervals [4]:
+			xmin = 9.65
+			xmax = 17.51
+			text = "au haikhe takhuk nwng saiman khana,tamo tamo khaina nang,hinke swng abono salai phirwano abohai no je omo hai nukjak tongkha hwnke borog,"
+		intervals [5]:
+			xmin = 17.51
+			xmax = 17.69
+			text = "0"
+		intervals [6]:
+			xmin = 17.69
+			xmax = 26.21
+			text = "tai kaisa kokduk yachagwi nailai sinw, hello takhukno lamsogo chini pandao tei nini sinimung kisa ridi."
+		intervals [7]:
+			xmin = 26.21
+			xmax = 30.25
+			text = "0"
+		intervals [8]:
+			xmin = 30.25
+			xmax = 36.15
+			text = "sadi takhuk chwng khwnai tongo, nwng tongmungno tv ni bolium kwbang hwnke kisa komirii nakhe chao belaino."
+		intervals [9]:
+			xmin = 36.15
+			xmax = 41.5
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 41.5
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.98
+			text = "0"
+		intervals [2]:
+			xmin = 0.98
+			xmax = 9.61
+			text = ""
+		intervals [3]:
+			xmin = 9.61
+			xmax = 9.65
+			text = "0"
+		intervals [4]:
+			xmin = 9.65
+			xmax = 17.51
+			text = ""
+		intervals [5]:
+			xmin = 17.51
+			xmax = 17.69
+			text = "0"
+		intervals [6]:
+			xmin = 17.69
+			xmax = 26.21
+			text = ""
+		intervals [7]:
+			xmin = 26.21
+			xmax = 30.25
+			text = "0"
+		intervals [8]:
+			xmin = 30.25
+			xmax = 36.15
+			text = ""
+		intervals [9]:
+			xmin = 36.15
+			xmax = 41.5
+			text = "0"

@@ -1,0 +1,608 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 175.0
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 175.0
+		intervals: size = 36
+		intervals [1]:
+			xmin = 0.0
+			xmax = 3.45
+			text = "0"
+		intervals [2]:
+			xmin = 3.45
+			xmax = 7.75
+			text = ""
+		intervals [3]:
+			xmin = 7.75
+			xmax = 7.85
+			text = "0"
+		intervals [4]:
+			xmin = 7.85
+			xmax = 16.2
+			text = ""
+		intervals [5]:
+			xmin = 16.2
+			xmax = 16.48
+			text = "0"
+		intervals [6]:
+			xmin = 16.48
+			xmax = 26.84
+			text = ""
+		intervals [7]:
+			xmin = 26.84
+			xmax = 26.95
+			text = "0"
+		intervals [8]:
+			xmin = 26.95
+			xmax = 37.95
+			text = ""
+		intervals [9]:
+			xmin = 37.95
+			xmax = 38.05
+			text = "0"
+		intervals [10]:
+			xmin = 38.05
+			xmax = 45.1
+			text = ""
+		intervals [11]:
+			xmin = 45.1
+			xmax = 45.2
+			text = "0"
+		intervals [12]:
+			xmin = 45.2
+			xmax = 49.0
+			text = ""
+		intervals [13]:
+			xmin = 49.0
+			xmax = 49.07
+			text = "0"
+		intervals [14]:
+			xmin = 49.07
+			xmax = 59.11
+			text = ""
+		intervals [15]:
+			xmin = 59.11
+			xmax = 72.15
+			text = ""
+		intervals [16]:
+			xmin = 72.15
+			xmax = 72.5
+			text = "0"
+		intervals [17]:
+			xmin = 72.5
+			xmax = 91.45
+			text = ""
+		intervals [18]:
+			xmin = 91.45
+			xmax = 91.46
+			text = "0"
+		intervals [19]:
+			xmin = 91.46
+			xmax = 101.86
+			text = ""
+		intervals [20]:
+			xmin = 101.86
+			xmax = 102.85
+			text = "0"
+		intervals [21]:
+			xmin = 102.85
+			xmax = 111.7
+			text = ""
+		intervals [22]:
+			xmin = 111.7
+			xmax = 111.8
+			text = "0"
+		intervals [23]:
+			xmin = 111.8
+			xmax = 121.15
+			text = ""
+		intervals [24]:
+			xmin = 121.15
+			xmax = 122.1
+			text = "0"
+		intervals [25]:
+			xmin = 122.1
+			xmax = 130.35
+			text = ""
+		intervals [26]:
+			xmin = 130.35
+			xmax = 131.85
+			text = "0"
+		intervals [27]:
+			xmin = 131.85
+			xmax = 141.8
+			text = ""
+		intervals [28]:
+			xmin = 141.8
+			xmax = 141.85
+			text = "0"
+		intervals [29]:
+			xmin = 141.85
+			xmax = 151.8
+			text = ""
+		intervals [30]:
+			xmin = 151.8
+			xmax = 151.92
+			text = "0"
+		intervals [31]:
+			xmin = 151.92
+			xmax = 157.24
+			text = ""
+		intervals [32]:
+			xmin = 157.24
+			xmax = 157.4
+			text = "0"
+		intervals [33]:
+			xmin = 157.4
+			xmax = 170.5
+			text = ""
+		intervals [34]:
+			xmin = 170.5
+			xmax = 170.77
+			text = "0"
+		intervals [35]:
+			xmin = 170.77
+			xmax = 174.3
+			text = ""
+		intervals [36]:
+			xmin = 174.3
+			xmax = 175.0
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 175.0
+		intervals: size = 36
+		intervals [1]:
+			xmin = 0.0
+			xmax = 3.45
+			text = "0"
+		intervals [2]:
+			xmin = 3.45
+			xmax = 7.75
+			text = ""
+		intervals [3]:
+			xmin = 7.75
+			xmax = 7.85
+			text = "0"
+		intervals [4]:
+			xmin = 7.85
+			xmax = 16.2
+			text = ""
+		intervals [5]:
+			xmin = 16.2
+			xmax = 16.48
+			text = "0"
+		intervals [6]:
+			xmin = 16.48
+			xmax = 26.84
+			text = ""
+		intervals [7]:
+			xmin = 26.84
+			xmax = 26.95
+			text = "0"
+		intervals [8]:
+			xmin = 26.95
+			xmax = 37.95
+			text = ""
+		intervals [9]:
+			xmin = 37.95
+			xmax = 38.05
+			text = "0"
+		intervals [10]:
+			xmin = 38.05
+			xmax = 45.1
+			text = ""
+		intervals [11]:
+			xmin = 45.1
+			xmax = 45.2
+			text = "0"
+		intervals [12]:
+			xmin = 45.2
+			xmax = 49.0
+			text = ""
+		intervals [13]:
+			xmin = 49.0
+			xmax = 49.07
+			text = "0"
+		intervals [14]:
+			xmin = 49.07
+			xmax = 59.11
+			text = ""
+		intervals [15]:
+			xmin = 59.11
+			xmax = 72.15
+			text = ""
+		intervals [16]:
+			xmin = 72.15
+			xmax = 72.5
+			text = "0"
+		intervals [17]:
+			xmin = 72.5
+			xmax = 91.45
+			text = ""
+		intervals [18]:
+			xmin = 91.45
+			xmax = 91.46
+			text = "0"
+		intervals [19]:
+			xmin = 91.46
+			xmax = 101.86
+			text = ""
+		intervals [20]:
+			xmin = 101.86
+			xmax = 102.85
+			text = "0"
+		intervals [21]:
+			xmin = 102.85
+			xmax = 111.7
+			text = ""
+		intervals [22]:
+			xmin = 111.7
+			xmax = 111.8
+			text = "0"
+		intervals [23]:
+			xmin = 111.8
+			xmax = 121.15
+			text = ""
+		intervals [24]:
+			xmin = 121.15
+			xmax = 122.1
+			text = "0"
+		intervals [25]:
+			xmin = 122.1
+			xmax = 130.35
+			text = ""
+		intervals [26]:
+			xmin = 130.35
+			xmax = 131.85
+			text = "0"
+		intervals [27]:
+			xmin = 131.85
+			xmax = 141.8
+			text = ""
+		intervals [28]:
+			xmin = 141.8
+			xmax = 141.85
+			text = "0"
+		intervals [29]:
+			xmin = 141.85
+			xmax = 151.8
+			text = ""
+		intervals [30]:
+			xmin = 151.8
+			xmax = 151.92
+			text = "0"
+		intervals [31]:
+			xmin = 151.92
+			xmax = 157.24
+			text = ""
+		intervals [32]:
+			xmin = 157.24
+			xmax = 157.4
+			text = "0"
+		intervals [33]:
+			xmin = 157.4
+			xmax = 170.5
+			text = ""
+		intervals [34]:
+			xmin = 170.5
+			xmax = 170.77
+			text = "0"
+		intervals [35]:
+			xmin = 170.77
+			xmax = 174.3
+			text = ""
+		intervals [36]:
+			xmin = 174.3
+			xmax = 175.0
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 175.0
+		intervals: size = 36
+		intervals [1]:
+			xmin = 0.0
+			xmax = 3.45
+			text = "0"
+		intervals [2]:
+			xmin = 3.45
+			xmax = 7.75
+			text = "puilano tv bwskang choktongnai jotono no sarik kaham tai khlumka."
+		intervals [3]:
+			xmin = 7.75
+			xmax = 7.85
+			text = "0"
+		intervals [4]:
+			xmin = 7.85
+			xmax = 16.2
+			text = "chwng tini chini o hello sak ham panda o haino hai nongni bwskango chwng phai sok phai phi kha norok bai dadak sidak kok salaina hwnwi nai."
+		intervals [5]:
+			xmin = 16.2
+			xmax = 16.48
+			text = "0"
+		intervals [6]:
+			xmin = 16.48
+			xmax = 26.84
+			text = "tongmungno norok, sak hamno twi nai koksina muchung tongkha hwnke chini tv bwsakango screen o norokni kokduk number rijak tongo ayang boni bisingtwi norok chwng bai kwrwngwi mana nw."
+		intervals [7]:
+			xmin = 26.84
+			xmax = 26.95
+			text = "0"
+		intervals [8]:
+			xmin = 26.95
+			xmax = 37.95
+			text = "haikhe phaidi chwng tini covidnineteen eba koruna bairas abono twi nai chwng cherwi sukhrubwi silaina silaina hwnwi nai chwng khoroksa borom gwnang doctorno chwng ringwi tubu kha."
+		intervals [9]:
+			xmin = 37.95
+			xmax = 38.05
+			text = "0"
+		intervals [10]:
+			xmin = 38.05
+			xmax = 45.1
+			text = "haikhe bono no chwng swkang sinimwng sini nalaigra wanw,haike sarno belaino belaino lamsogo tei khulunka tei sarik kaham."
+		intervals [11]:
+			xmin = 45.1
+			xmax = 45.2
+			text = "0"
+		intervals [12]:
+			xmin = 45.2
+			xmax = 49.0
+			text = "sarik kaham, hwnke sirni mung hwnka hwnke doctor mohendro debbarma."
+		intervals [13]:
+			xmin = 49.0
+			xmax = 49.07
+			text = "0"
+		intervals [14]:
+			xmin = 49.07
+			xmax = 59.11
+			text = "wngkhei sirni thani ang puilano saiman na muchungo tabuk to chwng hayung gwnangwi chwng je cobit nineteen je korona bairas hwnwi chwng je kirilai tonglaio."
+		intervals [15]:
+			xmin = 59.11
+			xmax = 72.15
+			text = "baksa ke ba, hinke jaga jaga kwbangkuk borok thwi tongo, hinkhe puilano swng aigirogo bo omo hai panda swng khailai ka haipano swng tai waisa mono chwng baratete khe o bairas tamo abono no ang nini thani saimana muchungo."
+		intervals [16]:
+			xmin = 72.15
+			xmax = 72.5
+			text = "0"
+		intervals [17]:
+			xmin = 72.5
+			xmax = 91.45
+			text = "corona virus to tabok joratwi to chini lukurog bebakno saiman lai kha, je abo wuhan city chinani kaisa huwe province o aro seafood market simi most probably aroni simino, ko aro animal market tongo, aroni simi no abo sori wo hinwi khana mani."
+		intervals [18]:
+			xmin = 91.45
+			xmax = 91.46
+			text = "0"
+		intervals [19]:
+			xmin = 91.46
+			xmax = 101.86
+			text = "hinke aroni simi aste aste wuhan city to effected no, aroni simi different countries regions bo tabuk  around twohundred and ten countriesrog bo effected wngwi tongo."
+		intervals [20]:
+			xmin = 101.86
+			xmax = 102.85
+			text = "0"
+		intervals [21]:
+			xmin = 102.85
+			xmax = 111.7
+			text = "aboni bisingo tabok united states of america, followed by spain, italy hai khe kwbangma kaham kaham country no effect wngwi tongkha bobai."
+		intervals [22]:
+			xmin = 111.7
+			xmax = 111.8
+			text = "0"
+		intervals [23]:
+			xmin = 111.8
+			xmax = 121.15
+			text = "hinke omo belai infective,kaisa virus datino sori wo,khoroksa borokni simi tei khroksa borokni aro"
+		intervals [24]:
+			xmin = 121.15
+			xmax = 122.1
+			text = "0"
+		intervals [25]:
+			xmin = 122.1
+			xmax = 130.35
+			text = "tei nukjakha je omo bisirbak wngko infection nangmani theka je bemar phunukmani dui theka chotdo din na wo."
+		intervals [26]:
+			xmin = 130.35
+			xmax = 131.85
+			text = "0"
+		intervals [27]:
+			xmin = 131.85
+			xmax = 141.8
+			text = "puila je manjakmani abo chotdo din ni bisingo sijago, mone khai di khoroksa borokni aro contact o phai ka hinke bo dui theka chotdo din nangwi mano."
+		intervals [28]:
+			xmin = 141.8
+			xmax = 141.85
+			text = "0"
+		intervals [29]:
+			xmin = 141.85
+			xmax = 151.8
+			text = "kintu baksa baksa japanese studyrog, koi ekta rare chinese studies bw tongo, aro sakha twentyeight, twentynine days bo aswk jora bo extand wngmano."
+		intervals [30]:
+			xmin = 151.8
+			xmax = 151.92
+			text = "0"
+		intervals [31]:
+			xmin = 151.92
+			xmax = 157.24
+			text = "hinke o je bairus obo sintom bahai abono no puila saiman na muchungo."
+		intervals [32]:
+			xmin = 157.24
+			xmax = 157.4
+			text = "0"
+		intervals [33]:
+			xmin = 157.4
+			xmax = 170.5
+			text = "corona virus to chini normal flu seasonal flu je chwng kongrairog manjak mani abo hai khe bo no chengo,hinkhe sana thangkha hinke lumanai borok eighty seven percent cases borokno lumnai."
+		intervals [34]:
+			xmin = 170.5
+			xmax = 170.77
+			text = "0"
+		intervals [35]:
+			xmin = 170.77
+			xmax = 174.3
+			text = "am pore ekdum sori,"
+		intervals [36]:
+			xmin = 174.3
+			xmax = 175.0
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 175.0
+		intervals: size = 36
+		intervals [1]:
+			xmin = 0.0
+			xmax = 3.45
+			text = "0"
+		intervals [2]:
+			xmin = 3.45
+			xmax = 7.75
+			text = ""
+		intervals [3]:
+			xmin = 7.75
+			xmax = 7.85
+			text = "0"
+		intervals [4]:
+			xmin = 7.85
+			xmax = 16.2
+			text = ""
+		intervals [5]:
+			xmin = 16.2
+			xmax = 16.48
+			text = "0"
+		intervals [6]:
+			xmin = 16.48
+			xmax = 26.84
+			text = ""
+		intervals [7]:
+			xmin = 26.84
+			xmax = 26.95
+			text = "0"
+		intervals [8]:
+			xmin = 26.95
+			xmax = 37.95
+			text = ""
+		intervals [9]:
+			xmin = 37.95
+			xmax = 38.05
+			text = "0"
+		intervals [10]:
+			xmin = 38.05
+			xmax = 45.1
+			text = ""
+		intervals [11]:
+			xmin = 45.1
+			xmax = 45.2
+			text = "0"
+		intervals [12]:
+			xmin = 45.2
+			xmax = 49.0
+			text = ""
+		intervals [13]:
+			xmin = 49.0
+			xmax = 49.07
+			text = "0"
+		intervals [14]:
+			xmin = 49.07
+			xmax = 59.11
+			text = ""
+		intervals [15]:
+			xmin = 59.11
+			xmax = 72.15
+			text = ""
+		intervals [16]:
+			xmin = 72.15
+			xmax = 72.5
+			text = "0"
+		intervals [17]:
+			xmin = 72.5
+			xmax = 91.45
+			text = ""
+		intervals [18]:
+			xmin = 91.45
+			xmax = 91.46
+			text = "0"
+		intervals [19]:
+			xmin = 91.46
+			xmax = 101.86
+			text = ""
+		intervals [20]:
+			xmin = 101.86
+			xmax = 102.85
+			text = "0"
+		intervals [21]:
+			xmin = 102.85
+			xmax = 111.7
+			text = ""
+		intervals [22]:
+			xmin = 111.7
+			xmax = 111.8
+			text = "0"
+		intervals [23]:
+			xmin = 111.8
+			xmax = 121.15
+			text = ""
+		intervals [24]:
+			xmin = 121.15
+			xmax = 122.1
+			text = "0"
+		intervals [25]:
+			xmin = 122.1
+			xmax = 130.35
+			text = ""
+		intervals [26]:
+			xmin = 130.35
+			xmax = 131.85
+			text = "0"
+		intervals [27]:
+			xmin = 131.85
+			xmax = 141.8
+			text = ""
+		intervals [28]:
+			xmin = 141.8
+			xmax = 141.85
+			text = "0"
+		intervals [29]:
+			xmin = 141.85
+			xmax = 151.8
+			text = ""
+		intervals [30]:
+			xmin = 151.8
+			xmax = 151.92
+			text = "0"
+		intervals [31]:
+			xmin = 151.92
+			xmax = 157.24
+			text = ""
+		intervals [32]:
+			xmin = 157.24
+			xmax = 157.4
+			text = "0"
+		intervals [33]:
+			xmin = 157.4
+			xmax = 170.5
+			text = ""
+		intervals [34]:
+			xmin = 170.5
+			xmax = 170.77
+			text = "0"
+		intervals [35]:
+			xmin = 170.77
+			xmax = 174.3
+			text = ""
+		intervals [36]:
+			xmin = 174.3
+			xmax = 175.0
+			text = "0"

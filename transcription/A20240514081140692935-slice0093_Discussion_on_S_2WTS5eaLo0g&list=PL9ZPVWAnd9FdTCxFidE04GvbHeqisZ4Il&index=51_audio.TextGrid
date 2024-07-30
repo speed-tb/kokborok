@@ -1,0 +1,208 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 17.5
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 17.5
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.41
+			text = "0"
+		intervals [2]:
+			xmin = 1.41
+			xmax = 2.21
+			text = ""
+		intervals [3]:
+			xmin = 2.21
+			xmax = 3.16
+			text = "0"
+		intervals [4]:
+			xmin = 3.16
+			xmax = 6.6
+			text = ""
+		intervals [5]:
+			xmin = 6.6
+			xmax = 6.72
+			text = "0"
+		intervals [6]:
+			xmin = 6.72
+			xmax = 8.83
+			text = ""
+		intervals [7]:
+			xmin = 8.83
+			xmax = 8.93
+			text = "0"
+		intervals [8]:
+			xmin = 8.93
+			xmax = 12.63
+			text = ""
+		intervals [9]:
+			xmin = 12.63
+			xmax = 12.7
+			text = "0"
+		intervals [10]:
+			xmin = 12.7
+			xmax = 16.56
+			text = ""
+		intervals [11]:
+			xmin = 16.56
+			xmax = 17.5
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 17.5
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.41
+			text = "0"
+		intervals [2]:
+			xmin = 1.41
+			xmax = 2.21
+			text = "belai khnathok"
+		intervals [3]:
+			xmin = 2.21
+			xmax = 3.16
+			text = "0"
+		intervals [4]:
+			xmin = 3.16
+			xmax = 6.6
+			text = "tai wngko tai obohai teibo khwnathokrog to tong?"
+		intervals [5]:
+			xmin = 6.6
+			xmax = 6.72
+			text = "0"
+		intervals [6]:
+			xmin = 6.72
+			xmax = 8.83
+			text = "tabuk to mokol da nukho swi da man kho?"
+		intervals [7]:
+			xmin = 8.83
+			xmax = 8.93
+			text = "0"
+		intervals [8]:
+			xmin = 8.93
+			xmax = 12.63
+			text = "swiwi man kho chochomarog bai khaiwi, kisa kisa."
+		intervals [9]:
+			xmin = 12.63
+			xmax = 12.7
+			text = "0"
+		intervals [10]:
+			xmin = 12.7
+			xmax = 16.56
+			text = "wngkhai wngko tabukni kwtalrog tai to tong, abo bade?"
+		intervals [11]:
+			xmin = 16.56
+			xmax = 17.5
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 17.5
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.41
+			text = "0"
+		intervals [2]:
+			xmin = 1.41
+			xmax = 2.21
+			text = ""
+		intervals [3]:
+			xmin = 2.21
+			xmax = 3.16
+			text = "0"
+		intervals [4]:
+			xmin = 3.16
+			xmax = 6.6
+			text = ""
+		intervals [5]:
+			xmin = 6.6
+			xmax = 6.72
+			text = "0"
+		intervals [6]:
+			xmin = 6.72
+			xmax = 8.83
+			text = ""
+		intervals [7]:
+			xmin = 8.83
+			xmax = 8.93
+			text = "0"
+		intervals [8]:
+			xmin = 8.93
+			xmax = 12.63
+			text = ""
+		intervals [9]:
+			xmin = 12.63
+			xmax = 12.7
+			text = "0"
+		intervals [10]:
+			xmin = 12.7
+			xmax = 16.56
+			text = ""
+		intervals [11]:
+			xmin = 16.56
+			xmax = 17.5
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 17.5
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.41
+			text = "0"
+		intervals [2]:
+			xmin = 1.41
+			xmax = 2.21
+			text = ""
+		intervals [3]:
+			xmin = 2.21
+			xmax = 3.16
+			text = "0"
+		intervals [4]:
+			xmin = 3.16
+			xmax = 6.6
+			text = ""
+		intervals [5]:
+			xmin = 6.6
+			xmax = 6.72
+			text = "0"
+		intervals [6]:
+			xmin = 6.72
+			xmax = 8.83
+			text = ""
+		intervals [7]:
+			xmin = 8.83
+			xmax = 8.93
+			text = "0"
+		intervals [8]:
+			xmin = 8.93
+			xmax = 12.63
+			text = ""
+		intervals [9]:
+			xmin = 12.63
+			xmax = 12.7
+			text = "0"
+		intervals [10]:
+			xmin = 12.7
+			xmax = 16.56
+			text = ""
+		intervals [11]:
+			xmin = 16.56
+			xmax = 17.5
+			text = "0"

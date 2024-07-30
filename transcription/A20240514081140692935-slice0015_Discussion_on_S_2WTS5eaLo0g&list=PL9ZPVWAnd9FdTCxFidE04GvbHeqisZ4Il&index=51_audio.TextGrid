@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 22.7
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 22.7
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.86
+			text = "0"
+		intervals [2]:
+			xmin = 0.86
+			xmax = 6.19
+			text = ""
+		intervals [3]:
+			xmin = 6.19
+			xmax = 7.69
+			text = "0"
+		intervals [4]:
+			xmin = 7.69
+			xmax = 21.76
+			text = ""
+		intervals [5]:
+			xmin = 21.76
+			xmax = 22.7
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 22.7
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.86
+			text = "0"
+		intervals [2]:
+			xmin = 0.86
+			xmax = 6.19
+			text = ""
+		intervals [3]:
+			xmin = 6.19
+			xmax = 7.69
+			text = "0"
+		intervals [4]:
+			xmin = 7.69
+			xmax = 21.76
+			text = ""
+		intervals [5]:
+			xmin = 21.76
+			xmax = 22.7
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 22.7
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.86
+			text = "0"
+		intervals [2]:
+			xmin = 0.86
+			xmax = 6.19
+			text = "Phatarni bai chini mo onek besko,tongthano onek besko."
+		intervals [3]:
+			xmin = 6.19
+			xmax = 7.69
+			text = "0"
+		intervals [4]:
+			xmin = 7.69
+			xmax = 21.76
+			text = "Chini Tripura hasteni borokrog,chini bosongnino no sasiwanw, chini bukungbararog bai, borog aroni borokrogni tongmung chamung bahai pherlaimung bahai abo kisa sai khwna ridi. Pherlaimung bolte orono chini,"
+		intervals [5]:
+			xmin = 21.76
+			xmax = 22.7
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 22.7
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.86
+			text = "0"
+		intervals [2]:
+			xmin = 0.86
+			xmax = 6.19
+			text = ""
+		intervals [3]:
+			xmin = 6.19
+			xmax = 7.69
+			text = "0"
+		intervals [4]:
+			xmin = 7.69
+			xmax = 21.76
+			text = ""
+		intervals [5]:
+			xmin = 21.76
+			xmax = 22.7
+			text = "0"

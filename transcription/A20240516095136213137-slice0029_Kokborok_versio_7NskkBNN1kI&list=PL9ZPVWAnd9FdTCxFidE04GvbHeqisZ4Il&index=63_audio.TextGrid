@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 26.1
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 26.1
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.62
+			text = "0"
+		intervals [2]:
+			xmin = 0.62
+			xmax = 5.08
+			text = ""
+		intervals [3]:
+			xmin = 5.08
+			xmax = 5.52
+			text = "0"
+		intervals [4]:
+			xmin = 5.52
+			xmax = 24.82
+			text = ""
+		intervals [5]:
+			xmin = 24.82
+			xmax = 26.1
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 26.1
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.62
+			text = "0"
+		intervals [2]:
+			xmin = 0.62
+			xmax = 5.08
+			text = "Hani lukurog joto no norokni logio tongo, norok ni bagwi suriwi tongo."
+		intervals [3]:
+			xmin = 5.08
+			xmax = 5.52
+			text = "0"
+		intervals [4]:
+			xmin = 5.52
+			xmax = 24.82
+			text = "Ang a nukhungrogno bo borogni yakar mungni bagwi khuluma yapharo, jerogni sajwk sajlasong tabuk ario tongo. Jesa borok phano ha bai gwdaljak mungsaya mungsa tongmani bagwi, bini nogo ma tongya.Bini nukhung bai chaljak. Ang borogno hambai yapharo."
+		intervals [5]:
+			xmin = 24.82
+			xmax = 26.1
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 26.1
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.62
+			text = "0"
+		intervals [2]:
+			xmin = 0.62
+			xmax = 5.08
+			text = ""
+		intervals [3]:
+			xmin = 5.08
+			xmax = 5.52
+			text = "0"
+		intervals [4]:
+			xmin = 5.52
+			xmax = 24.82
+			text = ""
+		intervals [5]:
+			xmin = 24.82
+			xmax = 26.1
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 26.1
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.62
+			text = "0"
+		intervals [2]:
+			xmin = 0.62
+			xmax = 5.08
+			text = ""
+		intervals [3]:
+			xmin = 5.08
+			xmax = 5.52
+			text = "0"
+		intervals [4]:
+			xmin = 5.52
+			xmax = 24.82
+			text = ""
+		intervals [5]:
+			xmin = 24.82
+			xmax = 26.1
+			text = "0"

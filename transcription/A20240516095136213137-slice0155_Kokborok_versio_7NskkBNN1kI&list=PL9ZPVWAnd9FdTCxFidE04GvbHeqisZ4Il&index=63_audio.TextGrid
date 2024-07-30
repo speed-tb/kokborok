@@ -1,0 +1,144 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 31.7
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 31.7
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.92
+			text = "0"
+		intervals [2]:
+			xmin = 0.92
+			xmax = 4.81
+			text = ""
+		intervals [3]:
+			xmin = 4.81
+			xmax = 4.87
+			text = "0"
+		intervals [4]:
+			xmin = 4.87
+			xmax = 16.77
+			text = ""
+		intervals [5]:
+			xmin = 16.77
+			xmax = 16.88
+			text = "0"
+		intervals [6]:
+			xmin = 16.88
+			xmax = 30.48
+			text = ""
+		intervals [7]:
+			xmin = 30.48
+			xmax = 31.7
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 31.7
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.92
+			text = "0"
+		intervals [2]:
+			xmin = 0.92
+			xmax = 4.81
+			text = "Pestisait, phangisait, akorog hum delibari manwi tongo."
+		intervals [3]:
+			xmin = 4.81
+			xmax = 4.87
+			text = "0"
+		intervals [4]:
+			xmin = 4.87
+			xmax = 16.77
+			text = "Eba khe hukbar khlainairogno, nok jora borogni nangkuk mani manwirog manwi tongo. O dijital pletphom ni bisingtwi kwtalkuk hukbarni manwirogbo rang bai naharwi tongo."
+		intervals [5]:
+			xmin = 16.77
+			xmax = 16.88
+			text = "0"
+		intervals [6]:
+			xmin = 16.88
+			xmax = 30.48
+			text = "Lokdaun jorao bo a dijital plet phomni bisingtwi hukbar khlainairogno sai sai buchu delibari khlaijak kha. Aro wo siping tai mwikhwtwngni bwchlwi bo tongo."
+		intervals [7]:
+			xmin = 30.48
+			xmax = 31.7
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 31.7
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.92
+			text = "0"
+		intervals [2]:
+			xmin = 0.92
+			xmax = 4.81
+			text = ""
+		intervals [3]:
+			xmin = 4.81
+			xmax = 4.87
+			text = "0"
+		intervals [4]:
+			xmin = 4.87
+			xmax = 16.77
+			text = ""
+		intervals [5]:
+			xmin = 16.77
+			xmax = 16.88
+			text = "0"
+		intervals [6]:
+			xmin = 16.88
+			xmax = 30.48
+			text = ""
+		intervals [7]:
+			xmin = 30.48
+			xmax = 31.7
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 31.7
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.92
+			text = "0"
+		intervals [2]:
+			xmin = 0.92
+			xmax = 4.81
+			text = ""
+		intervals [3]:
+			xmin = 4.81
+			xmax = 4.87
+			text = "0"
+		intervals [4]:
+			xmin = 4.87
+			xmax = 16.77
+			text = ""
+		intervals [5]:
+			xmin = 16.77
+			xmax = 16.88
+			text = "0"
+		intervals [6]:
+			xmin = 16.88
+			xmax = 30.48
+			text = ""
+		intervals [7]:
+			xmin = 30.48
+			xmax = 31.7
+			text = "0"

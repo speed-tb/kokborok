@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 23.0
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 23.0
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.54
+			text = "0"
+		intervals [2]:
+			xmin = 2.54
+			xmax = 10.94
+			text = ""
+		intervals [3]:
+			xmin = 10.94
+			xmax = 10.98
+			text = "0"
+		intervals [4]:
+			xmin = 10.98
+			xmax = 22.15
+			text = ""
+		intervals [5]:
+			xmin = 22.15
+			xmax = 23.0
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 23.0
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.54
+			text = "0"
+		intervals [2]:
+			xmin = 2.54
+			xmax = 10.94
+			text = "Nini je dalbidal tongmani, obo khe? Omo khe kuphur jat. Atsa mo teibo logo? um teibo logo, tei bo naithogo thas, teibo norom, teibo thogo obo."
+		intervals [3]:
+			xmin = 10.94
+			xmax = 10.98
+			text = "0"
+		intervals [4]:
+			xmin = 10.98
+			xmax = 22.15
+			text = "Milok chini sakni bagwi to kaham, belaisi kaham, abo chwng saimano. Jetwi khe phano chwng milokno chai mano. Song borok wngkhe to kwtal kwtal wngkhe to sani kok kwrwi."
+		intervals [5]:
+			xmin = 22.15
+			xmax = 23.0
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 23.0
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.54
+			text = "0"
+		intervals [2]:
+			xmin = 2.54
+			xmax = 10.94
+			text = ""
+		intervals [3]:
+			xmin = 10.94
+			xmax = 10.98
+			text = "0"
+		intervals [4]:
+			xmin = 10.98
+			xmax = 22.15
+			text = ""
+		intervals [5]:
+			xmin = 22.15
+			xmax = 23.0
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 23.0
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.54
+			text = "0"
+		intervals [2]:
+			xmin = 2.54
+			xmax = 10.94
+			text = ""
+		intervals [3]:
+			xmin = 10.94
+			xmax = 10.98
+			text = "0"
+		intervals [4]:
+			xmin = 10.98
+			xmax = 22.15
+			text = ""
+		intervals [5]:
+			xmin = 22.15
+			xmax = 23.0
+			text = "0"

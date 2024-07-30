@@ -1,0 +1,176 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 82.30002267573695
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 82.30002267573695
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.16
+			text = "0"
+		intervals [2]:
+			xmin = 1.16
+			xmax = 48.22
+			text = ""
+		intervals [3]:
+			xmin = 48.22
+			xmax = 48.37
+			text = "0"
+		intervals [4]:
+			xmin = 48.37
+			xmax = 55.16
+			text = ""
+		intervals [5]:
+			xmin = 55.16
+			xmax = 55.37
+			text = "0"
+		intervals [6]:
+			xmin = 55.37
+			xmax = 63.02
+			text = ""
+		intervals [7]:
+			xmin = 63.02
+			xmax = 65.12
+			text = "0"
+		intervals [8]:
+			xmin = 65.12
+			xmax = 75.8
+			text = ""
+		intervals [9]:
+			xmin = 75.8
+			xmax = 82.30002267573695
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 82.30002267573695
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.16
+			text = "0"
+		intervals [2]:
+			xmin = 1.16
+			xmax = 48.22
+			text = "Wng khe oro parmanen kam khalai tongo abo haise na? Oro kam khalai tongo. Aige jephuru nwng oro kam khalaiya, je phru takhuk Orjun bo milokni khetorog khalaiya, a jora o bobo hai samungrog khalai swla? A jora khe samwngni obab da wng? Kunu phro obab wngya haino yaphang sab khwlaio. Ang sama khe obo se, aigi jephru oro samwng kwrwi phuru,bo milok khalaiya,milokni kheto khalaiya kho,a jorarogo wngkheto samwng ni bagwi hachal hachal jagarogo phano hachal hachal ma thango. Gabordirogo ma tangwio, tak bo khwlaiwi, gana parao no tangwi tongkha.Parao no nogo tongwi no tangma kha ta."
+		intervals [3]:
+			xmin = 48.22
+			xmax = 48.37
+			text = "0"
+		intervals [4]:
+			xmin = 48.37
+			xmax = 55.16
+			text = "Norok khorok bwswk obo hai tong oro? chwng oro tongo pas soi jona deili."
+		intervals [5]:
+			xmin = 55.16
+			xmax = 55.37
+			text = "0"
+		intervals [6]:
+			xmin = 55.37
+			xmax = 63.02
+			text = "Abono karwi tei samwng kwbang tangphororogo tei kubunrogno boda narwk? um narwgo nang khe dos jonarog phano khaio"
+		intervals [7]:
+			xmin = 63.02
+			xmax = 65.12
+			text = "0"
+		intervals [8]:
+			xmin = 65.12
+			xmax = 75.8
+			text = "Nwng tamo kha khwlai tei bo koiek jona jodi. omo hai khe hukbarog khalai kha wngkhe, kamini lukurog samung manthok wanw hwnwi da kha khwlai nwng? ih haino kha khwlaio."
+		intervals [9]:
+			xmin = 75.8
+			xmax = 82.30002267573695
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 82.30002267573695
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.16
+			text = "0"
+		intervals [2]:
+			xmin = 1.16
+			xmax = 48.22
+			text = ""
+		intervals [3]:
+			xmin = 48.22
+			xmax = 48.37
+			text = "0"
+		intervals [4]:
+			xmin = 48.37
+			xmax = 55.16
+			text = ""
+		intervals [5]:
+			xmin = 55.16
+			xmax = 55.37
+			text = "0"
+		intervals [6]:
+			xmin = 55.37
+			xmax = 63.02
+			text = ""
+		intervals [7]:
+			xmin = 63.02
+			xmax = 65.12
+			text = "0"
+		intervals [8]:
+			xmin = 65.12
+			xmax = 75.8
+			text = ""
+		intervals [9]:
+			xmin = 75.8
+			xmax = 82.30002267573695
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 82.30002267573695
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.16
+			text = "0"
+		intervals [2]:
+			xmin = 1.16
+			xmax = 48.22
+			text = ""
+		intervals [3]:
+			xmin = 48.22
+			xmax = 48.37
+			text = "0"
+		intervals [4]:
+			xmin = 48.37
+			xmax = 55.16
+			text = ""
+		intervals [5]:
+			xmin = 55.16
+			xmax = 55.37
+			text = "0"
+		intervals [6]:
+			xmin = 55.37
+			xmax = 63.02
+			text = ""
+		intervals [7]:
+			xmin = 63.02
+			xmax = 65.12
+			text = "0"
+		intervals [8]:
+			xmin = 65.12
+			xmax = 75.8
+			text = ""
+		intervals [9]:
+			xmin = 75.8
+			xmax = 82.30002267573695
+			text = "0"

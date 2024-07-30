@@ -1,0 +1,176 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 61.4
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 61.4
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.65
+			text = "0"
+		intervals [2]:
+			xmin = 0.65
+			xmax = 11.96
+			text = ""
+		intervals [3]:
+			xmin = 11.96
+			xmax = 12.98
+			text = "0"
+		intervals [4]:
+			xmin = 12.98
+			xmax = 27.79
+			text = ""
+		intervals [5]:
+			xmin = 27.79
+			xmax = 30.92
+			text = "0"
+		intervals [6]:
+			xmin = 30.92
+			xmax = 45.3
+			text = ""
+		intervals [7]:
+			xmin = 45.3
+			xmax = 47.5
+			text = "0"
+		intervals [8]:
+			xmin = 47.5
+			xmax = 60.97
+			text = ""
+		intervals [9]:
+			xmin = 60.97
+			xmax = 61.4
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 61.4
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.65
+			text = "0"
+		intervals [2]:
+			xmin = 0.65
+			xmax = 11.96
+			text = "Hwnkhe aphuru sida kwbangma rak kheno thaisuk kha, bang bang kha aphru barioba kisa kaima ba, tobo phal kha aphru o ang babei nai kha ta o milok chablasa hwnwi nai wngkhe haini no ang milok kai kha ta."
+		intervals [3]:
+			xmin = 11.96
+			xmax = 12.98
+			text = "0"
+		intervals [4]:
+			xmin = 12.98
+			xmax = 27.79
+			text = "Agi khe nwng bebsa khwlaio, mangso, wahan, takbo phalo, sombar, sukubar wng khe phalo, Telegun bajaro simi ta. Agi wngkhe Gaboedi phalo,kanchan mala phalo, tabuk khe yakar rwbai kha aborogno. Yang samung ni bagwinai yakar ma rw kha ta."
+		intervals [5]:
+			xmin = 27.79
+			xmax = 30.92
+			text = "0"
+		intervals [6]:
+			xmin = 30.92
+			xmax = 45.3
+			text = "A gi to wahan simi se phalo, hwnke tabok to nwng hukbar khalai kha, hukbar khalainai nini bwkha bahai ma tong? Teisa rangrog kwbang kwbang khati man kha,chwrai bwsarog tor baio ani bo, ei aboni bagwinai ma khlai kha ta ang."
+		intervals [7]:
+			xmin = 45.3
+			xmax = 47.5
+			text = "0"
+		intervals [8]:
+			xmin = 47.5
+			xmax = 60.97
+			text = "Tabuk jara kwbangma lukurog mane bekarog tongo, chakri manya rutugwi tongnairog ba borog bo samung manya rutugwi tongo, borogno nwng tamo kok kwcharna muchung? Borog haino berai ta tong bai thwng."
+		intervals [9]:
+			xmin = 60.97
+			xmax = 61.4
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 61.4
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.65
+			text = "0"
+		intervals [2]:
+			xmin = 0.65
+			xmax = 11.96
+			text = ""
+		intervals [3]:
+			xmin = 11.96
+			xmax = 12.98
+			text = "0"
+		intervals [4]:
+			xmin = 12.98
+			xmax = 27.79
+			text = ""
+		intervals [5]:
+			xmin = 27.79
+			xmax = 30.92
+			text = "0"
+		intervals [6]:
+			xmin = 30.92
+			xmax = 45.3
+			text = ""
+		intervals [7]:
+			xmin = 45.3
+			xmax = 47.5
+			text = "0"
+		intervals [8]:
+			xmin = 47.5
+			xmax = 60.97
+			text = ""
+		intervals [9]:
+			xmin = 60.97
+			xmax = 61.4
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 61.4
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.65
+			text = "0"
+		intervals [2]:
+			xmin = 0.65
+			xmax = 11.96
+			text = ""
+		intervals [3]:
+			xmin = 11.96
+			xmax = 12.98
+			text = "0"
+		intervals [4]:
+			xmin = 12.98
+			xmax = 27.79
+			text = ""
+		intervals [5]:
+			xmin = 27.79
+			xmax = 30.92
+			text = "0"
+		intervals [6]:
+			xmin = 30.92
+			xmax = 45.3
+			text = ""
+		intervals [7]:
+			xmin = 45.3
+			xmax = 47.5
+			text = "0"
+		intervals [8]:
+			xmin = 47.5
+			xmax = 60.97
+			text = ""
+		intervals [9]:
+			xmin = 60.97
+			xmax = 61.4
+			text = "0"

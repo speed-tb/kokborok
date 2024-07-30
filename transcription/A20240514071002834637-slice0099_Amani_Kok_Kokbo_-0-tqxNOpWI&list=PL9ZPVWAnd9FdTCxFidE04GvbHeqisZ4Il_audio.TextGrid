@@ -1,0 +1,144 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 44.80002267573696
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 44.80002267573696
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 4.4
+			text = "0"
+		intervals [2]:
+			xmin = 4.4
+			xmax = 13.24
+			text = ""
+		intervals [3]:
+			xmin = 13.24
+			xmax = 13.4
+			text = "0"
+		intervals [4]:
+			xmin = 13.4
+			xmax = 20.2
+			text = ""
+		intervals [5]:
+			xmin = 20.2
+			xmax = 20.29
+			text = "0"
+		intervals [6]:
+			xmin = 20.29
+			xmax = 43.82
+			text = ""
+		intervals [7]:
+			xmin = 43.82
+			xmax = 44.80002267573696
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 44.80002267573696
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 4.4
+			text = "0"
+		intervals [2]:
+			xmin = 4.4
+			xmax = 13.24
+			text = "omoto hano lobwi, hani loge loge kokthaibo sokphaio, oro ani kaisa bekkha tongo"
+		intervals [3]:
+			xmin = 13.24
+			xmax = 13.4
+			text = "0"
+		intervals [4]:
+			xmin = 13.4
+			xmax = 20.2
+			text = "rangchakni maitang mwchangjak, ayungmai,"
+		intervals [5]:
+			xmin = 20.2
+			xmax = 20.29
+			text = "0"
+		intervals [6]:
+			xmin = 20.29
+			xmax = 43.82
+			text = "ei je ayungmai hinmani abono no bare bare sao, ayungmai hinke u boishakmasrog buphango eng..(sound) kaisa yong chikonsa, aboni khorang aswkno khwnathok, sal bai, tal bai, nokha bai, satung bai,buphang waphang bai, jora bai, saltwilwk diporkhek laidoroprogo hinke abo,"
+		intervals [7]:
+			xmin = 43.82
+			xmax = 44.80002267573696
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 44.80002267573696
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 4.4
+			text = "0"
+		intervals [2]:
+			xmin = 4.4
+			xmax = 13.24
+			text = ""
+		intervals [3]:
+			xmin = 13.24
+			xmax = 13.4
+			text = "0"
+		intervals [4]:
+			xmin = 13.4
+			xmax = 20.2
+			text = ""
+		intervals [5]:
+			xmin = 20.2
+			xmax = 20.29
+			text = "0"
+		intervals [6]:
+			xmin = 20.29
+			xmax = 43.82
+			text = ""
+		intervals [7]:
+			xmin = 43.82
+			xmax = 44.80002267573696
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 44.80002267573696
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 4.4
+			text = "0"
+		intervals [2]:
+			xmin = 4.4
+			xmax = 13.24
+			text = ""
+		intervals [3]:
+			xmin = 13.24
+			xmax = 13.4
+			text = "0"
+		intervals [4]:
+			xmin = 13.4
+			xmax = 20.2
+			text = ""
+		intervals [5]:
+			xmin = 20.2
+			xmax = 20.29
+			text = "0"
+		intervals [6]:
+			xmin = 20.29
+			xmax = 43.82
+			text = ""
+		intervals [7]:
+			xmin = 43.82
+			xmax = 44.80002267573696
+			text = "0"

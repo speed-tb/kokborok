@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 22.600022675736962
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 22.600022675736962
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.83
+			text = "0"
+		intervals [2]:
+			xmin = 0.83
+			xmax = 17.03
+			text = ""
+		intervals [3]:
+			xmin = 17.03
+			xmax = 17.11
+			text = "0"
+		intervals [4]:
+			xmin = 17.11
+			xmax = 21.83
+			text = ""
+		intervals [5]:
+			xmin = 21.83
+			xmax = 22.600022675736962
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 22.600022675736962
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.83
+			text = "0"
+		intervals [2]:
+			xmin = 0.83
+			xmax = 17.03
+			text = "wngkhe bo french jodi wngkha hwnkhe bini french kok bo sai tongwanw, ani german ang kok sai tongwanw it will, aro kunu benefits bangya, kwcharo jodi ingreji bobo kisa misa mano angbo kisa mano it is communicable, o jagao thangwi tongo."
+		intervals [3]:
+			xmin = 17.03
+			xmax = 17.11
+			text = "0"
+		intervals [4]:
+			xmin = 17.11
+			xmax = 21.83
+			text = "nambat two wngkha je linguistic technology"
+		intervals [5]:
+			xmin = 21.83
+			xmax = 22.600022675736962
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 22.600022675736962
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.83
+			text = "0"
+		intervals [2]:
+			xmin = 0.83
+			xmax = 17.03
+			text = ""
+		intervals [3]:
+			xmin = 17.03
+			xmax = 17.11
+			text = "0"
+		intervals [4]:
+			xmin = 17.11
+			xmax = 21.83
+			text = ""
+		intervals [5]:
+			xmin = 21.83
+			xmax = 22.600022675736962
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 22.600022675736962
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.83
+			text = "0"
+		intervals [2]:
+			xmin = 0.83
+			xmax = 17.03
+			text = ""
+		intervals [3]:
+			xmin = 17.03
+			xmax = 17.11
+			text = "0"
+		intervals [4]:
+			xmin = 17.11
+			xmax = 21.83
+			text = ""
+		intervals [5]:
+			xmin = 21.83
+			xmax = 22.600022675736962
+			text = "0"

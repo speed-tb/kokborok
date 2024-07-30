@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 9.1
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 9.1
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.15
+			text = "0"
+		intervals [2]:
+			xmin = 1.15
+			xmax = 4.14
+			text = ""
+		intervals [3]:
+			xmin = 4.14
+			xmax = 4.45
+			text = "0"
+		intervals [4]:
+			xmin = 4.45
+			xmax = 7.64
+			text = ""
+		intervals [5]:
+			xmin = 7.64
+			xmax = 9.1
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 9.1
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.15
+			text = "0"
+		intervals [2]:
+			xmin = 1.15
+			xmax = 4.14
+			text = "Kaisa tangkwrwng kaisa tangrwngya, kwthalai samwng tangdi."
+		intervals [3]:
+			xmin = 4.14
+			xmax = 4.45
+			text = "0"
+		intervals [4]:
+			xmin = 4.45
+			xmax = 7.64
+			text = "Tangna rwngyano twidulwi tang di, tang twtwi  phrwng twidi."
+		intervals [5]:
+			xmin = 7.64
+			xmax = 9.1
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 9.1
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.15
+			text = "0"
+		intervals [2]:
+			xmin = 1.15
+			xmax = 4.14
+			text = ""
+		intervals [3]:
+			xmin = 4.14
+			xmax = 4.45
+			text = "0"
+		intervals [4]:
+			xmin = 4.45
+			xmax = 7.64
+			text = ""
+		intervals [5]:
+			xmin = 7.64
+			xmax = 9.1
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 9.1
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.15
+			text = "0"
+		intervals [2]:
+			xmin = 1.15
+			xmax = 4.14
+			text = ""
+		intervals [3]:
+			xmin = 4.14
+			xmax = 4.45
+			text = "0"
+		intervals [4]:
+			xmin = 4.45
+			xmax = 7.64
+			text = ""
+		intervals [5]:
+			xmin = 7.64
+			xmax = 9.1
+			text = "0"

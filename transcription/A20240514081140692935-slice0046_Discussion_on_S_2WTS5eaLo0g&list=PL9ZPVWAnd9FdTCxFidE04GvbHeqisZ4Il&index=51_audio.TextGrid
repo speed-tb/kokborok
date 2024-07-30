@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 15.1
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 15.1
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.89
+			text = "0"
+		intervals [2]:
+			xmin = 1.89
+			xmax = 13.92
+			text = ""
+		intervals [3]:
+			xmin = 13.92
+			xmax = 15.1
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 15.1
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.89
+			text = "0"
+		intervals [2]:
+			xmin = 1.89
+			xmax = 13.92
+			text = "tar mane B.A, MA si paijak borog, aborog suse, do kokba pora kwrwirog hwngkaile saimaya, tam makha chakha phekha. Borog to gyang, borog to gyang gwnang, borog to B.A, M.A, si pas khaijak wngkhe ba paijak nable."
+		intervals [3]:
+			xmin = 13.92
+			xmax = 15.1
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 15.1
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.89
+			text = "0"
+		intervals [2]:
+			xmin = 1.89
+			xmax = 13.92
+			text = ""
+		intervals [3]:
+			xmin = 13.92
+			xmax = 15.1
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 15.1
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.89
+			text = "0"
+		intervals [2]:
+			xmin = 1.89
+			xmax = 13.92
+			text = ""
+		intervals [3]:
+			xmin = 13.92
+			xmax = 15.1
+			text = "0"

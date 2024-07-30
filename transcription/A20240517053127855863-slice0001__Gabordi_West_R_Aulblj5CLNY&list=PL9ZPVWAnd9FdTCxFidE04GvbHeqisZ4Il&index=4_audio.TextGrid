@@ -1,0 +1,122 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 15.1
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Latin-gloss"
+		xmin = 0.0
+		xmax = 15.1
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.3
+			text = "0"
+		intervals [2]:
+			xmin = 1.3
+			xmax = 3.19
+			text = ""
+		intervals [3]:
+			xmin = 3.19
+			xmax = 3.55
+			text = "0"
+		intervals [4]:
+			xmin = 3.55
+			xmax = 8.86
+			text = ""
+		intervals [5]:
+			xmin = 8.86
+			xmax = 15.1
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 15.1
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.3
+			text = "0"
+		intervals [2]:
+			xmin = 1.3
+			xmax = 3.19
+			text = "Waitham waibrwiswk phaljak kha."
+		intervals [3]:
+			xmin = 3.19
+			xmax = 3.55
+			text = "0"
+		intervals [4]:
+			xmin = 3.55
+			xmax = 8.86
+			text = "Norok kuno sarkarogle bithi birairogle tw ma? Maya ani rang baino khlaio ta."
+		intervals [5]:
+			xmin = 8.86
+			xmax = 10.08
+			text = "0"
+		intervals [6]:
+			xmin = 10.08
+			xmax = 12.22
+			text = "Hwn khe tabok nwng lukurogno tamo sana muchuk?"
+		intervals [7]:
+			xmin = 12.22
+			xmax = 15.1
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 15.1
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.3
+			text = "0"
+		intervals [2]:
+			xmin = 1.3
+			xmax = 3.19
+			text = ""
+		intervals [3]:
+			xmin = 3.19
+			xmax = 15.1
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 15.1
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.3
+			text = "0"
+		intervals [2]:
+			xmin = 1.3
+			xmax = 3.19
+			text = ""
+		intervals [3]:
+			xmin = 3.19
+			xmax = 15.1
+			text = "0"
+	item [5]:
+		class = "IntervalTier"
+		name = "sentence-eng-Latn-translation"
+		xmin = 0.0
+		xmax = 15.1
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.3
+			text = "0"
+		intervals [2]:
+			xmin = 1.3
+			xmax = 3.19
+			text = ""
+		intervals [3]:
+			xmin = 3.19
+			xmax = 15.1
+			text = "0"

@@ -1,0 +1,176 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 24.370997732426304
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 24.370997732426304
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.57
+			text = "0"
+		intervals [2]:
+			xmin = 2.57
+			xmax = 6.67
+			text = ""
+		intervals [3]:
+			xmin = 6.67
+			xmax = 6.82
+			text = "0"
+		intervals [4]:
+			xmin = 6.82
+			xmax = 10.75
+			text = ""
+		intervals [5]:
+			xmin = 10.75
+			xmax = 10.95
+			text = "0"
+		intervals [6]:
+			xmin = 10.95
+			xmax = 12.53
+			text = ""
+		intervals [7]:
+			xmin = 12.53
+			xmax = 12.59
+			text = "0"
+		intervals [8]:
+			xmin = 12.59
+			xmax = 18.34
+			text = ""
+		intervals [9]:
+			xmin = 18.34
+			xmax = 24.370997732426304
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 24.370997732426304
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.57
+			text = "0"
+		intervals [2]:
+			xmin = 2.57
+			xmax = 6.67
+			text = "phekma jagani norok nokhorwi phamanai, aswkno norokni thani ang kobogo"
+		intervals [3]:
+			xmin = 6.67
+			xmax = 6.82
+			text = "0"
+		intervals [4]:
+			xmin = 6.82
+			xmax = 10.75
+			text = "norok kaham, tong kahamo kiphilwi phai di, norokni thani obono sano ang"
+		intervals [5]:
+			xmin = 10.75
+			xmax = 10.95
+			text = "0"
+		intervals [6]:
+			xmin = 10.95
+			xmax = 12.53
+			text = "chwngbo nonorkni bagwi suri nai."
+		intervals [7]:
+			xmin = 12.53
+			xmax = 12.59
+			text = "0"
+		intervals [8]:
+			xmin = 12.59
+			xmax = 18.34
+			text = "tai nai tongnai khajni takhuk-bukhuksongno haino hai jotono no hambai, chini o program nai tongma bagwi,khlum kha."
+		intervals [9]:
+			xmin = 18.34
+			xmax = 24.370997732426304
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 24.370997732426304
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.57
+			text = "0"
+		intervals [2]:
+			xmin = 2.57
+			xmax = 6.67
+			text = ""
+		intervals [3]:
+			xmin = 6.67
+			xmax = 6.82
+			text = "0"
+		intervals [4]:
+			xmin = 6.82
+			xmax = 10.75
+			text = ""
+		intervals [5]:
+			xmin = 10.75
+			xmax = 10.95
+			text = "0"
+		intervals [6]:
+			xmin = 10.95
+			xmax = 12.53
+			text = ""
+		intervals [7]:
+			xmin = 12.53
+			xmax = 12.59
+			text = "0"
+		intervals [8]:
+			xmin = 12.59
+			xmax = 18.34
+			text = ""
+		intervals [9]:
+			xmin = 18.34
+			xmax = 24.370997732426304
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 24.370997732426304
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.57
+			text = "0"
+		intervals [2]:
+			xmin = 2.57
+			xmax = 6.67
+			text = ""
+		intervals [3]:
+			xmin = 6.67
+			xmax = 6.82
+			text = "0"
+		intervals [4]:
+			xmin = 6.82
+			xmax = 10.75
+			text = ""
+		intervals [5]:
+			xmin = 10.75
+			xmax = 10.95
+			text = "0"
+		intervals [6]:
+			xmin = 10.95
+			xmax = 12.53
+			text = ""
+		intervals [7]:
+			xmin = 12.53
+			xmax = 12.59
+			text = "0"
+		intervals [8]:
+			xmin = 12.59
+			xmax = 18.34
+			text = ""
+		intervals [9]:
+			xmin = 18.34
+			xmax = 24.370997732426304
+			text = "0"

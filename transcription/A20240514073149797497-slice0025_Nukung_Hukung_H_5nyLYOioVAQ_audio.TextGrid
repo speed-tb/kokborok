@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 52.8
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 52.8
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 30.01
+			text = "0"
+		intervals [2]:
+			xmin = 30.01
+			xmax = 51.13
+			text = ""
+		intervals [3]:
+			xmin = 51.13
+			xmax = 52.8
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 52.8
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 30.01
+			text = "0"
+		intervals [2]:
+			xmin = 30.01
+			xmax = 51.13
+			text = "Tei khoroksa bukhukbai koksalai nai. Bukhuk nini mung tamo wngkha? Ani mungkhe Monisori Jamatia. Nwng omo tagwi tongmani obo tamo rignai da na tamo? omo khe muglirogni omo sari ta. O sari haipahno muglirogni bwthai rijakna."
+		intervals [3]:
+			xmin = 51.13
+			xmax = 52.8
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 52.8
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 30.01
+			text = "0"
+		intervals [2]:
+			xmin = 30.01
+			xmax = 51.13
+			text = ""
+		intervals [3]:
+			xmin = 51.13
+			xmax = 52.8
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 52.8
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 30.01
+			text = "0"
+		intervals [2]:
+			xmin = 30.01
+			xmax = 51.13
+			text = ""
+		intervals [3]:
+			xmin = 51.13
+			xmax = 52.8
+			text = "0"

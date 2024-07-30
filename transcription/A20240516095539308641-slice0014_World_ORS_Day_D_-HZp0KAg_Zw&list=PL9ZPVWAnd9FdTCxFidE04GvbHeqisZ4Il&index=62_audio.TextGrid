@@ -1,0 +1,64 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 48.30002267573696
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 48.30002267573696
+		intervals: size = 2
+		intervals [1]:
+			xmin = 0.0
+			xmax = 43.6
+			text = ""
+		intervals [2]:
+			xmin = 43.6
+			xmax = 48.30002267573696
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 48.30002267573696
+		intervals: size = 2
+		intervals [1]:
+			xmin = 0.0
+			xmax = 43.6
+			text = "Hor dosta egarota wngkha, hwnkai buma tamo khaimano  ta, hor dosta egarota , kami amchaio, kuno tabuk doctor-rogbo kwrwi, kuno kebono sanabo kwrwi. Nogo sapos ORS tongo, obo je babe ang tasing samani ORS no bo, ORS peket kwrwi khe bahai khe swnamwi man. Amono bwswk amount o rwnani. Hwnke ek bosoroni chwrai hwnkai saimano je chwng ponchas ml ni simi ekso ml jora rwna nangnai. Chwrai tabuk bini khi twitwi hai khe khika bo patla paikhena khaika. Tabok bahai khe chwng wngko khainai? hwnke o cup kaisa hinkai ekso ml ni soman. Hwnkei chwng ekso ml ORS o je swnamjak ORS no chwng omo nai mano ta."
+		intervals [2]:
+			xmin = 43.6
+			xmax = 48.30002267573696
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 48.30002267573696
+		intervals: size = 2
+		intervals [1]:
+			xmin = 0.0
+			xmax = 43.6
+			text = ""
+		intervals [2]:
+			xmin = 43.6
+			xmax = 48.30002267573696
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 48.30002267573696
+		intervals: size = 2
+		intervals [1]:
+			xmin = 0.0
+			xmax = 43.6
+			text = ""
+		intervals [2]:
+			xmin = 43.6
+			xmax = 48.30002267573696
+			text = "0"

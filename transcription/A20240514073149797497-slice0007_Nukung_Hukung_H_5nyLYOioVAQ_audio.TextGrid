@@ -1,0 +1,256 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 140.1
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 140.1
+		intervals: size = 14
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.1
+			text = "0"
+		intervals [2]:
+			xmin = 0.1
+			xmax = 14.8
+			text = ""
+		intervals [3]:
+			xmin = 14.8
+			xmax = 15.1
+			text = "0"
+		intervals [4]:
+			xmin = 15.1
+			xmax = 28.2
+			text = ""
+		intervals [5]:
+			xmin = 28.2
+			xmax = 29.3
+			text = "0"
+		intervals [6]:
+			xmin = 29.3
+			xmax = 37.0
+			text = ""
+		intervals [7]:
+			xmin = 37.0
+			xmax = 64.0
+			text = ""
+		intervals [8]:
+			xmin = 64.0
+			xmax = 65.1
+			text = "0"
+		intervals [9]:
+			xmin = 65.1
+			xmax = 97.6
+			text = ""
+		intervals [10]:
+			xmin = 97.6
+			xmax = 97.9
+			text = "0"
+		intervals [11]:
+			xmin = 97.9
+			xmax = 114.5
+			text = ""
+		intervals [12]:
+			xmin = 114.5
+			xmax = 114.7
+			text = "0"
+		intervals [13]:
+			xmin = 114.7
+			xmax = 134.1
+			text = ""
+		intervals [14]:
+			xmin = 134.1
+			xmax = 140.1
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 140.1
+		intervals: size = 14
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.1
+			text = "0"
+		intervals [2]:
+			xmin = 0.1
+			xmax = 14.8
+			text = ""
+		intervals [3]:
+			xmin = 14.8
+			xmax = 15.1
+			text = "0"
+		intervals [4]:
+			xmin = 15.1
+			xmax = 28.2
+			text = ""
+		intervals [5]:
+			xmin = 28.2
+			xmax = 29.3
+			text = "0"
+		intervals [6]:
+			xmin = 29.3
+			xmax = 37.0
+			text = ""
+		intervals [7]:
+			xmin = 37.0
+			xmax = 64.0
+			text = ""
+		intervals [8]:
+			xmin = 64.0
+			xmax = 65.1
+			text = "0"
+		intervals [9]:
+			xmin = 65.1
+			xmax = 97.6
+			text = ""
+		intervals [10]:
+			xmin = 97.6
+			xmax = 97.9
+			text = "0"
+		intervals [11]:
+			xmin = 97.9
+			xmax = 114.5
+			text = ""
+		intervals [12]:
+			xmin = 114.5
+			xmax = 114.7
+			text = "0"
+		intervals [13]:
+			xmin = 114.7
+			xmax = 134.1
+			text = ""
+		intervals [14]:
+			xmin = 134.1
+			xmax = 140.1
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 140.1
+		intervals: size = 14
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.1
+			text = "0"
+		intervals [2]:
+			xmin = 0.1
+			xmax = 14.8
+			text = "chengmale  bahai khe chengkha obo kisa khwna gana nini thani?   chengmani hinkhe jaika projekrog cheng ro wo. Jaika projek ni hoite, chung cheng rojakha ta. Borog bai treiningrog rojak ha ta soi mas. Boro treining ma rwkha norok? Orono ma rwo."
+		intervals [3]:
+			xmin = 14.8
+			xmax = 15.1
+			text = "0"
+		intervals [4]:
+			xmin = 15.1
+			xmax = 28.2
+			text = "Borogno nok tangwi rwkha? wm. Wngkhe aboni ulo norokno yakai roha, tat klang thang kha ta. Haikhe norok tabuk o samung khlai tong mani norok tabuk khorok bwswk tong? Panj jon."
+		intervals [5]:
+			xmin = 28.2
+			xmax = 29.3
+			text = "0"
+		intervals [6]:
+			xmin = 29.3
+			xmax = 37.0
+			text = "Panj jon khe norok choyawio no taklai tongo? mane norokni o dol choya ta? wm. Kurukya ta? Kurukya."
+		intervals [7]:
+			xmin = 37.0
+			xmax = 64.0
+			text = "Nwng tamo chong? je obo o samung je norok khlailai tongmani, abo rang ajena bagwi simi da, eba chini hukumuno narwgwi ton nani, je bwrwirog ageni simi chini Tiprajwkrog tagwi lubwi phaimani, o samwngno choya wi tong thani, norok je o tat bai tak mani obo bo kaisa chini hukumuno narwkma kwlaio, omo hai hwnwi de wansuk? wm bohai khe wasogwi chwngbo taulai ta."
+		intervals [8]:
+			xmin = 64.0
+			xmax = 65.1
+			text = "0"
+		intervals [9]:
+			xmin = 65.1
+			xmax = 97.6
+			text = "Chini kalchar chini kamung chumung no khibiya hi chwngbo yakarliya ta. Hwnkai norok risale tade tak? Risa bo takw. Wngkhai risa kwbang ordarog maya de? Maya. Maya na. Wngkhai ang khachongo je norok oro taklai tongo borok saimaya wngna norok taklai tongmani, abo da wngna na norok jora rwi maya oboni bagwi da norok ordar maya wng tongkhwna? Chwng to jora ro ma w bui rophai laha wngkhe ta, haipha bwisi roya ta."
+		intervals [10]:
+			xmin = 97.6
+			xmax = 97.9
+			text = "0"
+		intervals [11]:
+			xmin = 97.9
+			xmax = 114.5
+			text = "Bui bo saimaya na ta. Bwi si w, baksa sinai bango haiphano, phunrog khaiwi risa pundro khan, bis khan bohai khe takmanai derog hi chwngno swngo ta. Hwnkhe swngkhe bw dam bwswk hwnkhe chwng aswk aswk hi sakhe morokjago, hinkhe borog yakai thango ta."
+		intervals [12]:
+			xmin = 114.5
+			xmax = 114.7
+			text = "0"
+		intervals [13]:
+			xmin = 114.7
+			xmax = 134.1
+			text = "Belai khe hambai bukhuk Juti, nwngbai kok salai kha, kwbangma kokno saiman kha. Norok omo hai khei aswk kebengmungrog ni bisingo bo tagwi tongmani, chini hukumu ni bagwi samung khlaima kwlaio, chini dophani bagwi bo obo samung khlaima kwlaio. Hambai belai khe."
+		intervals [14]:
+			xmin = 134.1
+			xmax = 140.1
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 140.1
+		intervals: size = 14
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.1
+			text = "0"
+		intervals [2]:
+			xmin = 0.1
+			xmax = 14.8
+			text = ""
+		intervals [3]:
+			xmin = 14.8
+			xmax = 15.1
+			text = "0"
+		intervals [4]:
+			xmin = 15.1
+			xmax = 28.2
+			text = ""
+		intervals [5]:
+			xmin = 28.2
+			xmax = 29.3
+			text = "0"
+		intervals [6]:
+			xmin = 29.3
+			xmax = 37.0
+			text = ""
+		intervals [7]:
+			xmin = 37.0
+			xmax = 64.0
+			text = ""
+		intervals [8]:
+			xmin = 64.0
+			xmax = 65.1
+			text = "0"
+		intervals [9]:
+			xmin = 65.1
+			xmax = 97.6
+			text = ""
+		intervals [10]:
+			xmin = 97.6
+			xmax = 97.9
+			text = "0"
+		intervals [11]:
+			xmin = 97.9
+			xmax = 114.5
+			text = ""
+		intervals [12]:
+			xmin = 114.5
+			xmax = 114.7
+			text = "0"
+		intervals [13]:
+			xmin = 114.7
+			xmax = 134.1
+			text = ""
+		intervals [14]:
+			xmin = 134.1
+			xmax = 140.1
+			text = "0"

@@ -1,0 +1,176 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 42.0
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 42.0
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.92
+			text = "0"
+		intervals [2]:
+			xmin = 0.92
+			xmax = 12.53
+			text = ""
+		intervals [3]:
+			xmin = 12.53
+			xmax = 12.71
+			text = "0"
+		intervals [4]:
+			xmin = 12.71
+			xmax = 19.23
+			text = ""
+		intervals [5]:
+			xmin = 19.23
+			xmax = 19.53
+			text = "0"
+		intervals [6]:
+			xmin = 19.53
+			xmax = 38.06
+			text = ""
+		intervals [7]:
+			xmin = 38.06
+			xmax = 38.72
+			text = "0"
+		intervals [8]:
+			xmin = 38.72
+			xmax = 40.34
+			text = ""
+		intervals [9]:
+			xmin = 40.34
+			xmax = 42.0
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 42.0
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.92
+			text = "0"
+		intervals [2]:
+			xmin = 0.92
+			xmax = 12.53
+			text = "Bwkha kotorma khai ang sao,hamnai ma hamnai,Twrwk twrwk nwngya tongnairogbo borogbo wansokna nangnai je omo no nwngkhe omotwi wngo, borogto nukjak, ei omo ta."
+		intervals [3]:
+			xmin = 12.53
+			xmax = 12.71
+			text = "0"
+		intervals [4]:
+			xmin = 12.71
+			xmax = 19.23
+			text = "Je manwi chakhe chini bagwi hamya,chwng obono chaya tongmanino chao, haya diba."
+		intervals [5]:
+			xmin = 19.23
+			xmax = 19.53
+			text = "0"
+		intervals [6]:
+			xmin = 19.53
+			xmax = 38.06
+			text = "Abono wngkai belai kheno wanamasingsa, chini o sikla chalairogno bahai khe, o jwngjal ni yokrinani, abono twiwi no jotono ma chaitoklainai,tamo okwra tamo cherai,haya diba. Hwnke bises khlai u clubni parani clubrog NGOs kwbangma tongo,aborogno bo chwng ma salaithai haya de na."
+		intervals [7]:
+			xmin = 38.06
+			xmax = 38.72
+			text = "0"
+		intervals [8]:
+			xmin = 38.72
+			xmax = 40.34
+			text = "Abo sara chwng tai,"
+		intervals [9]:
+			xmin = 40.34
+			xmax = 42.0
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 42.0
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.92
+			text = "0"
+		intervals [2]:
+			xmin = 0.92
+			xmax = 12.53
+			text = ""
+		intervals [3]:
+			xmin = 12.53
+			xmax = 12.71
+			text = "0"
+		intervals [4]:
+			xmin = 12.71
+			xmax = 19.23
+			text = ""
+		intervals [5]:
+			xmin = 19.23
+			xmax = 19.53
+			text = "0"
+		intervals [6]:
+			xmin = 19.53
+			xmax = 38.06
+			text = ""
+		intervals [7]:
+			xmin = 38.06
+			xmax = 38.72
+			text = "0"
+		intervals [8]:
+			xmin = 38.72
+			xmax = 40.34
+			text = ""
+		intervals [9]:
+			xmin = 40.34
+			xmax = 42.0
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 42.0
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.92
+			text = "0"
+		intervals [2]:
+			xmin = 0.92
+			xmax = 12.53
+			text = ""
+		intervals [3]:
+			xmin = 12.53
+			xmax = 12.71
+			text = "0"
+		intervals [4]:
+			xmin = 12.71
+			xmax = 19.23
+			text = ""
+		intervals [5]:
+			xmin = 19.23
+			xmax = 19.53
+			text = "0"
+		intervals [6]:
+			xmin = 19.53
+			xmax = 38.06
+			text = ""
+		intervals [7]:
+			xmin = 38.06
+			xmax = 38.72
+			text = "0"
+		intervals [8]:
+			xmin = 38.72
+			xmax = 40.34
+			text = ""
+		intervals [9]:
+			xmin = 40.34
+			xmax = 42.0
+			text = "0"

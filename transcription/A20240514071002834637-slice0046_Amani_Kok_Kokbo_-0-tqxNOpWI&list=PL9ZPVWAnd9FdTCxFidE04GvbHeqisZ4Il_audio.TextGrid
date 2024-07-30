@@ -1,0 +1,144 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 34.8
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 34.8
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 4.91
+			text = "0"
+		intervals [2]:
+			xmin = 4.91
+			xmax = 17.28
+			text = ""
+		intervals [3]:
+			xmin = 17.28
+			xmax = 17.37
+			text = "0"
+		intervals [4]:
+			xmin = 17.37
+			xmax = 24.39
+			text = ""
+		intervals [5]:
+			xmin = 24.39
+			xmax = 24.45
+			text = "0"
+		intervals [6]:
+			xmin = 24.45
+			xmax = 33.18
+			text = ""
+		intervals [7]:
+			xmin = 33.18
+			xmax = 34.8
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 34.8
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 4.91
+			text = "0"
+		intervals [2]:
+			xmin = 4.91
+			xmax = 17.28
+			text = "ani muito tongo sahityar asoro hwnkakeno, bangla kobita, sora, aborog mukosto ma khlaio, wngkhei golporog porewi ma khnarwo."
+		intervals [3]:
+			xmin = 17.28
+			xmax = 17.37
+			text = "0"
+		intervals [4]:
+			xmin = 17.37
+			xmax = 24.39
+			text = "bwrwirogni bisingo jara khorang kisa kaham, chwlarogni bisingo phano khorang kaham borog khe rwchabwi ma khwna rwo."
+		intervals [5]:
+			xmin = 24.39
+			xmax = 24.45
+			text = "0"
+		intervals [6]:
+			xmin = 24.45
+			xmax = 33.18
+			text = "phiyaba aro porejakmani kothoma phano wngthwng, koklop phano wngthwng, rwchabjaknai rwchabmung phano wngthwng jotono bangla bai."
+		intervals [7]:
+			xmin = 33.18
+			xmax = 34.8
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 34.8
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 4.91
+			text = "0"
+		intervals [2]:
+			xmin = 4.91
+			xmax = 17.28
+			text = ""
+		intervals [3]:
+			xmin = 17.28
+			xmax = 17.37
+			text = "0"
+		intervals [4]:
+			xmin = 17.37
+			xmax = 24.39
+			text = ""
+		intervals [5]:
+			xmin = 24.39
+			xmax = 24.45
+			text = "0"
+		intervals [6]:
+			xmin = 24.45
+			xmax = 33.18
+			text = ""
+		intervals [7]:
+			xmin = 33.18
+			xmax = 34.8
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 34.8
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 4.91
+			text = "0"
+		intervals [2]:
+			xmin = 4.91
+			xmax = 17.28
+			text = ""
+		intervals [3]:
+			xmin = 17.28
+			xmax = 17.37
+			text = "0"
+		intervals [4]:
+			xmin = 17.37
+			xmax = 24.39
+			text = ""
+		intervals [5]:
+			xmin = 24.39
+			xmax = 24.45
+			text = "0"
+		intervals [6]:
+			xmin = 24.45
+			xmax = 33.18
+			text = ""
+		intervals [7]:
+			xmin = 33.18
+			xmax = 34.8
+			text = "0"

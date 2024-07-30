@@ -1,0 +1,44 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 49.70002267573696
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Latin-gloss"
+		xmin = 0.0
+		xmax = 49.70002267573696
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.23
+			text = "0"
+		intervals [2]:
+			xmin = 1.23
+			xmax = 45.1
+			text = ""
+		intervals [3]:
+			xmin = 45.1
+			xmax = 49.70002267573696
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 49.70002267573696
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.23
+			text = "0"
+		intervals [2]:
+			xmin = 1.23
+			xmax = 45.1
+			text = "Aboni porei khei chwng wansok kha u khira paimani yagulo wngkhe chwng tabuk deraso kaikha. Deraso kaimani yagulo chwng tabok obo salo panso takarog khe abo naikhe kwlaio.Deraso to kwdwkrogbo tong bla. Tin masrogle phalwino mano. Abono wansogwi chwng khwlai lai kha,tai joto ni nukhungo no rang poisarogbo nango, aje nani nango. Achugwi tongya wi chwng kwsrang khe khwlai lai kha hinkhai, joto poisa abo hai khe ajei manai. Tei chwng belai khe swrwng nani bo nango. Chini borok wngkha swrwngya, swrwngya ni bagwino chwng khwlairogbo maya."
+		intervals [3]:
+			xmin = 45.1
+			xmax = 49.70002267573696
+			text = "0"

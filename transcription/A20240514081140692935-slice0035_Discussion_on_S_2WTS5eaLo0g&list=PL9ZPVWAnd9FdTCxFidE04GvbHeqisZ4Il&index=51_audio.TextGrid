@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 31.8
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 31.8
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.31
+			text = "0"
+		intervals [2]:
+			xmin = 1.31
+			xmax = 31.21
+			text = ""
+		intervals [3]:
+			xmin = 31.21
+			xmax = 31.8
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 31.8
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.31
+			text = "0"
+		intervals [2]:
+			xmin = 1.31
+			xmax = 31.21
+			text = "Chalaio nwnglaio khub hamya, abobo sudu bongno simi dusya chini garjian chwng socheton ma wngnai. A jaga ma-pha ni bo khlai thai kwbangma no tongo. Ma-pha ni se belai khlaithai kwbangma tongo. Karon puilano ma-pha ba kaham hwnkai kaham,bwsa ba ma kuta hinya, baba kuta hinya, chwng somoio ma hin nai, ma bujoknai,cherai khonai no. Jodi bwkha kabwi tongkha, kudina muchungya,buna muchungya, chwng abtwi khephano ma phrwngnai. Bobisot ni bagwi chini,"
+		intervals [3]:
+			xmin = 31.21
+			xmax = 31.8
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 31.8
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.31
+			text = "0"
+		intervals [2]:
+			xmin = 1.31
+			xmax = 31.21
+			text = ""
+		intervals [3]:
+			xmin = 31.21
+			xmax = 31.8
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 31.8
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.31
+			text = "0"
+		intervals [2]:
+			xmin = 1.31
+			xmax = 31.21
+			text = ""
+		intervals [3]:
+			xmin = 31.21
+			xmax = 31.8
+			text = "0"

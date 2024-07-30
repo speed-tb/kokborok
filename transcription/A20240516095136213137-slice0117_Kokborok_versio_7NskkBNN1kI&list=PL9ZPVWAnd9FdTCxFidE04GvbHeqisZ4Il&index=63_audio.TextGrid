@@ -1,0 +1,144 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 42.4
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 42.4
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.63
+			text = "0"
+		intervals [2]:
+			xmin = 0.63
+			xmax = 12.42
+			text = ""
+		intervals [3]:
+			xmin = 12.42
+			xmax = 12.5
+			text = "0"
+		intervals [4]:
+			xmin = 12.5
+			xmax = 28.19
+			text = ""
+		intervals [5]:
+			xmin = 28.19
+			xmax = 28.38
+			text = "0"
+		intervals [6]:
+			xmin = 28.38
+			xmax = 41.8
+			text = ""
+		intervals [7]:
+			xmin = 41.8
+			xmax = 42.4
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 42.4
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.63
+			text = "0"
+		intervals [2]:
+			xmin = 0.63
+			xmax = 12.42
+			text = "Bodri Asrom, salka bai bwkhak Puri, Salgra phasing Srinogor tai salthang bwkhak Dorka. Bo Srinogor wo bo thang kha,aboni pher wngkha aro kaisa Sakar Achaijo hathai tongo."
+		intervals [3]:
+			xmin = 12.42
+			xmax = 12.5
+			text = "0"
+		intervals [4]:
+			xmin = 12.5
+			xmax = 28.19
+			text = "Tongthal lamrimung baithangnino Barot o twngsa o tubu kha. Jutilingo tei sakipatrogni sirisiti Barotno thansa khlai kha. Tripurani simi romwi Gujwrat jora Jomu kasmir ni simi romwi Tamil Nadu jora."
+		intervals [5]:
+			xmin = 28.19
+			xmax = 28.38
+			text = "0"
+		intervals [6]:
+			xmin = 28.38
+			xmax = 41.8
+			text = "Achukjak chini patio, tongmung tai thai kwchar chwngno thansa khlai riwo. Bokti choba kaisa Barot gwnangwi luku choba wng khga. Abo chwngno khulumung ni bisingtwi thansa khwlai k ha."
+		intervals [7]:
+			xmin = 41.8
+			xmax = 42.4
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 42.4
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.63
+			text = "0"
+		intervals [2]:
+			xmin = 0.63
+			xmax = 12.42
+			text = ""
+		intervals [3]:
+			xmin = 12.42
+			xmax = 12.5
+			text = "0"
+		intervals [4]:
+			xmin = 12.5
+			xmax = 28.19
+			text = ""
+		intervals [5]:
+			xmin = 28.19
+			xmax = 28.38
+			text = "0"
+		intervals [6]:
+			xmin = 28.38
+			xmax = 41.8
+			text = ""
+		intervals [7]:
+			xmin = 41.8
+			xmax = 42.4
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 42.4
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.63
+			text = "0"
+		intervals [2]:
+			xmin = 0.63
+			xmax = 12.42
+			text = ""
+		intervals [3]:
+			xmin = 12.42
+			xmax = 12.5
+			text = "0"
+		intervals [4]:
+			xmin = 12.5
+			xmax = 28.19
+			text = ""
+		intervals [5]:
+			xmin = 28.19
+			xmax = 28.38
+			text = "0"
+		intervals [6]:
+			xmin = 28.38
+			xmax = 41.8
+			text = ""
+		intervals [7]:
+			xmin = 41.8
+			xmax = 42.4
+			text = "0"

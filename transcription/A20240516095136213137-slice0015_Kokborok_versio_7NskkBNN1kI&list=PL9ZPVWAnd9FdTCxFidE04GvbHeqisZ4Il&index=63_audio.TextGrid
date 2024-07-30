@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 10.4
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 10.4
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.93
+			text = "0"
+		intervals [2]:
+			xmin = 0.93
+			xmax = 9.44
+			text = ""
+		intervals [3]:
+			xmin = 9.44
+			xmax = 10.4
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 10.4
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.93
+			text = "0"
+		intervals [2]:
+			xmin = 0.93
+			xmax = 9.44
+			text = "Lokdaun jorani kokno bo muito khlaithai kwlaio, lokdauno chwng, hoda, kichingsongni gana teibo thangna kwlaio."
+		intervals [3]:
+			xmin = 9.44
+			xmax = 10.4
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 10.4
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.93
+			text = "0"
+		intervals [2]:
+			xmin = 0.93
+			xmax = 9.44
+			text = ""
+		intervals [3]:
+			xmin = 9.44
+			xmax = 10.4
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 10.4
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.93
+			text = "0"
+		intervals [2]:
+			xmin = 0.93
+			xmax = 9.44
+			text = ""
+		intervals [3]:
+			xmin = 9.44
+			xmax = 10.4
+			text = "0"

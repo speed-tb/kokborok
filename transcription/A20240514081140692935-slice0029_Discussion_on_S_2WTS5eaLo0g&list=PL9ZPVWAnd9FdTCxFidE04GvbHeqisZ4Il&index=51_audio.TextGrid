@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 31.2
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 31.2
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.04
+			text = "0"
+		intervals [2]:
+			xmin = 1.04
+			xmax = 21.05
+			text = ""
+		intervals [3]:
+			xmin = 21.05
+			xmax = 21.37
+			text = "0"
+		intervals [4]:
+			xmin = 21.37
+			xmax = 30.35
+			text = ""
+		intervals [5]:
+			xmin = 30.35
+			xmax = 31.2
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 31.2
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.04
+			text = "0"
+		intervals [2]:
+			xmin = 1.04
+			xmax = 21.05
+			text = "Khao kubui muchungma tongkhe, jeswk jaga jwngjal ni phanw chwng kiphilwi phaimano. Khaosi muchungma tongnani nago haya diba. Bwkha tongna nangnai. Drugs bukhuk bai chao, hamna hwnke bwkha baisi hamnai. Bukhuk bai tei ham ma liya obo. Ham nani bwkha bai se ma hamnai. Bwkha kwrak ma khainai."
+		intervals [3]:
+			xmin = 21.05
+			xmax = 21.37
+			text = "0"
+		intervals [4]:
+			xmin = 21.37
+			xmax = 30.35
+			text = "O je drugs chanairogni buma bupha bwswk lachima singcha,borogto mwkhang khichigwi tobo nukjagwi ma tongo. Abono borog ma wnsuknai ani ma ba ani bagwi se,"
+		intervals [5]:
+			xmin = 30.35
+			xmax = 31.2
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 31.2
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.04
+			text = "0"
+		intervals [2]:
+			xmin = 1.04
+			xmax = 21.05
+			text = ""
+		intervals [3]:
+			xmin = 21.05
+			xmax = 21.37
+			text = "0"
+		intervals [4]:
+			xmin = 21.37
+			xmax = 30.35
+			text = ""
+		intervals [5]:
+			xmin = 30.35
+			xmax = 31.2
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 31.2
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.04
+			text = "0"
+		intervals [2]:
+			xmin = 1.04
+			xmax = 21.05
+			text = ""
+		intervals [3]:
+			xmin = 21.05
+			xmax = 21.37
+			text = "0"
+		intervals [4]:
+			xmin = 21.37
+			xmax = 30.35
+			text = ""
+		intervals [5]:
+			xmin = 30.35
+			xmax = 31.2
+			text = "0"

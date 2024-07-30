@@ -1,0 +1,272 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 258.0659410430839
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 258.0659410430839
+		intervals: size = 15
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.3
+			text = "0"
+		intervals [2]:
+			xmin = 0.3
+			xmax = 27.3
+			text = ""
+		intervals [3]:
+			xmin = 27.3
+			xmax = 43.19
+			text = ""
+		intervals [4]:
+			xmin = 43.19
+			xmax = 43.49
+			text = "0"
+		intervals [5]:
+			xmin = 43.49
+			xmax = 97.59
+			text = ""
+		intervals [6]:
+			xmin = 97.59
+			xmax = 97.69
+			text = "0"
+		intervals [7]:
+			xmin = 97.69
+			xmax = 129.88
+			text = ""
+		intervals [8]:
+			xmin = 129.88
+			xmax = 130.78
+			text = "0"
+		intervals [9]:
+			xmin = 130.78
+			xmax = 155.68
+			text = ""
+		intervals [10]:
+			xmin = 155.68
+			xmax = 155.88
+			text = "0"
+		intervals [11]:
+			xmin = 155.88
+			xmax = 191.87
+			text = ""
+		intervals [12]:
+			xmin = 191.87
+			xmax = 191.97
+			text = "0"
+		intervals [13]:
+			xmin = 191.97
+			xmax = 222.27
+			text = ""
+		intervals [14]:
+			xmin = 222.27
+			xmax = 254.07
+			text = ""
+		intervals [15]:
+			xmin = 254.07
+			xmax = 258.0659410430839
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 258.0659410430839
+		intervals: size = 15
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.3
+			text = "0"
+		intervals [2]:
+			xmin = 0.3
+			xmax = 27.3
+			text = ""
+		intervals [3]:
+			xmin = 27.3
+			xmax = 43.19
+			text = ""
+		intervals [4]:
+			xmin = 43.19
+			xmax = 43.49
+			text = "0"
+		intervals [5]:
+			xmin = 43.49
+			xmax = 97.59
+			text = ""
+		intervals [6]:
+			xmin = 97.59
+			xmax = 97.69
+			text = "0"
+		intervals [7]:
+			xmin = 97.69
+			xmax = 129.88
+			text = ""
+		intervals [8]:
+			xmin = 129.88
+			xmax = 130.78
+			text = "0"
+		intervals [9]:
+			xmin = 130.78
+			xmax = 155.68
+			text = ""
+		intervals [10]:
+			xmin = 155.68
+			xmax = 155.88
+			text = "0"
+		intervals [11]:
+			xmin = 155.88
+			xmax = 191.87
+			text = ""
+		intervals [12]:
+			xmin = 191.87
+			xmax = 191.97
+			text = "0"
+		intervals [13]:
+			xmin = 191.97
+			xmax = 222.27
+			text = ""
+		intervals [14]:
+			xmin = 222.27
+			xmax = 254.07
+			text = ""
+		intervals [15]:
+			xmin = 254.07
+			xmax = 258.0659410430839
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 258.0659410430839
+		intervals: size = 15
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.3
+			text = "0"
+		intervals [2]:
+			xmin = 0.3
+			xmax = 27.3
+			text = "Zinc hinkai tabuk cherairogni bisingo khe nukjak kha je, research khai je nukmani ta. Ja cherairogni thani zinc ni je bohogo je poriman tongmani amo kom. Wngkei specially je developing countries, wngkai India, jara kisa poor nation borogni jara daitri habitsrog aswk kahamya. Cherairogni bisingo khe kisa deficiency nukjak kha. Aboni bagwino zinc rikha wngkai borog ni improvement nukjago."
+		intervals [3]:
+			xmin = 27.3
+			xmax = 43.19
+			text = "Okrarogni bisingo amswk deficiency nukjakya. Aboni bagwi rwna nango, mandetory ya, Wngkei chwng pas bosor jora twino chwng zinc no use khaio specially. Wngkei tobe omo chakha hwnke kuno khoti da wng? Besi kuno amswk khoti wngya ta."
+		intervals [4]:
+			xmin = 43.19
+			xmax = 43.49
+			text = "0"
+		intervals [5]:
+			xmin = 43.49
+			xmax = 97.59
+			text = "Hwnke sir paithak bwkhago  o sal ebao hathibaro rwgwi nwng tamo kok kwcharna muchung borokrogno? Omono chwng je public awareness o je chwng tubna muchungo hwnkai, je chama swkang, mai chama swkang, ba kuno mungsa manwi chama swkang, nijini bo yak sunani omo kaisa chwng habit ma swnam nai. Hwnkai cherairogno bo naikol tong di je borog bo yak suwi no chathung. Hwnkai tai sapos kebo dairiya to nogo nogo wngnani chance tongwi pai wo, omtwi je rainy season,summer season a jora wo. Solo wo na, soloma bo tongo, infection wngke amo solo mani kaisa amo tongwi mano, nogo khoroksa wngkhe tai khoroksa solowi mano. Aboni bagwi no je yakrog kaham khe suwi ton khai poriskar khe ton kha hwnke, amo sap ke tonkha hwnke, omo onekta prevent khaimano."
+		intervals [6]:
+			xmin = 97.59
+			xmax = 97.69
+			text = "0"
+		intervals [7]:
+			xmin = 97.69
+			xmax = 129.88
+			text = "Hwnkei tei ang lukurogno je kobok mani hwnkei, ORS ni peket nogo kaisa kainawi naharwi ton di. Karon bo soimoi sabo dairiya wngwi thang wngkai dehydration wo thamgyani bagwi ORS nogo tonwi ton kha wngkei, readily available. Tabuk joto jagano dugano manai, nwng dispensary mano, nwng sorkari hospitolo mano. Nahrwi tonwi ridi, tonwi rikha hwnkei jephru samung nango, hothatsakhe buphru emergency kwlai thang siya, hwnkei nogo ton na nangnai chwng ORS peket kaisa."
+		intervals [8]:
+			xmin = 129.88
+			xmax = 130.78
+			text = "0"
+		intervals [9]:
+			xmin = 130.78
+			xmax = 155.68
+			text = "Tei amoni ulo je ORS swnamlai mani chwng,oro nuklaikha. Khaksa peket no riwi twi kisa riwi ba ek chamos ORS riwi, kisasa twi rikha amotwi kheya. Pura kaisa peket bai chwng ek litar twio chwng amo mix makhai nai, jate bini je saltni je proportionrog twibai miliwi amo teibo kaham khe effective wngthwng."
+		intervals [10]:
+			xmin = 155.68
+			xmax = 155.88
+			text = "0"
+		intervals [11]:
+			xmin = 155.88
+			xmax = 191.87
+			text = "Wngkhai chwng nwngto thaising sakha, chobis gonta eba salsa chwng omo no narwgwi mano, hwnke salsa ni ulo obo paiya hwnkai chwng omono khibi rinai. Salsa ni ulo omono paiya hwnke omono khibi ridi. Karon contamination chance tongo, wngkai jekunu manwi chwng tonikha wngke amo kaisa ulo nini bacteriarog aro over root wngwi thangmano. Amo tei bo derai mano. Salsani bisi use khainani bagwi chwng recommend khaiya ta. Tei kwtal peket khulok di. Nangkha hwnke ba abo khibi wi riwi teisa kwtal khe chwng  tai ni dino kwtal khe chwng abono gulugwi sapungni bagwi toni sinai ta."
+		intervals [12]:
+			xmin = 191.87
+			xmax = 191.97
+			text = "0"
+		intervals [13]:
+			xmin = 191.97
+			xmax = 222.27
+			text = "Belai khe hambai sir, belai khe chwng tini swrai swrai khe sai man kha. ORS chwng nogo jotono kisa misa to tono eba omo hai khio kwbao wngkha kai chwng ORS nalaio nwnglaio, phiya ba oboni raida, soi soi raida chwng joto borok kaham khei saimaya, obono tini chini sir belai khe swrai swrai khe sai khwna rikha. Chwng je kisa raidarog chaya khaliwi chwng ORS nai tongmani obo chini sago kaham ni sai tebo hamya khlai mano."
+		intervals [14]:
+			xmin = 222.27
+			xmax = 254.07
+			text = "Hwngkhe belai khe hambai sir, khwnawi tongnai, nai tongnai chini o panda no, joto takhuk bukhuksongno tini ni o pandani chini naharmung eba o ORS hathibar eba, ORS sal palaimani aboni kok kwcharmung norokni thani sogwi khanai hinwi ang poito khlaio. Tei norokni thangsungni langmao o tini ni kok salaimung, samungo phnangwanw hwnwi ang khakao. Jotono kaham kwrwng tong bai di hinwi kok kwcharwi tini ni pandano chwng oro no khulum nai. Kholoplai sinw khulum kha."
+		intervals [15]:
+			xmin = 254.07
+			xmax = 258.0659410430839
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 258.0659410430839
+		intervals: size = 15
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.3
+			text = "0"
+		intervals [2]:
+			xmin = 0.3
+			xmax = 27.3
+			text = ""
+		intervals [3]:
+			xmin = 27.3
+			xmax = 43.19
+			text = ""
+		intervals [4]:
+			xmin = 43.19
+			xmax = 43.49
+			text = "0"
+		intervals [5]:
+			xmin = 43.49
+			xmax = 97.59
+			text = ""
+		intervals [6]:
+			xmin = 97.59
+			xmax = 97.69
+			text = "0"
+		intervals [7]:
+			xmin = 97.69
+			xmax = 129.88
+			text = ""
+		intervals [8]:
+			xmin = 129.88
+			xmax = 130.78
+			text = "0"
+		intervals [9]:
+			xmin = 130.78
+			xmax = 155.68
+			text = ""
+		intervals [10]:
+			xmin = 155.68
+			xmax = 155.88
+			text = "0"
+		intervals [11]:
+			xmin = 155.88
+			xmax = 191.87
+			text = ""
+		intervals [12]:
+			xmin = 191.87
+			xmax = 191.97
+			text = "0"
+		intervals [13]:
+			xmin = 191.97
+			xmax = 222.27
+			text = ""
+		intervals [14]:
+			xmin = 222.27
+			xmax = 254.07
+			text = ""
+		intervals [15]:
+			xmin = 254.07
+			xmax = 258.0659410430839
+			text = "0"

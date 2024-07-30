@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 22.4
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 22.4
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 9.0
+			text = "0"
+		intervals [2]:
+			xmin = 9.0
+			xmax = 21.5
+			text = ""
+		intervals [3]:
+			xmin = 21.5
+			xmax = 22.4
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 22.4
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 9.0
+			text = "0"
+		intervals [2]:
+			xmin = 9.0
+			xmax = 21.5
+			text = "Phaidi haikhe o jorao chwng, nugwi man kha o jagao, oro jara o jaga ni je milokno talangwinai borog hathi o phalwio, borogni bobo hai manmungrog wng, phai khoroksa bukhukno male man kha,"
+		intervals [3]:
+			xmin = 21.5
+			xmax = 22.4
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 22.4
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 9.0
+			text = "0"
+		intervals [2]:
+			xmin = 9.0
+			xmax = 21.5
+			text = ""
+		intervals [3]:
+			xmin = 21.5
+			xmax = 22.4
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 22.4
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 9.0
+			text = "0"
+		intervals [2]:
+			xmin = 9.0
+			xmax = 21.5
+			text = ""
+		intervals [3]:
+			xmin = 21.5
+			xmax = 22.4
+			text = "0"

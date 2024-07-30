@@ -1,0 +1,36 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 34.8
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Latin-gloss"
+		xmin = 0.0
+		xmax = 34.8
+		intervals: size = 2
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.14
+			text = "0"
+		intervals [2]:
+			xmin = 2.14
+			xmax = 34.8
+			text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 34.8
+		intervals: size = 2
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.14
+			text = "0"
+		intervals [2]:
+			xmin = 2.14
+			xmax = 34.8
+			text = "Ada aji ajiya aboni pore bo thangwi nai. Wansokmarog hamya nukhungrogo, chuak maikham nungwi nai, nirokbo bulai-toklairog phaio. Sidi abo tamni bagwi hinmale samwng kwrwi chini samwng kwrwini bagwi omo haio engej wngo. Aboni bagwino chwng kwsrang wng di, khwlai di hinkhe chwng chini nukhungo bo.  Bebak haino salni waibrwiswkrog phal khna. Obo u watwi ni bo somoisa wngmani bagwi twi manthokya ni aswk kaham wngliya."

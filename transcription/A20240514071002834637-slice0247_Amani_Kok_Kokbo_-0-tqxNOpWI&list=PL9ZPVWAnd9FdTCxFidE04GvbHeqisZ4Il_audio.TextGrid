@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 14.2
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 14.2
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.02
+			text = "0"
+		intervals [2]:
+			xmin = 1.02
+			xmax = 5.44
+			text = ""
+		intervals [3]:
+			xmin = 5.44
+			xmax = 5.84
+			text = "0"
+		intervals [4]:
+			xmin = 5.84
+			xmax = 11.38
+			text = ""
+		intervals [5]:
+			xmin = 11.38
+			xmax = 14.2
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 14.2
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.02
+			text = "0"
+		intervals [2]:
+			xmin = 1.02
+			xmax = 5.44
+			text = "abo khei tinini chini aluchonani caption wngjagwi tongkha"
+		intervals [3]:
+			xmin = 5.44
+			xmax = 5.84
+			text = "0"
+		intervals [4]:
+			xmin = 5.84
+			xmax = 11.38
+			text = "yapiri yasa yasa, amono ang rwchamung khwlainani chesta khwlaikha"
+		intervals [5]:
+			xmin = 11.38
+			xmax = 14.2
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 14.2
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.02
+			text = "0"
+		intervals [2]:
+			xmin = 1.02
+			xmax = 5.44
+			text = ""
+		intervals [3]:
+			xmin = 5.44
+			xmax = 5.84
+			text = "0"
+		intervals [4]:
+			xmin = 5.84
+			xmax = 11.38
+			text = ""
+		intervals [5]:
+			xmin = 11.38
+			xmax = 14.2
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 14.2
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.02
+			text = "0"
+		intervals [2]:
+			xmin = 1.02
+			xmax = 5.44
+			text = ""
+		intervals [3]:
+			xmin = 5.44
+			xmax = 5.84
+			text = "0"
+		intervals [4]:
+			xmin = 5.84
+			xmax = 11.38
+			text = ""
+		intervals [5]:
+			xmin = 11.38
+			xmax = 14.2
+			text = "0"

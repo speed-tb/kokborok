@@ -1,0 +1,176 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 199.9
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 199.9
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.2
+			text = "0"
+		intervals [2]:
+			xmin = 0.2
+			xmax = 3.6
+			text = ""
+		intervals [3]:
+			xmin = 3.6
+			xmax = 4.2
+			text = "0"
+		intervals [4]:
+			xmin = 4.2
+			xmax = 86.4
+			text = ""
+		intervals [5]:
+			xmin = 86.4
+			xmax = 160.3
+			text = ""
+		intervals [6]:
+			xmin = 160.3
+			xmax = 161.2
+			text = "0"
+		intervals [7]:
+			xmin = 161.2
+			xmax = 187.6
+			text = ""
+		intervals [8]:
+			xmin = 187.6
+			xmax = 199.7
+			text = ""
+		intervals [9]:
+			xmin = 199.7
+			xmax = 199.9
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 199.9
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.2
+			text = "0"
+		intervals [2]:
+			xmin = 0.2
+			xmax = 3.6
+			text = ""
+		intervals [3]:
+			xmin = 3.6
+			xmax = 4.2
+			text = "0"
+		intervals [4]:
+			xmin = 4.2
+			xmax = 86.4
+			text = ""
+		intervals [5]:
+			xmin = 86.4
+			xmax = 160.3
+			text = ""
+		intervals [6]:
+			xmin = 160.3
+			xmax = 161.2
+			text = "0"
+		intervals [7]:
+			xmin = 161.2
+			xmax = 187.6
+			text = ""
+		intervals [8]:
+			xmin = 187.6
+			xmax = 199.7
+			text = ""
+		intervals [9]:
+			xmin = 199.7
+			xmax = 199.9
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 199.9
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.2
+			text = "0"
+		intervals [2]:
+			xmin = 0.2
+			xmax = 3.6
+			text = "Omono no norog twio mix khaiwi rwna nango."
+		intervals [3]:
+			xmin = 3.6
+			xmax = 4.2
+			text = "0"
+		intervals [4]:
+			xmin = 4.2
+			xmax = 86.4
+			text = "Sir te kaisa hwnka kei, je zinc tablet je rijak mani omtwi dairiyarog wngka ke abo tamni bagwi rijak eba bwswk nang obo rinani? Au ORS to je chwng salai mani je dehydration je twi kom wngmani, je som kom wngmani,abono pura khaina bagwi chini bwsago, teibo weak ungyathung ni bagwi. Hwnkai baki je dairiyano kom khaina bagwi omo to emne self limiting. Tobo phano omo nukjak kha je zinc ani loge tini ang tubujak bo tongo,omo je government supply wo je mano ta zinc tablet hwnwi. Omo twio kisa mix khaikhakei no ek chamos twi naharwi a jaga mix khaikakei omo mix wngthangwanw omo guliwi thangwanw.  Hwnke omo tablet form o bo tongo,syrap form o bo tongo. Hinkai zinc syrap bo tongo, zinc tablet bo tongo.Hwnke o zinc no rikha hwnkei dairiya wo nukjak kha, je borogni je dairiyal je output  wngmani je khini je frequency je khimano amo langka komei thango. Hwnkai borog doti doti bo tesa improve wngo. Hwnkai borogni je bohokni je immunity power amo bo bare wo,hinkai next time je dairiya wngnani amo hoite bo amo prevent bo khaio. Omo treatment bo khainai omo prevent bo khainai. Omoni bagwi chwng ORS ni logi logi tabuk dairiya wngkha kai, o zinc nobo rwjago ta."
+		intervals [5]:
+			xmin = 86.4
+			xmax = 160.3
+			text = "Hwnke chwng doctor bai consult khaiya phano zinc no chwng chai mano? Zinc to nwng saplai nahana nangwanw. Hospitol o thangya sak to nwng zinc manglak. Chwng dukanrogo manglak? Dukano manai aboni poriman kisa saimana nango ta. Norok surety saimankha wngkhe to kahamno. Jemon soimas ni sai kom cherairog hinkai,zincno half tablet, ba arai ml khai charina nango ta. Soimas ni sai saka boni soimas ni sai bini okra hinkai borogno one tablet khai rwi mano bini five ml khai rwi mano,salsa waisa rikheno wngwanw. Hwnkai omo fourteen days ni bagwi ma riwo ta. Hwnke tablet tongkhake to riwi mano kuno kok kwrwi, kuno osubida kwrwi. Tobo phano cherai jodi kwlwi hwnkai iko ek bosorni sai tola ba dui bosorni sai jara cherai borogni hinke sign syntompsrog tei kisa severe wngwi thangmano. Aboni bagwi ORS to ridi no jephru jora khapeya, doctor manthokliya,aphru to ORS continue  khainaino. Kintu jeswk doti mansak waisa doctor bai waisa consult khaika  wngkai, tai oino kuno sign syntompsrog  totong amorog teibo kahamkei naimano ta."
+		intervals [6]:
+			xmin = 160.3
+			xmax = 161.2
+			text = "0"
+		intervals [7]:
+			xmin = 161.2
+			xmax = 187.6
+			text = "Dairiya wngkhai, khio kwba wo wngkhai, borogni jemon kwba mani belai bangkuk tongkha, wngke bongni bagwi tei oino tei kisa juda steps ma nawanw. Kwbamani bondo ma khai nai, wngkai borogni kulum bo wngwi tong mano, dairiya khio, kwbao ni bagwi, kulum tongwi mano, kulumni bithi ma rinai. Wngkhe amtwi khe tei baki je associated signs, syntomps tong mani aborogno bo ma nainai."
+		intervals [8]:
+			xmin = 187.6
+			xmax = 199.7
+			text = "Sir tei kaisa khe nwngto zinc tablet ba zinc syrap samani amo cherairogno rinani bagwi, phiya ba okrarogno chwng hairogno chini dairiya wngphru buda chwng buda zinc tablet nangno?"
+		intervals [9]:
+			xmin = 199.7
+			xmax = 199.9
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 199.9
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.2
+			text = "0"
+		intervals [2]:
+			xmin = 0.2
+			xmax = 3.6
+			text = ""
+		intervals [3]:
+			xmin = 3.6
+			xmax = 4.2
+			text = "0"
+		intervals [4]:
+			xmin = 4.2
+			xmax = 86.4
+			text = ""
+		intervals [5]:
+			xmin = 86.4
+			xmax = 160.3
+			text = ""
+		intervals [6]:
+			xmin = 160.3
+			xmax = 161.2
+			text = "0"
+		intervals [7]:
+			xmin = 161.2
+			xmax = 187.6
+			text = ""
+		intervals [8]:
+			xmin = 187.6
+			xmax = 199.7
+			text = ""
+		intervals [9]:
+			xmin = 199.7
+			xmax = 199.9
+			text = "0"

@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 27.400022675736963
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 27.400022675736963
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.89
+			text = "0"
+		intervals [2]:
+			xmin = 0.89
+			xmax = 11.63
+			text = ""
+		intervals [3]:
+			xmin = 11.63
+			xmax = 11.92
+			text = "0"
+		intervals [4]:
+			xmin = 11.92
+			xmax = 26.29
+			text = ""
+		intervals [5]:
+			xmin = 26.29
+			xmax = 27.400022675736963
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 27.400022675736963
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.89
+			text = "0"
+		intervals [2]:
+			xmin = 0.89
+			xmax = 11.63
+			text = "Phegwi chawi kwlaijakrog obo hairog nugu.Phiya buma-buphale sisiya borogle parasi tongo, borog parasi tongo, ani bwsla pori wo ani bwsajwk pori wo, Aguli pori wo."
+		intervals [3]:
+			xmin = 11.63
+			xmax = 11.92
+			text = "0"
+		intervals [4]:
+			xmin = 11.92
+			xmax = 26.29
+			text = "Aguli kheto chini Tripurani joto kotor wngkhai bo. Agini jugo hahai no. Aguli pori kheno kotor amotwi wansuklaio.Nok gana bo porei wngo. Tabukto nok ganarog onek wskul kaham kaham khuluk kha. Kintu baksa baksa agulinw pori rwnai."
+		intervals [5]:
+			xmin = 26.29
+			xmax = 27.400022675736963
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 27.400022675736963
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.89
+			text = "0"
+		intervals [2]:
+			xmin = 0.89
+			xmax = 11.63
+			text = ""
+		intervals [3]:
+			xmin = 11.63
+			xmax = 11.92
+			text = "0"
+		intervals [4]:
+			xmin = 11.92
+			xmax = 26.29
+			text = ""
+		intervals [5]:
+			xmin = 26.29
+			xmax = 27.400022675736963
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 27.400022675736963
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.89
+			text = "0"
+		intervals [2]:
+			xmin = 0.89
+			xmax = 11.63
+			text = ""
+		intervals [3]:
+			xmin = 11.63
+			xmax = 11.92
+			text = "0"
+		intervals [4]:
+			xmin = 11.92
+			xmax = 26.29
+			text = ""
+		intervals [5]:
+			xmin = 26.29
+			xmax = 27.400022675736963
+			text = "0"

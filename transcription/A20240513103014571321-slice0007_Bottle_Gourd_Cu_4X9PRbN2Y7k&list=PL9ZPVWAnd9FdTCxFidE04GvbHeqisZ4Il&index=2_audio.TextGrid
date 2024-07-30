@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 36.5
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Latin-gloss"
+		xmin = 0.0
+		xmax = 36.5
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.9
+			text = "0"
+		intervals [2]:
+			xmin = 1.9
+			xmax = 20.68
+			text = ""
+		intervals [3]:
+			xmin = 20.68
+			xmax = 22.1
+			text = "0"
+		intervals [4]:
+			xmin = 22.1
+			xmax = 27.8
+			text = ""
+		intervals [5]:
+			xmin = 27.8
+			xmax = 28.28
+			text = "0"
+		intervals [6]:
+			xmin = 28.28
+			xmax = 35.66
+			text = ""
+		intervals [7]:
+			xmin = 35.66
+			xmax = 36.5
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 36.5
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.9
+			text = "0"
+		intervals [2]:
+			xmin = 1.9
+			xmax = 20.68
+			text = "Hwnkhai khapangni takhuk tei bukhuksong bini o je kaisa bagan khalai ma bai, je milokni bagan khalaima bai, sudu bo saichung simi rang aje abo haiya, abo bai baksa baksa tei kubun tangwi chanairogni bagwi bo samungni bebosta khwlai man kha, chini takhuk Arjun Debbarma."
+		intervals [3]:
+			xmin = 20.68
+			xmax = 22.1
+			text = "0"
+		intervals [4]:
+			xmin = 22.1
+			xmax = 27.8
+			text = "Milok kaina muchung kha, kaikha hwnkhe simino wngya, phiya bini bagwi bo tal-tal o phit khalaina nango."
+		intervals [5]:
+			xmin = 27.8
+			xmax = 28.28
+			text = "0"
+		intervals [6]:
+			xmin = 28.28
+			xmax = 35.66
+			text = "Takhuk, Arjun bobo hai tal-tal o phit khalai phai di nailai nai. Takhuk tabuk nwng khei tamo khalai tongmani?"
+		intervals [7]:
+			xmin = 35.66
+			xmax = 36.5
+			text = "0"

@@ -1,0 +1,176 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 51.7
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 51.7
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.05
+			text = "0"
+		intervals [2]:
+			xmin = 0.05
+			xmax = 8.21
+			text = ""
+		intervals [3]:
+			xmin = 8.21
+			xmax = 12.06
+			text = "0"
+		intervals [4]:
+			xmin = 12.06
+			xmax = 30.57
+			text = ""
+		intervals [5]:
+			xmin = 30.57
+			xmax = 30.79
+			text = "0"
+		intervals [6]:
+			xmin = 30.79
+			xmax = 39.95
+			text = ""
+		intervals [7]:
+			xmin = 39.95
+			xmax = 40.54
+			text = "0"
+		intervals [8]:
+			xmin = 40.54
+			xmax = 50.7
+			text = ""
+		intervals [9]:
+			xmin = 50.7
+			xmax = 51.7
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 51.7
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.05
+			text = "0"
+		intervals [2]:
+			xmin = 0.05
+			xmax = 8.21
+			text = "O je ma-pha wngnairog bo bwsa bai kakyatwi khai ma tonglainai. Dol hamya bai kwthaya twi. Haiya da?"
+		intervals [3]:
+			xmin = 8.21
+			xmax = 12.06
+			text = "0"
+		intervals [4]:
+			xmin = 12.06
+			xmax = 30.57
+			text = "Baksa baksa khe hinwi phano mano,dol bai kwthaya wngkai o bo dol bai kwthaya. Hinjagwi phano ma tongnai. Ang baithang swkang hamna nangranai haiya de na. Baithang kheise dopha hamnai. Ang chakhei se buinobo charinai. Thik abo hahai ang hamkhe buino hamrinai."
+		intervals [5]:
+			xmin = 30.57
+			xmax = 30.79
+			text = "0"
+		intervals [6]:
+			xmin = 30.79
+			xmax = 39.95
+			text = "Abon ang dolo thangya wi,ani ang saichungno tongwi,ani tomung porei tongkha hwnke  ba kaham khe porinai, amtwi khai ma khainai ta iko."
+		intervals [7]:
+			xmin = 39.95
+			xmax = 40.54
+			text = "0"
+		intervals [8]:
+			xmin = 40.54
+			xmax = 50.7
+			text = "tabuk je porei tongnairogno,chini cherai wngko sikla chalai ba cherai pha wngkha, borogno khe tamo hwnwi saninai kisa sadi? borogno to,"
+		intervals [9]:
+			xmin = 50.7
+			xmax = 51.7
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 51.7
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.05
+			text = "0"
+		intervals [2]:
+			xmin = 0.05
+			xmax = 8.21
+			text = ""
+		intervals [3]:
+			xmin = 8.21
+			xmax = 12.06
+			text = "0"
+		intervals [4]:
+			xmin = 12.06
+			xmax = 30.57
+			text = ""
+		intervals [5]:
+			xmin = 30.57
+			xmax = 30.79
+			text = "0"
+		intervals [6]:
+			xmin = 30.79
+			xmax = 39.95
+			text = ""
+		intervals [7]:
+			xmin = 39.95
+			xmax = 40.54
+			text = "0"
+		intervals [8]:
+			xmin = 40.54
+			xmax = 50.7
+			text = ""
+		intervals [9]:
+			xmin = 50.7
+			xmax = 51.7
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 51.7
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.05
+			text = "0"
+		intervals [2]:
+			xmin = 0.05
+			xmax = 8.21
+			text = ""
+		intervals [3]:
+			xmin = 8.21
+			xmax = 12.06
+			text = "0"
+		intervals [4]:
+			xmin = 12.06
+			xmax = 30.57
+			text = ""
+		intervals [5]:
+			xmin = 30.57
+			xmax = 30.79
+			text = "0"
+		intervals [6]:
+			xmin = 30.79
+			xmax = 39.95
+			text = ""
+		intervals [7]:
+			xmin = 39.95
+			xmax = 40.54
+			text = "0"
+		intervals [8]:
+			xmin = 40.54
+			xmax = 50.7
+			text = ""
+		intervals [9]:
+			xmin = 50.7
+			xmax = 51.7
+			text = "0"

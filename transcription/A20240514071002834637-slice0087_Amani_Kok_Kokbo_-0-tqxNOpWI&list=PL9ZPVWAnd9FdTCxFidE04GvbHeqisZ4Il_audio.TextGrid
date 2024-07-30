@@ -1,0 +1,240 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 51.2
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 51.2
+		intervals: size = 13
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.81
+			text = "0"
+		intervals [2]:
+			xmin = 0.81
+			xmax = 7.56
+			text = ""
+		intervals [3]:
+			xmin = 7.56
+			xmax = 7.64
+			text = "0"
+		intervals [4]:
+			xmin = 7.64
+			xmax = 9.48
+			text = ""
+		intervals [5]:
+			xmin = 9.48
+			xmax = 10.51
+			text = "0"
+		intervals [6]:
+			xmin = 10.51
+			xmax = 24.3
+			text = ""
+		intervals [7]:
+			xmin = 24.3
+			xmax = 24.52
+			text = "0"
+		intervals [8]:
+			xmin = 24.52
+			xmax = 31.8
+			text = ""
+		intervals [9]:
+			xmin = 31.8
+			xmax = 31.84
+			text = "0"
+		intervals [10]:
+			xmin = 31.84
+			xmax = 40.87
+			text = ""
+		intervals [11]:
+			xmin = 40.87
+			xmax = 41.32
+			text = "0"
+		intervals [12]:
+			xmin = 41.32
+			xmax = 50.08
+			text = ""
+		intervals [13]:
+			xmin = 50.08
+			xmax = 51.2
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 51.2
+		intervals: size = 13
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.81
+			text = "0"
+		intervals [2]:
+			xmin = 0.81
+			xmax = 7.56
+			text = "communication ni bagwi, u koreanrog, borogni bhasha bai simi no paiya."
+		intervals [3]:
+			xmin = 7.56
+			xmax = 7.64
+			text = "0"
+		intervals [4]:
+			xmin = 7.64
+			xmax = 9.48
+			text = "aboto borogni aro simise wngnai"
+		intervals [5]:
+			xmin = 9.48
+			xmax = 10.51
+			text = "0"
+		intervals [6]:
+			xmin = 10.51
+			xmax = 24.3
+			text = "tabuk nini instant translator phai sok phai thangkha, abo khunju o thepakha wngkheno wngo,tabuk romdi nwng a kokborok o sawi tongkha kokborok manya ang, chinese language simi se mano ang khoroksa chinese."
+		intervals [7]:
+			xmin = 24.3
+			xmax = 24.52
+			text = "0"
+		intervals [8]:
+			xmin = 24.52
+			xmax = 31.8
+			text = "wngkhei o jagao software khlai dajak tongkha, hwnkei nwng kokborok bai saphano ang khnaphro hwnkhei ang chinese kok phano khnanai"
+		intervals [9]:
+			xmin = 31.8
+			xmax = 31.84
+			text = "0"
+		intervals [10]:
+			xmin = 31.84
+			xmax = 40.87
+			text = "sure it is development IT information technology, ei information technology it is english based"
+		intervals [11]:
+			xmin = 40.87
+			xmax = 41.32
+			text = "0"
+		intervals [12]:
+			xmin = 41.32
+			xmax = 50.08
+			text = "information technologyrogno je bhasha tabok porjonto grohon accept khlai maya kho ebong used o tubui maya kho they are running behind"
+		intervals [13]:
+			xmin = 50.08
+			xmax = 51.2
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 51.2
+		intervals: size = 13
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.81
+			text = "0"
+		intervals [2]:
+			xmin = 0.81
+			xmax = 7.56
+			text = ""
+		intervals [3]:
+			xmin = 7.56
+			xmax = 7.64
+			text = "0"
+		intervals [4]:
+			xmin = 7.64
+			xmax = 9.48
+			text = ""
+		intervals [5]:
+			xmin = 9.48
+			xmax = 10.51
+			text = "0"
+		intervals [6]:
+			xmin = 10.51
+			xmax = 24.3
+			text = ""
+		intervals [7]:
+			xmin = 24.3
+			xmax = 24.52
+			text = "0"
+		intervals [8]:
+			xmin = 24.52
+			xmax = 31.8
+			text = ""
+		intervals [9]:
+			xmin = 31.8
+			xmax = 31.84
+			text = "0"
+		intervals [10]:
+			xmin = 31.84
+			xmax = 40.87
+			text = ""
+		intervals [11]:
+			xmin = 40.87
+			xmax = 41.32
+			text = "0"
+		intervals [12]:
+			xmin = 41.32
+			xmax = 50.08
+			text = ""
+		intervals [13]:
+			xmin = 50.08
+			xmax = 51.2
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 51.2
+		intervals: size = 13
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.81
+			text = "0"
+		intervals [2]:
+			xmin = 0.81
+			xmax = 7.56
+			text = ""
+		intervals [3]:
+			xmin = 7.56
+			xmax = 7.64
+			text = "0"
+		intervals [4]:
+			xmin = 7.64
+			xmax = 9.48
+			text = ""
+		intervals [5]:
+			xmin = 9.48
+			xmax = 10.51
+			text = "0"
+		intervals [6]:
+			xmin = 10.51
+			xmax = 24.3
+			text = ""
+		intervals [7]:
+			xmin = 24.3
+			xmax = 24.52
+			text = "0"
+		intervals [8]:
+			xmin = 24.52
+			xmax = 31.8
+			text = ""
+		intervals [9]:
+			xmin = 31.8
+			xmax = 31.84
+			text = "0"
+		intervals [10]:
+			xmin = 31.84
+			xmax = 40.87
+			text = ""
+		intervals [11]:
+			xmin = 40.87
+			xmax = 41.32
+			text = "0"
+		intervals [12]:
+			xmin = 41.32
+			xmax = 50.08
+			text = ""
+		intervals [13]:
+			xmin = 50.08
+			xmax = 51.2
+			text = "0"

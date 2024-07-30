@@ -1,0 +1,176 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 43.5
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 43.5
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.04
+			text = "0"
+		intervals [2]:
+			xmin = 0.04
+			xmax = 15.84
+			text = ""
+		intervals [3]:
+			xmin = 15.84
+			xmax = 15.95
+			text = "0"
+		intervals [4]:
+			xmin = 15.95
+			xmax = 29.84
+			text = ""
+		intervals [5]:
+			xmin = 29.84
+			xmax = 30.03
+			text = "0"
+		intervals [6]:
+			xmin = 30.03
+			xmax = 36.9
+			text = ""
+		intervals [7]:
+			xmin = 36.9
+			xmax = 36.92
+			text = "0"
+		intervals [8]:
+			xmin = 36.92
+			xmax = 40.71
+			text = ""
+		intervals [9]:
+			xmin = 40.71
+			xmax = 43.5
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 43.5
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.04
+			text = "0"
+		intervals [2]:
+			xmin = 0.04
+			xmax = 15.84
+			text = ""
+		intervals [3]:
+			xmin = 15.84
+			xmax = 15.95
+			text = "0"
+		intervals [4]:
+			xmin = 15.95
+			xmax = 29.84
+			text = ""
+		intervals [5]:
+			xmin = 29.84
+			xmax = 30.03
+			text = "0"
+		intervals [6]:
+			xmin = 30.03
+			xmax = 36.9
+			text = ""
+		intervals [7]:
+			xmin = 36.9
+			xmax = 36.92
+			text = "0"
+		intervals [8]:
+			xmin = 36.92
+			xmax = 40.71
+			text = ""
+		intervals [9]:
+			xmin = 40.71
+			xmax = 43.5
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 43.5
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.04
+			text = "0"
+		intervals [2]:
+			xmin = 0.04
+			xmax = 15.84
+			text = "hwnke takhuk saiman khana, je bahai khe tongna nang, hinke abono no chwngbw teisa jora rwlai sinw je o social distance hwnwi sini je barot ha kotoro bo tabok chwng rwjagwi tongmani hwnke omo je bwswk joratwi important   amono kisa saimana muchungo."
+		intervals [3]:
+			xmin = 15.84
+			xmax = 15.95
+			text = "0"
+		intervals [4]:
+			xmin = 15.95
+			xmax = 29.84
+			text = "social distance ni importance swng puila aswk ke india-wo kirilaimung phai kha,chwng jokhon u italy-wo je patientrog kwbangma ek din por por aswk hajar hajar phaimani pore-wo onek kirilai kha."
+		intervals [5]:
+			xmin = 29.84
+			xmax = 30.03
+			text = "0"
+		intervals [6]:
+			xmin = 30.03
+			xmax = 36.9
+			text = "hinke aro social distancing borokrog nukjak kha aswk maintain khaiya agwino borogni aro belai solo kha a problem."
+		intervals [7]:
+			xmin = 36.9
+			xmax = 36.92
+			text = "0"
+		intervals [8]:
+			xmin = 36.92
+			xmax = 40.71
+			text = "hinke india to onehundred thirty korors."
+		intervals [9]:
+			xmin = 40.71
+			xmax = 43.5
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 43.5
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.04
+			text = "0"
+		intervals [2]:
+			xmin = 0.04
+			xmax = 15.84
+			text = ""
+		intervals [3]:
+			xmin = 15.84
+			xmax = 15.95
+			text = "0"
+		intervals [4]:
+			xmin = 15.95
+			xmax = 29.84
+			text = ""
+		intervals [5]:
+			xmin = 29.84
+			xmax = 30.03
+			text = "0"
+		intervals [6]:
+			xmin = 30.03
+			xmax = 36.9
+			text = ""
+		intervals [7]:
+			xmin = 36.9
+			xmax = 36.92
+			text = "0"
+		intervals [8]:
+			xmin = 36.92
+			xmax = 40.71
+			text = ""
+		intervals [9]:
+			xmin = 40.71
+			xmax = 43.5
+			text = "0"

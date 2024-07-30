@@ -1,0 +1,108 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 45.8
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Latin-gloss"
+		xmin = 0.0
+		xmax = 45.8
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.2
+			text = "0"
+		intervals [2]:
+			xmin = 1.2
+			xmax = 7.7
+			text = ""
+		intervals [3]:
+			xmin = 7.7
+			xmax = 8.5
+			text = "0"
+		intervals [4]:
+			xmin = 8.5
+			xmax = 11.6
+			text = ""
+		intervals [5]:
+			xmin = 11.6
+			xmax = 11.9
+			text = "0"
+		intervals [6]:
+			xmin = 11.9
+			xmax = 23.6
+			text = ""
+		intervals [7]:
+			xmin = 23.6
+			xmax = 23.9
+			text = "0"
+		intervals [8]:
+			xmin = 23.9
+			xmax = 35.6
+			text = ""
+		intervals [9]:
+			xmin = 35.6
+			xmax = 36.2
+			text = "0"
+		intervals [10]:
+			xmin = 36.2
+			xmax = 44.2
+			text = ""
+		intervals [11]:
+			xmin = 44.2
+			xmax = 45.8
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 45.8
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.2
+			text = "0"
+		intervals [2]:
+			xmin = 1.2
+			xmax = 7.7
+			text = ""
+		intervals [3]:
+			xmin = 7.7
+			xmax = 8.5
+			text = "0"
+		intervals [4]:
+			xmin = 8.5
+			xmax = 11.6
+			text = ""
+		intervals [5]:
+			xmin = 11.6
+			xmax = 11.9
+			text = "0"
+		intervals [6]:
+			xmin = 11.9
+			xmax = 23.6
+			text = ""
+		intervals [7]:
+			xmin = 23.6
+			xmax = 23.9
+			text = "0"
+		intervals [8]:
+			xmin = 23.9
+			xmax = 35.6
+			text = ""
+		intervals [9]:
+			xmin = 35.6
+			xmax = 36.2
+			text = "0"
+		intervals [10]:
+			xmin = 36.2
+			xmax = 44.2
+			text = ""
+		intervals [11]:
+			xmin = 44.2
+			xmax = 45.8
+			text = "0"

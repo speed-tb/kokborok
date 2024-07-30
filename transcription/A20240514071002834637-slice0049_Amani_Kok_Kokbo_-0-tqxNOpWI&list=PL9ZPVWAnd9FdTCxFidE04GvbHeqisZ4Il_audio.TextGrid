@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 22.3
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 22.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.9
+			text = "0"
+		intervals [2]:
+			xmin = 1.9
+			xmax = 8.8
+			text = ""
+		intervals [3]:
+			xmin = 8.8
+			xmax = 9.0
+			text = "0"
+		intervals [4]:
+			xmin = 9.0
+			xmax = 21.11
+			text = ""
+		intervals [5]:
+			xmin = 21.11
+			xmax = 22.3
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 22.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.9
+			text = "0"
+		intervals [2]:
+			xmin = 1.9
+			xmax = 8.8
+			text = "omtwi khlaiwi no wansukma phai sokphaio,hwnkhe aphru chwng teisa torkha,lokha,porekha, sikha, mokol kiyokha."
+		intervals [3]:
+			xmin = 8.8
+			xmax = 9.0
+			text = "0"
+		intervals [4]:
+			xmin = 9.0
+			xmax = 21.11
+			text = "aphro khe mani kokno teibo kaham khlai hamjakna bo rungkha,rwchabmungbo suilaikha, hwnke suilaite suilaite, rwchablaite rwchablaite,tabokto tripura hao chung sawi mano je,"
+		intervals [5]:
+			xmin = 21.11
+			xmax = 22.3
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 22.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.9
+			text = "0"
+		intervals [2]:
+			xmin = 1.9
+			xmax = 8.8
+			text = ""
+		intervals [3]:
+			xmin = 8.8
+			xmax = 9.0
+			text = "0"
+		intervals [4]:
+			xmin = 9.0
+			xmax = 21.11
+			text = ""
+		intervals [5]:
+			xmin = 21.11
+			xmax = 22.3
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 22.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.9
+			text = "0"
+		intervals [2]:
+			xmin = 1.9
+			xmax = 8.8
+			text = ""
+		intervals [3]:
+			xmin = 8.8
+			xmax = 9.0
+			text = "0"
+		intervals [4]:
+			xmin = 9.0
+			xmax = 21.11
+			text = ""
+		intervals [5]:
+			xmin = 21.11
+			xmax = 22.3
+			text = "0"

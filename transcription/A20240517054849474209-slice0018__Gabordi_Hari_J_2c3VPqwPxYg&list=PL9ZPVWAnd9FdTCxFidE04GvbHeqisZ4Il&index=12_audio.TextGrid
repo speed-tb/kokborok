@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 20.937551020408165
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 20.937551020408165
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.91
+			text = "0"
+		intervals [2]:
+			xmin = 1.91
+			xmax = 12.16
+			text = ""
+		intervals [3]:
+			xmin = 12.16
+			xmax = 12.32
+			text = "0"
+		intervals [4]:
+			xmin = 12.32
+			xmax = 17.78
+			text = ""
+		intervals [5]:
+			xmin = 17.78
+			xmax = 20.937551020408165
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 20.937551020408165
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.91
+			text = "0"
+		intervals [2]:
+			xmin = 1.91
+			xmax = 12.16
+			text = "Je puila kaikha aphru hwnkha wngkhe to satung khorani bagwinai mai aswk  kaham khei ukoi manliya. Karon tabuk watwi phaise o mai tei kisa chabai sio."
+		intervals [3]:
+			xmin = 12.16
+			xmax = 12.32
+			text = "0"
+		intervals [4]:
+			xmin = 12.32
+			xmax = 17.78
+			text = "Tubu mutamuti wngkha mai to aswk kharap liya mai to kahamno wngkha."
+		intervals [5]:
+			xmin = 17.78
+			xmax = 20.937551020408165
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 20.937551020408165
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.91
+			text = "0"
+		intervals [2]:
+			xmin = 1.91
+			xmax = 12.16
+			text = ""
+		intervals [3]:
+			xmin = 12.16
+			xmax = 12.32
+			text = "0"
+		intervals [4]:
+			xmin = 12.32
+			xmax = 17.78
+			text = ""
+		intervals [5]:
+			xmin = 17.78
+			xmax = 20.937551020408165
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 20.937551020408165
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.91
+			text = "0"
+		intervals [2]:
+			xmin = 1.91
+			xmax = 12.16
+			text = ""
+		intervals [3]:
+			xmin = 12.16
+			xmax = 12.32
+			text = "0"
+		intervals [4]:
+			xmin = 12.32
+			xmax = 17.78
+			text = ""
+		intervals [5]:
+			xmin = 17.78
+			xmax = 20.937551020408165
+			text = "0"

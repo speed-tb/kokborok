@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 17.6
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 17.6
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.6
+			text = "0"
+		intervals [2]:
+			xmin = 0.6
+			xmax = 7.35
+			text = ""
+		intervals [3]:
+			xmin = 7.35
+			xmax = 7.84
+			text = "0"
+		intervals [4]:
+			xmin = 7.84
+			xmax = 16.6
+			text = ""
+		intervals [5]:
+			xmin = 16.6
+			xmax = 17.6
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 17.6
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.6
+			text = "0"
+		intervals [2]:
+			xmin = 0.6
+			xmax = 7.35
+			text = ""
+		intervals [3]:
+			xmin = 7.35
+			xmax = 7.84
+			text = "0"
+		intervals [4]:
+			xmin = 7.84
+			xmax = 16.6
+			text = ""
+		intervals [5]:
+			xmin = 16.6
+			xmax = 17.6
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 17.6
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.6
+			text = "0"
+		intervals [2]:
+			xmin = 0.6
+			xmax = 7.35
+			text = "Aboni bagwi je choba chwng khlaiwi tongo, aro kwplai wngnani jora simise nai tongo."
+		intervals [3]:
+			xmin = 7.35
+			xmax = 7.84
+			text = "0"
+		intervals [4]:
+			xmin = 7.84
+			xmax = 16.6
+			text = "Age o Osa mwtai nogo, ama no naina bagwi nainairog belai khe kwbang khe kuthum laio sana thang khe,"
+		intervals [5]:
+			xmin = 16.6
+			xmax = 17.6
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 17.6
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.6
+			text = "0"
+		intervals [2]:
+			xmin = 0.6
+			xmax = 7.35
+			text = ""
+		intervals [3]:
+			xmin = 7.35
+			xmax = 7.84
+			text = "0"
+		intervals [4]:
+			xmin = 7.84
+			xmax = 16.6
+			text = ""
+		intervals [5]:
+			xmin = 16.6
+			xmax = 17.6
+			text = "0"

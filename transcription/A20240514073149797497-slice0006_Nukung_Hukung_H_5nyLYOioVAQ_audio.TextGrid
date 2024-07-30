@@ -1,0 +1,208 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 125.6
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 125.6
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.1
+			text = "0"
+		intervals [2]:
+			xmin = 1.1
+			xmax = 24.4
+			text = ""
+		intervals [3]:
+			xmin = 24.4
+			xmax = 24.6
+			text = "0"
+		intervals [4]:
+			xmin = 24.6
+			xmax = 57.7
+			text = ""
+		intervals [5]:
+			xmin = 57.7
+			xmax = 57.9
+			text = "0"
+		intervals [6]:
+			xmin = 57.9
+			xmax = 85.0
+			text = ""
+		intervals [7]:
+			xmin = 85.0
+			xmax = 85.6
+			text = "0"
+		intervals [8]:
+			xmin = 85.6
+			xmax = 109.2
+			text = ""
+		intervals [9]:
+			xmin = 109.2
+			xmax = 109.8
+			text = "0"
+		intervals [10]:
+			xmin = 109.8
+			xmax = 124.4
+			text = ""
+		intervals [11]:
+			xmin = 124.4
+			xmax = 125.6
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 125.6
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.1
+			text = "0"
+		intervals [2]:
+			xmin = 1.1
+			xmax = 24.4
+			text = ""
+		intervals [3]:
+			xmin = 24.4
+			xmax = 24.6
+			text = "0"
+		intervals [4]:
+			xmin = 24.6
+			xmax = 57.7
+			text = ""
+		intervals [5]:
+			xmin = 57.7
+			xmax = 57.9
+			text = "0"
+		intervals [6]:
+			xmin = 57.9
+			xmax = 85.0
+			text = ""
+		intervals [7]:
+			xmin = 85.0
+			xmax = 85.6
+			text = "0"
+		intervals [8]:
+			xmin = 85.6
+			xmax = 109.2
+			text = ""
+		intervals [9]:
+			xmin = 109.2
+			xmax = 109.8
+			text = "0"
+		intervals [10]:
+			xmin = 109.8
+			xmax = 124.4
+			text = ""
+		intervals [11]:
+			xmin = 124.4
+			xmax = 125.6
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 125.6
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.1
+			text = "0"
+		intervals [2]:
+			xmin = 1.1
+			xmax = 24.4
+			text = "Hwnkai chwng romwi mano soita rignai eba sari man nani hwnkai chwng pondro dinrog somoi nango haisi bla na?  bukhuk Juti ang nini thani o kisa bara khlai swngna muchungo, je norok khwtwng paiwi tubukha, aboni ulo je nogo puila tamo khlaina nang kaisa ri swngnani hwnkhe, tei paithak jora tamo khlaina nang omo kisa chwnbgnai sai khna rwdi."
+		intervals [3]:
+			xmin = 24.4
+			xmax = 24.6
+			text = "0"
+		intervals [4]:
+			xmin = 24.6
+			xmax = 57.7
+			text = "Pai tobo ha wngkhe pwila bobi no dul nagra w. Bobi o dulha wngkhe, obono hino bobi na? Oro dulwi nao, misin tongw boni, duljaknai ta, ruwang bai khe natai hinta bobai dulo. Wngkhe bono dulpaiha wngkhe, oro bedok phaio, oroni wngkhe oro tobo wo,boni pore khe yang swngha ta. Oboni ulo khei boni ulo khe dulwi hai chini tat misin o bedok phiwo. Boni pore khe nalrog saiwi tou laha ta."
+		intervals [5]:
+			xmin = 57.7
+			xmax = 57.9
+			text = "0"
+		intervals [6]:
+			xmin = 57.9
+			xmax = 85.0
+			text = "Tei kaisa wngkhe nong oro ang je nukmani obo plein plein tago norok. Je chini tak borokni je bwthai bumul tongmani abono norok oro kholwi tagwi manya da? Wle tau ma wo haiphano yau bai kholwi ma tak ha ta nal romaya ta. O yak bai khol kholwi. Yau bai bwthai swna swnawi ma tau w ta.Obo bo da norok oro tak mani? Ih omobo yak bainw. Obo yago takmahaino wngkha bla. I kwplasarog norok oro tagwi mano? Tau manw."
+		intervals [7]:
+			xmin = 85.0
+			xmax = 85.6
+			text = "0"
+		intervals [8]:
+			xmin = 85.6
+			xmax = 109.2
+			text = "Kosto mao ta, tei kisa kosto wngo na? Plein takma sai ba tei kisa kosto.Haiphano norok je chini nogo agi je takmani tat tamo hinai chini takborok oboni sai to tei kisa kwlai wngna, na obo haino? Omo bwthai roi tongphro khe bo kosto haiphano u tauphro khe do w. U bwsak takphro khe do ta."
+		intervals [9]:
+			xmin = 109.2
+			xmax = 109.8
+			text = "0"
+		intervals [10]:
+			xmin = 109.8
+			xmax = 124.4
+			text = "Wngkai je chwng to nong oro mesin je nukmani tat, je nukmani joto no eki sais nugo, wngkai omo takna bagwi khe juda mesin de nang na o kotor o no tagwi mano? Oro no tako. Kotor bo tagwi mano chikon bo tagwi mano."
+		intervals [11]:
+			xmin = 124.4
+			xmax = 125.6
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 125.6
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.1
+			text = "0"
+		intervals [2]:
+			xmin = 1.1
+			xmax = 24.4
+			text = ""
+		intervals [3]:
+			xmin = 24.4
+			xmax = 24.6
+			text = "0"
+		intervals [4]:
+			xmin = 24.6
+			xmax = 57.7
+			text = ""
+		intervals [5]:
+			xmin = 57.7
+			xmax = 57.9
+			text = "0"
+		intervals [6]:
+			xmin = 57.9
+			xmax = 85.0
+			text = ""
+		intervals [7]:
+			xmin = 85.0
+			xmax = 85.6
+			text = "0"
+		intervals [8]:
+			xmin = 85.6
+			xmax = 109.2
+			text = ""
+		intervals [9]:
+			xmin = 109.2
+			xmax = 109.8
+			text = "0"
+		intervals [10]:
+			xmin = 109.8
+			xmax = 124.4
+			text = ""
+		intervals [11]:
+			xmin = 124.4
+			xmax = 125.6
+			text = "0"

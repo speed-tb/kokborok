@@ -1,0 +1,160 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 68.2
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 68.2
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.08
+			text = "0"
+		intervals [2]:
+			xmin = 1.08
+			xmax = 16.15
+			text = ""
+		intervals [3]:
+			xmin = 16.15
+			xmax = 16.57
+			text = "0"
+		intervals [4]:
+			xmin = 16.57
+			xmax = 26.38
+			text = ""
+		intervals [5]:
+			xmin = 26.38
+			xmax = 26.62
+			text = "0"
+		intervals [6]:
+			xmin = 26.62
+			xmax = 40.68
+			text = ""
+		intervals [7]:
+			xmin = 40.68
+			xmax = 42.83
+			text = "0"
+		intervals [8]:
+			xmin = 42.83
+			xmax = 68.2
+			text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 68.2
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.08
+			text = "0"
+		intervals [2]:
+			xmin = 1.08
+			xmax = 16.15
+			text = "Tabok khe tangwi talangwi phal lai liya? Somoi kwrwi yang bai yang bai tei pailaiya wng phai kha bla samwng kwbangma khwlai tongbla am bagwi.  Sema o wngkhe jaga kom khalaio tak khe teibo kwbang? Bit kwbang."
+		intervals [3]:
+			xmin = 16.15
+			xmax = 16.57
+			text = "0"
+		intervals [4]:
+			xmin = 16.57
+			xmax = 26.38
+			text = "Nwng je sai khwna rw kha nin oro kam khwlainairog khorok bwswk tong borok? Borog dos baro jona tongo. Borog regular no tango."
+		intervals [5]:
+			xmin = 26.38
+			xmax = 26.62
+			text = "0"
+		intervals [6]:
+			xmin = 26.62
+			xmax = 40.68
+			text = "Borogno khe mas hisap de beton rwna? Deli. Bwswk rwsa borogno? Bwrwirogno riro tinso saro tinso,tabuk dam bari kha hwnwi nai agi khai tinso khe rimani. Hwnkhe chwlarogbo agi khe panso khe rimani tak khe soiso."
+		intervals [7]:
+			xmin = 40.68
+			xmax = 42.83
+			text = "0"
+		intervals [8]:
+			xmin = 42.83
+			xmax = 68.2
+			text = "Chwlarog khe tamo samung khwlai bwrwirog khe tamo samung khwlai? Bebakno  samung je sol mani aborogno wngka khe bwrwirogno sol rwka, o hakur khwlaimarogno wngka khe ba chwlarogno khwlai rwka. samung kwrakno hwnka khe chwlarogno khwlai rw kha ta. U je char tangmarog khe, aborog khe babakno chwlarog mang amo. Bwrwirog khe u chara kainani,wa rwka nani, aborogno khe rwrw kha ta borogno. Norom samung ta muskhirog rwka nani omo hai."
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 68.2
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.08
+			text = "0"
+		intervals [2]:
+			xmin = 1.08
+			xmax = 16.15
+			text = ""
+		intervals [3]:
+			xmin = 16.15
+			xmax = 16.57
+			text = "0"
+		intervals [4]:
+			xmin = 16.57
+			xmax = 26.38
+			text = ""
+		intervals [5]:
+			xmin = 26.38
+			xmax = 26.62
+			text = "0"
+		intervals [6]:
+			xmin = 26.62
+			xmax = 40.68
+			text = ""
+		intervals [7]:
+			xmin = 40.68
+			xmax = 42.83
+			text = "0"
+		intervals [8]:
+			xmin = 42.83
+			xmax = 68.2
+			text = ""
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 68.2
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.08
+			text = "0"
+		intervals [2]:
+			xmin = 1.08
+			xmax = 16.15
+			text = ""
+		intervals [3]:
+			xmin = 16.15
+			xmax = 16.57
+			text = "0"
+		intervals [4]:
+			xmin = 16.57
+			xmax = 26.38
+			text = ""
+		intervals [5]:
+			xmin = 26.38
+			xmax = 26.62
+			text = "0"
+		intervals [6]:
+			xmin = 26.62
+			xmax = 40.68
+			text = ""
+		intervals [7]:
+			xmin = 40.68
+			xmax = 42.83
+			text = "0"
+		intervals [8]:
+			xmin = 42.83
+			xmax = 68.2
+			text = ""

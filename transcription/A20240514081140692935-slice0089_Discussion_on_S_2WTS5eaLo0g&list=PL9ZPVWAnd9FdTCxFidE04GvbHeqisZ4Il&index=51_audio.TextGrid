@@ -1,0 +1,144 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 10.9
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 10.9
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.92
+			text = "0"
+		intervals [2]:
+			xmin = 0.92
+			xmax = 2.45
+			text = ""
+		intervals [3]:
+			xmin = 2.45
+			xmax = 2.9
+			text = "0"
+		intervals [4]:
+			xmin = 2.9
+			xmax = 6.65
+			text = ""
+		intervals [5]:
+			xmin = 6.65
+			xmax = 7.09
+			text = "0"
+		intervals [6]:
+			xmin = 7.09
+			xmax = 9.85
+			text = ""
+		intervals [7]:
+			xmin = 9.85
+			xmax = 10.9
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 10.9
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.92
+			text = "0"
+		intervals [2]:
+			xmin = 0.92
+			xmax = 2.45
+			text = "khaja naithokma nukha"
+		intervals [3]:
+			xmin = 2.45
+			xmax = 2.9
+			text = "0"
+		intervals [4]:
+			xmin = 2.9
+			xmax = 6.65
+			text = "kwchak pali bo soriwi naikha, khaja chwnama nukha"
+		intervals [5]:
+			xmin = 6.65
+			xmax = 7.09
+			text = "0"
+		intervals [6]:
+			xmin = 7.09
+			xmax = 9.85
+			text = "iko tabukhai risa koromo khajao boni phai kha"
+		intervals [7]:
+			xmin = 9.85
+			xmax = 10.9
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 10.9
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.92
+			text = "0"
+		intervals [2]:
+			xmin = 0.92
+			xmax = 2.45
+			text = ""
+		intervals [3]:
+			xmin = 2.45
+			xmax = 2.9
+			text = "0"
+		intervals [4]:
+			xmin = 2.9
+			xmax = 6.65
+			text = ""
+		intervals [5]:
+			xmin = 6.65
+			xmax = 7.09
+			text = "0"
+		intervals [6]:
+			xmin = 7.09
+			xmax = 9.85
+			text = ""
+		intervals [7]:
+			xmin = 9.85
+			xmax = 10.9
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 10.9
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.92
+			text = "0"
+		intervals [2]:
+			xmin = 0.92
+			xmax = 2.45
+			text = ""
+		intervals [3]:
+			xmin = 2.45
+			xmax = 2.9
+			text = "0"
+		intervals [4]:
+			xmin = 2.9
+			xmax = 6.65
+			text = ""
+		intervals [5]:
+			xmin = 6.65
+			xmax = 7.09
+			text = "0"
+		intervals [6]:
+			xmin = 7.09
+			xmax = 9.85
+			text = ""
+		intervals [7]:
+			xmin = 9.85
+			xmax = 10.9
+			text = "0"

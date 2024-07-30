@@ -1,0 +1,44 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 11.574013605442177
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Latin-gloss"
+		xmin = 0.0
+		xmax = 11.574013605442177
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 4.77
+			text = "0"
+		intervals [2]:
+			xmin = 4.77
+			xmax = 11.45
+			text = ""
+		intervals [3]:
+			xmin = 11.45
+			xmax = 11.574013605442177
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 11.574013605442177
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 4.77
+			text = "0"
+		intervals [2]:
+			xmin = 4.77
+			xmax = 11.45
+			text = "Kok kwcharo nwng kwsrang wng di, samwng khwlai di, Kaitor nono hamari rwnai."
+		intervals [3]:
+			xmin = 11.45
+			xmax = 11.574013605442177
+			text = "0"

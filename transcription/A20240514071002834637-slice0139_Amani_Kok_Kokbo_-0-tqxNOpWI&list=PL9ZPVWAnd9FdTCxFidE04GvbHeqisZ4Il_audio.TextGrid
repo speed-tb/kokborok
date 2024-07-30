@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 10.4
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 10.4
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.18
+			text = "0"
+		intervals [2]:
+			xmin = 1.18
+			xmax = 4.97
+			text = ""
+		intervals [3]:
+			xmin = 4.97
+			xmax = 6.32
+			text = "0"
+		intervals [4]:
+			xmin = 6.32
+			xmax = 9.21
+			text = ""
+		intervals [5]:
+			xmin = 9.21
+			xmax = 10.4
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 10.4
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.18
+			text = "0"
+		intervals [2]:
+			xmin = 1.18
+			xmax = 4.97
+			text = "bini short comings tongo, tamo bagwi hinkakei"
+		intervals [3]:
+			xmin = 4.97
+			xmax = 6.32
+			text = "0"
+		intervals [4]:
+			xmin = 6.32
+			xmax = 9.21
+			text = "aboni dui tinta reason tongwi mano"
+		intervals [5]:
+			xmin = 9.21
+			xmax = 10.4
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 10.4
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.18
+			text = "0"
+		intervals [2]:
+			xmin = 1.18
+			xmax = 4.97
+			text = ""
+		intervals [3]:
+			xmin = 4.97
+			xmax = 6.32
+			text = "0"
+		intervals [4]:
+			xmin = 6.32
+			xmax = 9.21
+			text = ""
+		intervals [5]:
+			xmin = 9.21
+			xmax = 10.4
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 10.4
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.18
+			text = "0"
+		intervals [2]:
+			xmin = 1.18
+			xmax = 4.97
+			text = ""
+		intervals [3]:
+			xmin = 4.97
+			xmax = 6.32
+			text = "0"
+		intervals [4]:
+			xmin = 6.32
+			xmax = 9.21
+			text = ""
+		intervals [5]:
+			xmin = 9.21
+			xmax = 10.4
+			text = "0"

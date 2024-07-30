@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 29.9
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Latin-gloss"
+		xmin = 0.0
+		xmax = 29.9
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.9
+			text = "0"
+		intervals [2]:
+			xmin = 1.9
+			xmax = 7.19
+			text = ""
+		intervals [3]:
+			xmin = 7.19
+			xmax = 8.64
+			text = "0"
+		intervals [4]:
+			xmin = 8.64
+			xmax = 21.38
+			text = ""
+		intervals [5]:
+			xmin = 21.38
+			xmax = 23.9
+			text = "0"
+		intervals [6]:
+			xmin = 23.9
+			xmax = 28.67
+			text = ""
+		intervals [7]:
+			xmin = 28.67
+			xmax = 29.9
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 29.9
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.9
+			text = "0"
+		intervals [2]:
+			xmin = 1.9
+			xmax = 7.19
+			text = "Bada prato hwnba bo jaga nini kebengmung phaikuk? Yongsa khuksa o da na twi o da bo jaga o?"
+		intervals [3]:
+			xmin = 7.19
+			xmax = 8.64
+			text = "0"
+		intervals [4]:
+			xmin = 8.64
+			xmax = 21.38
+			text = "Twio bo tongo, yongsa khuksao bo tongo omo hai ta rukrog phaibla. Bobo hai rukrog? Bedek, khaksa khe kwthang khaksa khe thwi thango omo hai bagano kwbangma no tongo."
+		intervals [5]:
+			xmin = 21.38
+			xmax = 23.9
+			text = "0"
+		intervals [6]:
+			xmin = 23.9
+			xmax = 28.67
+			text = "Khaksa bedek thwi thango, bwthai gwnangno tini no nuk kha ang kwbangma no."
+		intervals [7]:
+			xmin = 28.67
+			xmax = 29.9
+			text = "0"

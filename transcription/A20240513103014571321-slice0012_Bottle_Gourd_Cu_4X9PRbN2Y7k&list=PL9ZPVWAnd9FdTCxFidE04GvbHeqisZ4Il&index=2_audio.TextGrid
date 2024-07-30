@@ -1,0 +1,108 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 83.0
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Latin-gloss"
+		xmin = 0.0
+		xmax = 83.0
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 18.35
+			text = "0"
+		intervals [2]:
+			xmin = 18.35
+			xmax = 29.12
+			text = ""
+		intervals [3]:
+			xmin = 29.12
+			xmax = 30.59
+			text = "0"
+		intervals [4]:
+			xmin = 30.59
+			xmax = 33.24
+			text = ""
+		intervals [5]:
+			xmin = 33.24
+			xmax = 33.39
+			text = "0"
+		intervals [6]:
+			xmin = 33.39
+			xmax = 37.53
+			text = ""
+		intervals [7]:
+			xmin = 37.53
+			xmax = 38.15
+			text = "0"
+		intervals [8]:
+			xmin = 38.15
+			xmax = 63.2
+			text = ""
+		intervals [9]:
+			xmin = 63.2
+			xmax = 76.54
+			text = "0"
+		intervals [10]:
+			xmin = 76.54
+			xmax = 80.3
+			text = ""
+		intervals [11]:
+			xmin = 80.3
+			xmax = 83.0
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 83.0
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 18.35
+			text = "0"
+		intervals [2]:
+			xmin = 18.35
+			xmax = 29.12
+			text = "Chwng nugwi mankha tabok o je milokni bagano, kwbangma borog je naikani khalai mani, uklogo borog, hoklaimarog nugwi tong khwna, borog bolongrog hoklai tongo."
+		intervals [3]:
+			xmin = 29.12
+			xmax = 30.59
+			text = "0"
+		intervals [4]:
+			xmin = 30.59
+			xmax = 33.24
+			text = "Sapsutra khe de ton na nang aborogno de sinai?"
+		intervals [5]:
+			xmin = 33.24
+			xmax = 33.39
+			text = "0"
+		intervals [6]:
+			xmin = 33.39
+			xmax = 37.53
+			text = "Wngkhe chini bwskango je, takhuk Orjun bobo haino oro bwlairog khak,"
+		intervals [7]:
+			xmin = 37.53
+			xmax = 38.15
+			text = "0"
+		intervals [8]:
+			xmin = 38.15
+			xmax = 63.2
+			text = "Takhuk je nwng oborog khagwi rwmani, obono khe tangwi khakna nang? omo khakna nangma khai yongrog akorog bathakya, tongya ta, thangbai ta.Oborog  poriskar khe ton kha khe, ei hai hwnwi ma khago. O bwlairogno khak khagwi ma rwo. Sal bwswkni por pore oborogno ma khak? Obo iko nokha dui, tin din ni por pore khagwi ma rw ta, je kormo wngnai bono wngkhe  khagwi rw ta. Dui din por pore ma khago."
+		intervals [9]:
+			xmin = 63.2
+			xmax = 76.54
+			text = "0"
+		intervals [10]:
+			xmin = 76.54
+			xmax = 80.3
+			text = "Milok khalaina thang thani sobse osubida bojaga wng?"
+		intervals [11]:
+			xmin = 80.3
+			xmax = 83.0
+			text = "0"

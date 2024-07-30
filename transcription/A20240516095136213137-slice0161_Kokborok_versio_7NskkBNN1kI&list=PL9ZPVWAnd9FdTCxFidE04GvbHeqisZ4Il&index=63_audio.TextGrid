@@ -1,0 +1,144 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 19.9
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 19.9
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.91
+			text = "0"
+		intervals [2]:
+			xmin = 0.91
+			xmax = 7.96
+			text = ""
+		intervals [3]:
+			xmin = 7.96
+			xmax = 8.26
+			text = "0"
+		intervals [4]:
+			xmin = 8.26
+			xmax = 13.44
+			text = ""
+		intervals [5]:
+			xmin = 13.44
+			xmax = 13.56
+			text = "0"
+		intervals [6]:
+			xmin = 13.56
+			xmax = 18.15
+			text = ""
+		intervals [7]:
+			xmin = 18.15
+			xmax = 19.9
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 19.9
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.91
+			text = "0"
+		intervals [2]:
+			xmin = 0.91
+			xmax = 7.96
+			text = "Sini wi tongkha hwnke, borogni bechebo  kok sadi, swidi tei borogni chasamungno seyar khlai di."
+		intervals [3]:
+			xmin = 7.96
+			xmax = 8.26
+			text = "0"
+		intervals [4]:
+			xmin = 8.26
+			xmax = 13.44
+			text = "Phainai jorani ter rogno, norokno tei nukhungrogni adongrogno belai belai hambai."
+		intervals [5]:
+			xmin = 13.44
+			xmax = 13.56
+			text = "0"
+		intervals [6]:
+			xmin = 13.56
+			xmax = 18.15
+			text = "Phiya ba kaisa kok muitu narwk di,tai ter rogo  mamlai,"
+		intervals [7]:
+			xmin = 18.15
+			xmax = 19.9
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 19.9
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.91
+			text = "0"
+		intervals [2]:
+			xmin = 0.91
+			xmax = 7.96
+			text = ""
+		intervals [3]:
+			xmin = 7.96
+			xmax = 8.26
+			text = "0"
+		intervals [4]:
+			xmin = 8.26
+			xmax = 13.44
+			text = ""
+		intervals [5]:
+			xmin = 13.44
+			xmax = 13.56
+			text = "0"
+		intervals [6]:
+			xmin = 13.56
+			xmax = 18.15
+			text = ""
+		intervals [7]:
+			xmin = 18.15
+			xmax = 19.9
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 19.9
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.91
+			text = "0"
+		intervals [2]:
+			xmin = 0.91
+			xmax = 7.96
+			text = ""
+		intervals [3]:
+			xmin = 7.96
+			xmax = 8.26
+			text = "0"
+		intervals [4]:
+			xmin = 8.26
+			xmax = 13.44
+			text = ""
+		intervals [5]:
+			xmin = 13.44
+			xmax = 13.56
+			text = "0"
+		intervals [6]:
+			xmin = 13.56
+			xmax = 18.15
+			text = ""
+		intervals [7]:
+			xmin = 18.15
+			xmax = 19.9
+			text = "0"

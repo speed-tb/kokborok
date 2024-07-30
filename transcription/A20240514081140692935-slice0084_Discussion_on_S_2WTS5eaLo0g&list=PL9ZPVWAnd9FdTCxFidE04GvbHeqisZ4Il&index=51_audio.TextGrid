@@ -1,0 +1,176 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 20.1
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 20.1
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.9
+			text = "0"
+		intervals [2]:
+			xmin = 0.9
+			xmax = 4.27
+			text = ""
+		intervals [3]:
+			xmin = 4.27
+			xmax = 4.46
+			text = "0"
+		intervals [4]:
+			xmin = 4.46
+			xmax = 8.2
+			text = ""
+		intervals [5]:
+			xmin = 8.2
+			xmax = 8.3
+			text = "0"
+		intervals [6]:
+			xmin = 8.3
+			xmax = 10.68
+			text = ""
+		intervals [7]:
+			xmin = 10.68
+			xmax = 11.27
+			text = "0"
+		intervals [8]:
+			xmin = 11.27
+			xmax = 16.98
+			text = ""
+		intervals [9]:
+			xmin = 16.98
+			xmax = 20.1
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 20.1
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.9
+			text = "0"
+		intervals [2]:
+			xmin = 0.9
+			xmax = 4.27
+			text = "at, kasil, toksil, torkangma maitang bangkhakna rwngma."
+		intervals [3]:
+			xmin = 4.27
+			xmax = 4.46
+			text = "0"
+		intervals [4]:
+			xmin = 4.46
+			xmax = 8.2
+			text = "monai, bengras, toksa rangini, naithokma bara o hani."
+		intervals [5]:
+			xmin = 8.2
+			xmax = 8.3
+			text = "0"
+		intervals [6]:
+			xmin = 8.3
+			xmax = 10.68
+			text = "hapung,hatai, twima twisa jotono tongo chini."
+		intervals [7]:
+			xmin = 10.68
+			xmax = 11.27
+			text = "0"
+		intervals [8]:
+			xmin = 11.27
+			xmax = 16.98
+			text = "belai khwnathok nini o koktang, hano lobwi mangno bisi swle swikuk khna na? hano lobwi no swio."
+		intervals [9]:
+			xmin = 16.98
+			xmax = 20.1
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 20.1
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.9
+			text = "0"
+		intervals [2]:
+			xmin = 0.9
+			xmax = 4.27
+			text = ""
+		intervals [3]:
+			xmin = 4.27
+			xmax = 4.46
+			text = "0"
+		intervals [4]:
+			xmin = 4.46
+			xmax = 8.2
+			text = ""
+		intervals [5]:
+			xmin = 8.2
+			xmax = 8.3
+			text = "0"
+		intervals [6]:
+			xmin = 8.3
+			xmax = 10.68
+			text = ""
+		intervals [7]:
+			xmin = 10.68
+			xmax = 11.27
+			text = "0"
+		intervals [8]:
+			xmin = 11.27
+			xmax = 16.98
+			text = ""
+		intervals [9]:
+			xmin = 16.98
+			xmax = 20.1
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 20.1
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.9
+			text = "0"
+		intervals [2]:
+			xmin = 0.9
+			xmax = 4.27
+			text = ""
+		intervals [3]:
+			xmin = 4.27
+			xmax = 4.46
+			text = "0"
+		intervals [4]:
+			xmin = 4.46
+			xmax = 8.2
+			text = ""
+		intervals [5]:
+			xmin = 8.2
+			xmax = 8.3
+			text = "0"
+		intervals [6]:
+			xmin = 8.3
+			xmax = 10.68
+			text = ""
+		intervals [7]:
+			xmin = 10.68
+			xmax = 11.27
+			text = "0"
+		intervals [8]:
+			xmin = 11.27
+			xmax = 16.98
+			text = ""
+		intervals [9]:
+			xmin = 16.98
+			xmax = 20.1
+			text = "0"

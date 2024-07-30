@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 12.3
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 12.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.44
+			text = "0"
+		intervals [2]:
+			xmin = 2.44
+			xmax = 6.78
+			text = ""
+		intervals [3]:
+			xmin = 6.78
+			xmax = 7.03
+			text = "0"
+		intervals [4]:
+			xmin = 7.03
+			xmax = 11.48
+			text = ""
+		intervals [5]:
+			xmin = 11.48
+			xmax = 12.3
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 12.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.44
+			text = "0"
+		intervals [2]:
+			xmin = 2.44
+			xmax = 6.78
+			text = "Haino bachai berai ta tong bai di loka loka khe,swi ada machaya hai khe, swi mai machaya hai khe."
+		intervals [3]:
+			xmin = 6.78
+			xmax = 7.03
+			text = "0"
+		intervals [4]:
+			xmin = 7.03
+			xmax = 11.48
+			text = "Tongble borok kabang mano, baik chakok wano, guga thangwano nukble."
+		intervals [5]:
+			xmin = 11.48
+			xmax = 12.3
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 12.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.44
+			text = "0"
+		intervals [2]:
+			xmin = 2.44
+			xmax = 6.78
+			text = ""
+		intervals [3]:
+			xmin = 6.78
+			xmax = 7.03
+			text = "0"
+		intervals [4]:
+			xmin = 7.03
+			xmax = 11.48
+			text = ""
+		intervals [5]:
+			xmin = 11.48
+			xmax = 12.3
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 12.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.44
+			text = "0"
+		intervals [2]:
+			xmin = 2.44
+			xmax = 6.78
+			text = ""
+		intervals [3]:
+			xmin = 6.78
+			xmax = 7.03
+			text = "0"
+		intervals [4]:
+			xmin = 7.03
+			xmax = 11.48
+			text = ""
+		intervals [5]:
+			xmin = 11.48
+			xmax = 12.3
+			text = "0"

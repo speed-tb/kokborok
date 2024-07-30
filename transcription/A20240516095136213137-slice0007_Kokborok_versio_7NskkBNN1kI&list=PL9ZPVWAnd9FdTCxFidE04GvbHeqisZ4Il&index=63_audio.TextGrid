@@ -1,0 +1,144 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 26.9
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 26.9
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.9
+			text = "0"
+		intervals [2]:
+			xmin = 0.9
+			xmax = 12.15
+			text = ""
+		intervals [3]:
+			xmin = 12.15
+			xmax = 12.25
+			text = "0"
+		intervals [4]:
+			xmin = 12.25
+			xmax = 15.24
+			text = ""
+		intervals [5]:
+			xmin = 15.24
+			xmax = 15.53
+			text = "0"
+		intervals [6]:
+			xmin = 15.53
+			xmax = 26.12
+			text = ""
+		intervals [7]:
+			xmin = 26.12
+			xmax = 26.9
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 26.9
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.9
+			text = "0"
+		intervals [2]:
+			xmin = 0.9
+			xmax = 12.15
+			text = "Swkango noboratri wo, gujratni ganani gunjo joto bwkhakni twi hohom dodom wng mani. I khepe o kotor kotor pandarog jotono mwthak jak kha."
+		intervals [3]:
+			xmin = 12.15
+			xmax = 12.25
+			text = "0"
+		intervals [4]:
+			xmin = 12.25
+			xmax = 15.24
+			text = "Tabuk bwskango taibo kwbangma ter sok phai nai."
+		intervals [5]:
+			xmin = 15.24
+			xmax = 15.53
+			text = "0"
+		intervals [6]:
+			xmin = 15.53
+			xmax = 26.12
+			text = "Bwskango It tongo, sarak purnima tongo, Balmiki jayanti tai daunteras, Diwali, Baiduts, Sat puja,"
+		intervals [7]:
+			xmin = 26.12
+			xmax = 26.9
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 26.9
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.9
+			text = "0"
+		intervals [2]:
+			xmin = 0.9
+			xmax = 12.15
+			text = ""
+		intervals [3]:
+			xmin = 12.15
+			xmax = 12.25
+			text = "0"
+		intervals [4]:
+			xmin = 12.25
+			xmax = 15.24
+			text = ""
+		intervals [5]:
+			xmin = 15.24
+			xmax = 15.53
+			text = "0"
+		intervals [6]:
+			xmin = 15.53
+			xmax = 26.12
+			text = ""
+		intervals [7]:
+			xmin = 26.12
+			xmax = 26.9
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 26.9
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.9
+			text = "0"
+		intervals [2]:
+			xmin = 0.9
+			xmax = 12.15
+			text = ""
+		intervals [3]:
+			xmin = 12.15
+			xmax = 12.25
+			text = "0"
+		intervals [4]:
+			xmin = 12.25
+			xmax = 15.24
+			text = ""
+		intervals [5]:
+			xmin = 15.24
+			xmax = 15.53
+			text = "0"
+		intervals [6]:
+			xmin = 15.53
+			xmax = 26.12
+			text = ""
+		intervals [7]:
+			xmin = 26.12
+			xmax = 26.9
+			text = "0"

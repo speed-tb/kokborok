@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 19.5
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 19.5
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 4.21
+			text = "0"
+		intervals [2]:
+			xmin = 4.21
+			xmax = 13.84
+			text = ""
+		intervals [3]:
+			xmin = 13.84
+			xmax = 19.5
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 19.5
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 4.21
+			text = "0"
+		intervals [2]:
+			xmin = 4.21
+			xmax = 13.84
+			text = "u swkang puilao je samani, a kobi, kobita jokhon sakha bini bumung bo ma sathai, abo wngkha kahamnuk jamatia,"
+		intervals [3]:
+			xmin = 13.84
+			xmax = 19.5
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 19.5
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 4.21
+			text = "0"
+		intervals [2]:
+			xmin = 4.21
+			xmax = 13.84
+			text = ""
+		intervals [3]:
+			xmin = 13.84
+			xmax = 19.5
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 19.5
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 4.21
+			text = "0"
+		intervals [2]:
+			xmin = 4.21
+			xmax = 13.84
+			text = ""
+		intervals [3]:
+			xmin = 13.84
+			xmax = 19.5
+			text = "0"

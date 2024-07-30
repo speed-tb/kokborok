@@ -1,0 +1,160 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 102.8
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 102.8
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0.0
+			xmax = 3.43
+			text = ""
+		intervals [2]:
+			xmin = 3.43
+			xmax = 3.7
+			text = "0"
+		intervals [3]:
+			xmin = 3.7
+			xmax = 45.6
+			text = ""
+		intervals [4]:
+			xmin = 45.6
+			xmax = 46.3
+			text = "0"
+		intervals [5]:
+			xmin = 46.3
+			xmax = 96.35
+			text = ""
+		intervals [6]:
+			xmin = 96.35
+			xmax = 96.55
+			text = "0"
+		intervals [7]:
+			xmin = 96.55
+			xmax = 99.7
+			text = ""
+		intervals [8]:
+			xmin = 99.7
+			xmax = 102.8
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 102.8
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0.0
+			xmax = 3.43
+			text = "hwnkhe tabok joratwi hwnkhe haikheno porelai tonglaima chao."
+		intervals [2]:
+			xmin = 3.43
+			xmax = 3.7
+			text = "0"
+		intervals [3]:
+			xmin = 3.7
+			xmax = 45.6
+			text = "hinke swng tabok je thaisingo salai tongmani, bajar hatio chwng thangwi phai khe tamo tamorog khaina nang? bajar hathai o thangwi phaikhe aro to tongo dalbidal borok tongo,baniyan khainai borok tongo, rang nakha, manwirog romjakha, hinke a manwirogno nwng mone khaidi bajarni bag phano wngthwng abo satungo dui tin tin din tonma chao ba alada kaisa roomo dui tin din tonma chao,saksobji tubkha hwnkhe kahamkhe sui nama chao,hinke nini richumno bo sui rwma chao, hwnke je nwng rangrog bong bai exchange khaika a rangno nini rang bago tonyawi tei kaisa roomo ba droyaro ba safetyni bagwi envelop kagojoni envelop liphapha o dai dui tin din tonwi mano"
+		intervals [4]:
+			xmin = 45.6
+			xmax = 46.3
+			text = "0"
+		intervals [5]:
+			xmin = 46.3
+			xmax = 96.35
+			text = "hinke ang oro tei kisa swngna muchungma khe a je tongmungno nangwi phaijak rangrogo ba ani ri-wo phano nangwi phai kha, a rino suliya ba romdi kagos tukra ang swlailaina nangkha bithi paiphru phano wngkha,wngkhe aro nangjago abono nogo tonwi rwkha hwnke a je a jagao bairas bwswk joratwi tongna, salbwswk? obono tabok kagojorogno to swng suirog maya,hwnkhe haini bagwi study reportswo tongo, je steelrogo hwnke tindin tongo,kagojo-wo char theke pas din tongwi mano, hwnke katbot-wo jobino tongo katni, katbot hinke aro chobis gonta tongwi mano, hinkhe haini bagwino jehoto kagojo-wo char theke pas dinrog tongwi mano bono char theke pas din chwng kaisa separate roomo tonwi mano. rom di rang phano wngkha a rangno chwng a rangno alada khe tonwi rikha,"
+		intervals [6]:
+			xmin = 96.35
+			xmax = 96.55
+			text = "0"
+		intervals [7]:
+			xmin = 96.55
+			xmax = 99.7
+			text = "hinke chwng tei kaisa kokduk yachak nailaigana hello"
+		intervals [8]:
+			xmin = 99.7
+			xmax = 102.8
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 102.8
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0.0
+			xmax = 3.43
+			text = ""
+		intervals [2]:
+			xmin = 3.43
+			xmax = 3.7
+			text = "0"
+		intervals [3]:
+			xmin = 3.7
+			xmax = 45.6
+			text = ""
+		intervals [4]:
+			xmin = 45.6
+			xmax = 46.3
+			text = "0"
+		intervals [5]:
+			xmin = 46.3
+			xmax = 96.35
+			text = ""
+		intervals [6]:
+			xmin = 96.35
+			xmax = 96.55
+			text = "0"
+		intervals [7]:
+			xmin = 96.55
+			xmax = 99.7
+			text = ""
+		intervals [8]:
+			xmin = 99.7
+			xmax = 102.8
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 102.8
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0.0
+			xmax = 3.43
+			text = ""
+		intervals [2]:
+			xmin = 3.43
+			xmax = 3.7
+			text = "0"
+		intervals [3]:
+			xmin = 3.7
+			xmax = 45.6
+			text = ""
+		intervals [4]:
+			xmin = 45.6
+			xmax = 46.3
+			text = "0"
+		intervals [5]:
+			xmin = 46.3
+			xmax = 96.35
+			text = ""
+		intervals [6]:
+			xmin = 96.35
+			xmax = 96.55
+			text = "0"
+		intervals [7]:
+			xmin = 96.55
+			xmax = 99.7
+			text = ""
+		intervals [8]:
+			xmin = 99.7
+			xmax = 102.8
+			text = "0"

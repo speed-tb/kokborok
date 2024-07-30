@@ -1,0 +1,176 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 147.3
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 147.3
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.1
+			text = "0"
+		intervals [2]:
+			xmin = 0.1
+			xmax = 26.3
+			text = ""
+		intervals [3]:
+			xmin = 26.3
+			xmax = 26.5
+			text = "0"
+		intervals [4]:
+			xmin = 26.5
+			xmax = 50.2
+			text = ""
+		intervals [5]:
+			xmin = 50.2
+			xmax = 50.4
+			text = "0"
+		intervals [6]:
+			xmin = 50.4
+			xmax = 116.1
+			text = ""
+		intervals [7]:
+			xmin = 116.1
+			xmax = 116.2
+			text = "0"
+		intervals [8]:
+			xmin = 116.2
+			xmax = 145.8
+			text = ""
+		intervals [9]:
+			xmin = 145.8
+			xmax = 147.3
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 147.3
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.1
+			text = "0"
+		intervals [2]:
+			xmin = 0.1
+			xmax = 26.3
+			text = ""
+		intervals [3]:
+			xmin = 26.3
+			xmax = 26.5
+			text = "0"
+		intervals [4]:
+			xmin = 26.5
+			xmax = 50.2
+			text = ""
+		intervals [5]:
+			xmin = 50.2
+			xmax = 50.4
+			text = "0"
+		intervals [6]:
+			xmin = 50.4
+			xmax = 116.1
+			text = ""
+		intervals [7]:
+			xmin = 116.1
+			xmax = 116.2
+			text = "0"
+		intervals [8]:
+			xmin = 116.2
+			xmax = 145.8
+			text = ""
+		intervals [9]:
+			xmin = 145.8
+			xmax = 147.3
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 147.3
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.1
+			text = "0"
+		intervals [2]:
+			xmin = 0.1
+			xmax = 26.3
+			text = "Amo bo kaisa public concern no, twi langka no jaga omotwi tongo je jaga public seniteson je tei save water tabuk bo kaham khe aswk ebelebwl wngya kho. Wngkai jeswk  mansak a jagarogo bo chwng omo, borokno koi wo je , twi nwngma swkang atleast borog jodi twino muthungwi twi phuti riwi nwngkha wngkai langkano beramni hoite borog omo banchiwi manani."
+		intervals [3]:
+			xmin = 26.3
+			xmax = 26.5
+			text = "0"
+		intervals [4]:
+			xmin = 26.5
+			xmax = 50.2
+			text = "Wngkhai twini bagwi bo wngo, twi hamya ma nungma bagwi, twi hamya tei moila je wngko ta sapsutra jodi tongyake twiphano wngthwng je chamani manwi, twi wngkha, chamani manwi wngkha, phatarni manwirog chaja kha wngke bising wngwi mano.Wngkai kami achoirogo kwbangkuk nukjak male twini bagwino hwnwi sajago. Twibo kaisa responsible."
+		intervals [5]:
+			xmin = 50.2
+			xmax = 50.4
+			text = "0"
+		intervals [6]:
+			xmin = 50.4
+			xmax = 116.1
+			text = "Wngkai treatment khe tamo tong?Bahai khe chwng treatment khlainai? Jephru wngko dehydration wngwi thango,tam hinai dairiya kwbang wngwi thango aphru tamo khainai? Dairiya wng khe chwng buphru dairiya hinjak bo khe,omono, jodi jeno chwng u patla je ungko hino patla paikhena je khimani o twi bisi thangkha hinkei, twi kwbang thangka hinkai, omo jodi salo waithamgni sai bisi wngka kai omono chwng dairiya hinwi khobo.Wngkai a jagao twi kwbangma lai thangka hwnkai, twini logi sombo chini bwsakni baire wng thango. Wngke a jorao u je dehydration wngmani amose besi bongni, cherairogni sorini bagwi belai siriyas wngwi thangwi mano ta.Wngkhe a dehydration puilao no abono romwi narwk maya hwnkai chwrai teibo siriyes wngwi thangwi mano kaham ke treatment maya kei, even thwi phano mano. Wngkhe a je dairiya wngphruno ajagao twi jodi thangkha hwnke bini khi jodi patla hwnkai a jora o no chwng ORS no chini nogo tongkha hwnkai suru khai rwimano ta even doctor rogni aro thangmani swkang no."
+		intervals [7]:
+			xmin = 116.1
+			xmax = 116.2
+			text = "0"
+		intervals [8]:
+			xmin = 116.2
+			xmax = 145.8
+			text = "Jephru belai khe khi wo, eba khima loge loge kwba wo omo hai bo wngo, wngka amo hai wngka kei, je wngnai bo belai khe kebel wngwi thango. A jorao no to ORS rwnani nango. Wngkhe ORS ni bisingo bo chwng baksa khe nogo swnam o hwnwi bo khanao tei baksa khe chwng peket je dukano man mani abono charw wo. Wngkei ang obo si puila nin thani saimana muchungo, je u peket je abo bwswk samungo nang, eba abo bwswk kaham sakni bagwi?"
+		intervals [9]:
+			xmin = 145.8
+			xmax = 147.3
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 147.3
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.1
+			text = "0"
+		intervals [2]:
+			xmin = 0.1
+			xmax = 26.3
+			text = ""
+		intervals [3]:
+			xmin = 26.3
+			xmax = 26.5
+			text = "0"
+		intervals [4]:
+			xmin = 26.5
+			xmax = 50.2
+			text = ""
+		intervals [5]:
+			xmin = 50.2
+			xmax = 50.4
+			text = "0"
+		intervals [6]:
+			xmin = 50.4
+			xmax = 116.1
+			text = ""
+		intervals [7]:
+			xmin = 116.1
+			xmax = 116.2
+			text = "0"
+		intervals [8]:
+			xmin = 116.2
+			xmax = 145.8
+			text = ""
+		intervals [9]:
+			xmin = 145.8
+			xmax = 147.3
+			text = "0"
